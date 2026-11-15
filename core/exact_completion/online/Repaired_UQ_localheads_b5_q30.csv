@@ -1,0 +1,31 @@
+table_id,stage,cohort,mode,batch,cap,N,eligible,groups,feasible,screen,order,method,stop,checks,verdict,wall_seconds,verifier_seconds,calls,unknowns
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,0,RC-VoA,45,793,-1,0.013464999999996508,0.012811500000680098,46,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,0,Exact MILP,45,793,-1,0.7538583000005019,0.7526829000007638,91,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,0,Pre-screen + full,95,1534,-1,0.0009927999999490567,0.00013660000149684492,1,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,1,RC-VoA,82,1271,-1,0.020655499999520543,0.019696600003044296,83,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,1,Exact MILP,82,1271,-1,1.0905631000005087,1.0886833999966257,165,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,1,Pre-screen + full,95,1534,-1,0.0010207000004811562,0.0001331999937974615,1,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,2,RC-VoA,23,382,-1,0.005853300000126183,0.00554809999812278,24,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,2,Exact MILP,23,382,-1,0.4444567000000461,0.4438615999988542,47,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,2,Pre-screen + full,95,1534,-1,0.0009877000002234126,0.00014060000103199854,1,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,3,RC-VoA,56,901,-1,0.01820029999998951,0.016674399994371925,57,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,3,Exact MILP,56,901,-1,1.022458600000391,1.0209933999976784,113,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,3,Pre-screen + full,95,1534,-1,0.0009491999999227119,0.00012209999749757117,1,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,4,RC-VoA,85,1394,-1,0.022257399999944028,0.021148500002709625,86,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,4,Exact MILP,85,1394,-1,1.0126141000000644,1.0104359999995722,171,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,4,Pre-screen + full,95,1534,-1,0.001421400000253925,0.00015729999631730607,1,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,5,RC-VoA,48,884,-1,0.011995899999419635,0.011390899994694337,49,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,5,Exact MILP,48,884,-1,0.6777150999996593,0.6765417999977217,97,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,5,Pre-screen + full,95,1534,-1,0.0014885000000504078,0.0003583999941838556,1,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,6,RC-VoA,47,828,-1,0.012018000000352913,0.011390600005142915,48,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,6,Exact MILP,47,828,-1,0.8973886000003404,0.896205099998042,95,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,6,Pre-screen + full,95,1534,-1,0.001105199999983597,0.0001505999962319038,1,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,7,RC-VoA,33,595,-1,0.010112699999808683,0.009642800001529395,34,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,7,Exact MILP,33,595,-1,0.5092685999998139,0.5084234000023571,67,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,7,Pre-screen + full,95,1534,-1,0.0009851000004346133,0.00013760000001639128,1,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,8,RC-VoA,43,775,-1,0.010896599999796308,0.010354700000789308,44,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,8,Exact MILP,43,775,-1,0.6364048999994338,0.6352679999981774,87,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,8,Pre-screen + full,95,1534,-1,0.0009848000008787494,0.0001284000018131337,1,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,9,RC-VoA,55,954,-1,0.014364300000124786,0.013691400002244336,56,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,9,Exact MILP,55,954,-1,0.7894142999994074,0.788020900002266,111,0
+Repaired_UQ_localheads_b5_q30,Repaired,UQ,localheads,5,30,1545,1534,95,False,False,9,Pre-screen + full,95,1534,-1,0.001031400000101712,0.00014050000936549623,1,0

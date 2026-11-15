@@ -1,0 +1,164 @@
+{
+  "status": "PASS",
+  "milps": 1524,
+  "main_20pct_results": [
+    {
+      "setting": "reference",
+      "family": "source_SP",
+      "imaging_pct": 20,
+      "tables": 36,
+      "feasible": 27,
+      "feasible_pct": 75.0,
+      "newly_feasible": 0,
+      "newly_infeasible": 0,
+      "support_failure": 9,
+      "capacity_only": 0
+    },
+    {
+      "setting": "reference",
+      "family": "primary",
+      "imaging_pct": 20,
+      "tables": 100,
+      "feasible": 1,
+      "feasible_pct": 1.0,
+      "newly_feasible": 0,
+      "newly_infeasible": 0,
+      "support_failure": 99,
+      "capacity_only": 0
+    },
+    {
+      "setting": "reference",
+      "family": "repaired",
+      "imaging_pct": 20,
+      "tables": 100,
+      "feasible": 14,
+      "feasible_pct": 14.0,
+      "newly_feasible": 0,
+      "newly_infeasible": 0,
+      "support_failure": 86,
+      "capacity_only": 0
+    },
+    {
+      "setting": "AK_noncancer",
+      "family": "source_SP",
+      "imaging_pct": 20,
+      "tables": 36,
+      "feasible": 27,
+      "feasible_pct": 75.0,
+      "newly_feasible": 0,
+      "newly_infeasible": 0,
+      "support_failure": 9,
+      "capacity_only": 0
+    },
+    {
+      "setting": "AK_noncancer",
+      "family": "primary",
+      "imaging_pct": 20,
+      "tables": 100,
+      "feasible": 1,
+      "feasible_pct": 1.0,
+      "newly_feasible": 0,
+      "newly_infeasible": 0,
+      "support_failure": 99,
+      "capacity_only": 0
+    },
+    {
+      "setting": "AK_noncancer",
+      "family": "repaired",
+      "imaging_pct": 20,
+      "tables": 100,
+      "feasible": 14,
+      "feasible_pct": 14.0,
+      "newly_feasible": 0,
+      "newly_infeasible": 0,
+      "support_failure": 86,
+      "capacity_only": 0
+    },
+    {
+      "setting": "endpoint_complete_case",
+      "family": "source_SP",
+      "imaging_pct": 20,
+      "tables": 36,
+      "feasible": 27,
+      "feasible_pct": 75.0,
+      "newly_feasible": 0,
+      "newly_infeasible": 0,
+      "support_failure": 9,
+      "capacity_only": 0
+    },
+    {
+      "setting": "endpoint_complete_case",
+      "family": "primary",
+      "imaging_pct": 20,
+      "tables": 100,
+      "feasible": 1,
+      "feasible_pct": 1.0,
+      "newly_feasible": 0,
+      "newly_infeasible": 0,
+      "support_failure": 99,
+      "capacity_only": 0
+    },
+    {
+      "setting": "endpoint_complete_case",
+      "family": "repaired",
+      "imaging_pct": 20,
+      "tables": 100,
+      "feasible": 13,
+      "feasible_pct": 13.0,
+      "newly_feasible": 0,
+      "newly_infeasible": 1,
+      "support_failure": 87,
+      "capacity_only": 0
+    }
+  ],
+  "repair_gain": [
+    {
+      "setting": "reference",
+      "imaging_pct": 15,
+      "configurations": 100,
+      "primary_feasible": 1,
+      "repaired_feasible": 14,
+      "observed_gain_pp": 13
+    },
+    {
+      "setting": "reference",
+      "imaging_pct": 20,
+      "configurations": 100,
+      "primary_feasible": 1,
+      "repaired_feasible": 14,
+      "observed_gain_pp": 13
+    },
+    {
+      "setting": "AK_noncancer",
+      "imaging_pct": 15,
+      "configurations": 100,
+      "primary_feasible": 1,
+      "repaired_feasible": 14,
+      "observed_gain_pp": 13
+    },
+    {
+      "setting": "AK_noncancer",
+      "imaging_pct": 20,
+      "configurations": 100,
+      "primary_feasible": 1,
+      "repaired_feasible": 14,
+      "observed_gain_pp": 13
+    },
+    {
+      "setting": "endpoint_complete_case",
+      "imaging_pct": 15,
+      "configurations": 100,
+      "primary_feasible": 1,
+      "repaired_feasible": 13,
+      "observed_gain_pp": 12
+    },
+    {
+      "setting": "endpoint_complete_case",
+      "imaging_pct": 20,
+      "configurations": 100,
+      "primary_feasible": 1,
+      "repaired_feasible": 13,
+      "observed_gain_pp": 12
+    }
+  ]
+}

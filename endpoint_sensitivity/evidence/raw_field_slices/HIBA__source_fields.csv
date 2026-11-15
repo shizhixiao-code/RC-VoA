@@ -1,0 +1,299 @@
+lesion_id,patient_id,benign_malignant,diagnosis,diagnosis_confirm_type,concomitant_biopsy
+IL_0051948,IP_8107767,benign,vascular lesion,,False
+IL_0060490,IP_0031063,malignant,melanoma,histopathology,True
+IL_0060683,IP_7442897,malignant,melanoma,histopathology,True
+IL_0174675,IP_3418123,malignant,melanoma,histopathology,True
+IL_0176882,IP_3302800,malignant,squamous cell carcinoma,histopathology,True
+IL_0235947,IP_1914877,malignant,squamous cell carcinoma,histopathology,True
+IL_0247953,IP_9079253,malignant,melanoma,histopathology,True
+IL_0256906,IP_0500329,benign,nevus,histopathology,True
+IL_0293819,IP_4891909,benign,nevus,,False
+IL_0316981,IP_3342129,malignant,basal cell carcinoma,histopathology,True
+IL_0337405,IP_1773325,malignant,squamous cell carcinoma,histopathology,True
+IL_0370820,IP_5828031,malignant,squamous cell carcinoma,histopathology,True
+IL_0400264,IP_5430722,malignant,melanoma,histopathology,True
+IL_0452159,IP_1773608,malignant,basal cell carcinoma,histopathology,True
+IL_0455383,IP_5801898,malignant,basal cell carcinoma,histopathology,True
+IL_0462608,IP_6558273,malignant,basal cell carcinoma,histopathology,True
+IL_0498308,IP_3060715,benign,actinic keratosis,,False
+IL_0520999,IP_3150219,malignant,basal cell carcinoma,histopathology,True
+IL_0526105,IP_5048300,malignant,basal cell carcinoma,histopathology,True
+IL_0533405,IP_7550129,malignant,basal cell carcinoma,histopathology,True
+IL_0602189,IP_8107767,benign,vascular lesion,,False
+IL_0652737,IP_6093731,malignant,basal cell carcinoma,histopathology,True
+IL_0729649,IP_0031063,benign,nevus,,False
+IL_0766796,IP_5966083,malignant,basal cell carcinoma,histopathology,True
+IL_0786376,IP_8779056,benign,dermatofibroma,histopathology,True
+IL_0822230,IP_0383433,malignant,basal cell carcinoma,histopathology,True
+IL_0834101,IP_5138682,malignant,melanoma,histopathology,True
+IL_0873714,IP_1059364,malignant,basal cell carcinoma,histopathology,True
+IL_0879434,IP_2118132,malignant,basal cell carcinoma,histopathology,True
+IL_0896205,IP_8404073,benign,nevus,histopathology,True
+IL_0909134,IP_5625034,benign,actinic keratosis,histopathology,True
+IL_0941887,IP_5828031,malignant,basal cell carcinoma,histopathology,True
+IL_0983679,IP_1418688,malignant,squamous cell carcinoma,histopathology,True
+IL_0998127,IP_6089636,benign,seborrheic keratosis,,False
+IL_1022413,IP_6640998,malignant,basal cell carcinoma,histopathology,True
+IL_1035115,IP_8694186,benign,vascular lesion,,False
+IL_1035603,IP_3373935,malignant,basal cell carcinoma,histopathology,True
+IL_1038560,IP_5543648,malignant,basal cell carcinoma,histopathology,True
+IL_1045215,IP_6754451,malignant,basal cell carcinoma,histopathology,True
+IL_1120407,IP_1173614,malignant,basal cell carcinoma,histopathology,True
+IL_1123157,IP_2304858,benign,dermatofibroma,,False
+IL_1134487,IP_1117498,malignant,melanoma,histopathology,True
+IL_1160690,IP_3682931,benign,nevus,histopathology,True
+IL_1248740,IP_1418688,malignant,squamous cell carcinoma,histopathology,True
+IL_1309007,IP_6558273,benign,seborrheic keratosis,histopathology,True
+IL_1427673,IP_7923120,malignant,basal cell carcinoma,histopathology,True
+IL_1454921,IP_2118132,malignant,basal cell carcinoma,histopathology,True
+IL_1486711,IP_6555777,malignant,melanoma,histopathology,True
+IL_1581392,IP_5488862,malignant,melanoma,histopathology,True
+IL_1605286,IP_6714333,malignant,basal cell carcinoma,histopathology,True
+IL_1663524,IP_6003393,benign,nevus,,False
+IL_1669261,IP_2080217,malignant,basal cell carcinoma,histopathology,True
+IL_1694184,IP_5801898,malignant,basal cell carcinoma,histopathology,True
+IL_1775432,IP_7203368,benign,nevus,histopathology,True
+IL_1778616,IP_1319015,malignant,basal cell carcinoma,histopathology,True
+IL_1866559,IP_3019489,benign,nevus,histopathology,True
+IL_1878538,IP_4253242,malignant,basal cell carcinoma,histopathology,True
+IL_1954016,IP_0232163,benign,nevus,,False
+IL_1956821,IP_2692251,benign,actinic keratosis,,False
+IL_1994979,IP_8694186,benign,vascular lesion,,False
+IL_2025836,IP_5398777,malignant,basal cell carcinoma,histopathology,True
+IL_2089622,IP_0412162,malignant,basal cell carcinoma,histopathology,True
+IL_2090686,IP_5091395,malignant,basal cell carcinoma,histopathology,True
+IL_2139148,IP_9436253,benign,dermatofibroma,histopathology,True
+IL_2144167,IP_8369422,malignant,squamous cell carcinoma,histopathology,True
+IL_2147560,IP_7559190,benign,seborrheic keratosis,histopathology,True
+IL_2257174,IP_1780405,malignant,squamous cell carcinoma,histopathology,True
+IL_2291469,IP_8693311,benign,actinic keratosis,,False
+IL_2307963,IP_1040510,benign,nevus,histopathology,True
+IL_2407401,IP_0031063,malignant,basal cell carcinoma,histopathology,True
+IL_2429626,IP_1729411,malignant,squamous cell carcinoma,histopathology,True
+IL_2452828,IP_1319015,malignant,basal cell carcinoma,histopathology,True
+IL_2473888,IP_3404622,benign,actinic keratosis,,False
+IL_2485486,IP_8947694,benign,actinic keratosis,histopathology,True
+IL_2529443,IP_6328281,benign,nevus,histopathology,True
+IL_2551859,IP_4805821,malignant,melanoma,histopathology,True
+IL_2584095,IP_0093557,malignant,squamous cell carcinoma,histopathology,True
+IL_2585638,IP_3530264,malignant,basal cell carcinoma,histopathology,True
+IL_2606689,IP_5701997,malignant,squamous cell carcinoma,histopathology,True
+IL_2635206,IP_7923120,benign,actinic keratosis,,False
+IL_2659423,IP_1414430,malignant,squamous cell carcinoma,histopathology,True
+IL_2668525,IP_7513820,malignant,basal cell carcinoma,histopathology,True
+IL_2686098,IP_8867554,malignant,squamous cell carcinoma,histopathology,True
+IL_2793518,IP_1221322,malignant,melanoma,histopathology,True
+IL_2912868,IP_4291496,malignant,melanoma,histopathology,True
+IL_2917009,IP_0232163,benign,nevus,histopathology,True
+IL_2920159,IP_3702153,benign,seborrheic keratosis,histopathology,True
+IL_2965116,IP_0276872,benign,vascular lesion,,False
+IL_2978481,IP_7351253,benign,dermatofibroma,,False
+IL_3011668,IP_1248331,malignant,basal cell carcinoma,histopathology,True
+IL_3023782,IP_1589808,malignant,basal cell carcinoma,histopathology,True
+IL_3035673,IP_8779056,benign,nevus,histopathology,True
+IL_3039529,IP_6872677,malignant,basal cell carcinoma,histopathology,True
+IL_3063049,IP_6610729,benign,seborrheic keratosis,histopathology,True
+IL_3066011,IP_4641203,malignant,squamous cell carcinoma,histopathology,True
+IL_3070676,IP_6783333,malignant,basal cell carcinoma,histopathology,True
+IL_3077206,IP_1344764,benign,seborrheic keratosis,,False
+IL_3083015,IP_2967644,malignant,squamous cell carcinoma,histopathology,True
+IL_3177073,IP_7884622,malignant,squamous cell carcinoma,histopathology,True
+IL_3211111,IP_1218261,malignant,melanoma,histopathology,True
+IL_3250161,IP_9393377,malignant,melanoma,histopathology,True
+IL_3266357,IP_2081101,malignant,basal cell carcinoma,histopathology,True
+IL_3312003,IP_9935521,benign,nevus,histopathology,True
+IL_3341905,IP_5842685,malignant,basal cell carcinoma,histopathology,True
+IL_3383993,IP_3342129,malignant,basal cell carcinoma,histopathology,True
+IL_3412296,IP_8624681,malignant,basal cell carcinoma,histopathology,True
+IL_3417598,IP_7428337,malignant,basal cell carcinoma,histopathology,True
+IL_3440737,IP_7559190,malignant,melanoma,histopathology,True
+IL_3529997,IP_4260877,benign,seborrheic keratosis,histopathology,True
+IL_3557062,IP_8107767,benign,seborrheic keratosis,,False
+IL_3601366,IP_0240453,malignant,melanoma,histopathology,True
+IL_3632801,IP_6640998,malignant,melanoma,histopathology,True
+IL_3664250,IP_3702153,benign,seborrheic keratosis,histopathology,True
+IL_3798662,IP_0682714,malignant,melanoma,histopathology,True
+IL_3801788,IP_2413128,benign,nevus,histopathology,True
+IL_3803224,IP_7762922,benign,dermatofibroma,,False
+IL_3807827,IP_1561363,malignant,melanoma,histopathology,True
+IL_3861159,IP_4790522,malignant,melanoma,histopathology,True
+IL_3865867,IP_1117498,malignant,squamous cell carcinoma,histopathology,True
+IL_3895709,IP_3915964,malignant,basal cell carcinoma,histopathology,True
+IL_3918161,IP_5230560,benign,dermatofibroma,,False
+IL_3928264,IP_0778689,benign,seborrheic keratosis,,False
+IL_3947218,IP_2080217,malignant,basal cell carcinoma,histopathology,True
+IL_3984045,IP_9800473,benign,dermatofibroma,,False
+IL_4038060,IP_5485052,malignant,basal cell carcinoma,histopathology,True
+IL_4052831,IP_9929036,malignant,basal cell carcinoma,histopathology,True
+IL_4193678,IP_4307149,malignant,squamous cell carcinoma,histopathology,True
+IL_4336943,IP_3739383,malignant,squamous cell carcinoma,histopathology,True
+IL_4358060,IP_7248754,benign,nevus,histopathology,True
+IL_4374423,IP_5842685,malignant,basal cell carcinoma,histopathology,True
+IL_4406287,IP_1344764,benign,actinic keratosis,,False
+IL_4436851,IP_0212365,malignant,melanoma,histopathology,True
+IL_4437201,IP_2754431,malignant,squamous cell carcinoma,histopathology,True
+IL_4489985,IP_0290734,malignant,basal cell carcinoma,histopathology,True
+IL_4512262,IP_4216830,malignant,melanoma,histopathology,True
+IL_4524069,IP_6558273,benign,nevus,histopathology,True
+IL_4559146,IP_7960361,benign,seborrheic keratosis,histopathology,True
+IL_4606486,IP_9586825,malignant,melanoma,histopathology,True
+IL_4609375,IP_9503214,benign,nevus,,False
+IL_4681551,IP_1100982,malignant,basal cell carcinoma,histopathology,True
+IL_4683423,IP_6754451,malignant,melanoma,histopathology,True
+IL_4757470,IP_9786236,benign,solar lentigo,,False
+IL_4771776,IP_7800510,malignant,squamous cell carcinoma,histopathology,True
+IL_4800880,IP_3530264,malignant,basal cell carcinoma,histopathology,True
+IL_4838500,IP_7442897,malignant,squamous cell carcinoma,histopathology,True
+IL_4874075,IP_3388406,malignant,basal cell carcinoma,histopathology,True
+IL_4885444,IP_9947705,benign,nevus,histopathology,True
+IL_4890198,IP_8382257,malignant,squamous cell carcinoma,histopathology,True
+IL_4891081,IP_0325006,malignant,melanoma,histopathology,True
+IL_4901291,IP_8947694,malignant,basal cell carcinoma,histopathology,True
+IL_4911898,IP_5265455,benign,dermatofibroma,,False
+IL_4970090,IP_0031063,malignant,basal cell carcinoma,histopathology,True
+IL_4995475,IP_5549808,malignant,basal cell carcinoma,histopathology,True
+IL_5005356,IP_9093111,malignant,melanoma,histopathology,True
+IL_5041050,IP_0551634,malignant,basal cell carcinoma,histopathology,True
+IL_5047846,IP_0232163,benign,nevus,histopathology,True
+IL_5173845,IP_4744338,benign,actinic keratosis,histopathology,True
+IL_5221633,IP_8464178,malignant,melanoma,histopathology,True
+IL_5244040,IP_6819963,malignant,basal cell carcinoma,histopathology,True
+IL_5313721,IP_6728907,benign,nevus,histopathology,True
+IL_5334768,IP_6003393,benign,dermatofibroma,,False
+IL_5354427,IP_0212365,malignant,melanoma,histopathology,True
+IL_5370176,IP_3371330,malignant,basal cell carcinoma,histopathology,True
+IL_5384200,IP_2681150,malignant,squamous cell carcinoma,histopathology,True
+IL_5404208,IP_2434850,malignant,squamous cell carcinoma,histopathology,True
+IL_5443888,IP_4336233,malignant,squamous cell carcinoma,histopathology,True
+IL_5475527,IP_5251892,malignant,squamous cell carcinoma,histopathology,True
+IL_5490451,IP_6555777,malignant,basal cell carcinoma,histopathology,True
+IL_5502639,IP_7526334,malignant,melanoma,histopathology,True
+IL_5507125,IP_2427319,malignant,basal cell carcinoma,histopathology,True
+IL_5507680,IP_7298406,malignant,basal cell carcinoma,histopathology,True
+IL_5520788,IP_6783333,benign,nevus,histopathology,True
+IL_5626445,IP_7808184,malignant,basal cell carcinoma,histopathology,True
+IL_5638546,IP_1942334,benign,nevus,histopathology,True
+IL_5682932,IP_5543648,malignant,basal cell carcinoma,histopathology,True
+IL_5699623,IP_3682931,benign,actinic keratosis,histopathology,True
+IL_5705728,IP_4097598,benign,nevus,histopathology,True
+IL_5720550,IP_2081101,malignant,basal cell carcinoma,histopathology,True
+IL_5765588,IP_2359644,benign,vascular lesion,,False
+IL_5806562,IP_0031063,benign,nevus,,False
+IL_5825485,IP_3342129,benign,dermatofibroma,,False
+IL_5856523,IP_3279811,malignant,melanoma,histopathology,True
+IL_5856952,IP_9503214,benign,nevus,,False
+IL_5870994,IP_4473222,malignant,basal cell carcinoma,histopathology,True
+IL_5890741,IP_0281050,malignant,basal cell carcinoma,histopathology,True
+IL_5968442,IP_1371309,benign,dermatofibroma,,False
+IL_5969628,IP_6579706,malignant,basal cell carcinoma,histopathology,True
+IL_6014689,IP_3150219,malignant,melanoma,histopathology,True
+IL_6020575,IP_4393692,malignant,basal cell carcinoma,histopathology,True
+IL_6022331,IP_1319015,malignant,basal cell carcinoma,histopathology,True
+IL_6032807,IP_6566825,benign,nevus,histopathology,True
+IL_6036150,IP_5430722,malignant,squamous cell carcinoma,histopathology,True
+IL_6061997,IP_1773325,benign,nevus,histopathology,True
+IL_6066818,IP_1226729,malignant,basal cell carcinoma,histopathology,True
+IL_6201048,IP_0212365,malignant,melanoma,histopathology,True
+IL_6263448,IP_1549548,benign,actinic keratosis,,False
+IL_6271464,IP_0412162,malignant,basal cell carcinoma,histopathology,True
+IL_6342673,IP_0031063,benign,seborrheic keratosis,,False
+IL_6361168,IP_4473222,malignant,basal cell carcinoma,histopathology,True
+IL_6467350,IP_7428337,benign,nevus,,False
+IL_6538837,IP_0412162,malignant,basal cell carcinoma,histopathology,True
+IL_6588725,IP_7428337,benign,solar lentigo,,False
+IL_6640027,IP_8388966,malignant,squamous cell carcinoma,histopathology,True
+IL_6794721,IP_3682931,benign,nevus,histopathology,True
+IL_6812801,IP_3150219,malignant,squamous cell carcinoma,histopathology,True
+IL_6821221,IP_6251525,malignant,melanoma,histopathology,True
+IL_6841868,IP_5804995,malignant,melanoma,histopathology,True
+IL_6844641,IP_1319015,malignant,basal cell carcinoma,histopathology,True
+IL_6848602,IP_0221369,malignant,squamous cell carcinoma,histopathology,True
+IL_6898262,IP_8107767,benign,vascular lesion,,False
+IL_6936924,IP_7362744,malignant,melanoma,histopathology,True
+IL_6961144,IP_1218261,malignant,melanoma,histopathology,True
+IL_6968885,IP_2440667,malignant,basal cell carcinoma,histopathology,True
+IL_7041260,IP_7256360,benign,actinic keratosis,histopathology,True
+IL_7079473,IP_0123674,benign,dermatofibroma,histopathology,True
+IL_7131880,IP_7808184,malignant,melanoma,histopathology,True
+IL_7224729,IP_6872677,malignant,squamous cell carcinoma,histopathology,True
+IL_7229255,IP_1319015,malignant,basal cell carcinoma,histopathology,True
+IL_7247003,IP_0601118,malignant,basal cell carcinoma,histopathology,True
+IL_7279125,IP_4513580,malignant,basal cell carcinoma,histopathology,True
+IL_7294588,IP_1371309,benign,dermatofibroma,,False
+IL_7302914,IP_9086452,malignant,basal cell carcinoma,histopathology,True
+IL_7370033,IP_7670614,benign,nevus,histopathology,True
+IL_7399308,IP_7923120,malignant,squamous cell carcinoma,histopathology,True
+IL_7404456,IP_8165031,benign,lichenoid keratosis,,False
+IL_7436943,IP_7884622,malignant,basal cell carcinoma,histopathology,True
+IL_7500912,IP_2933627,benign,dermatofibroma,histopathology,True
+IL_7571871,IP_1724147,malignant,basal cell carcinoma,histopathology,True
+IL_7588215,IP_3389004,benign,nevus,histopathology,True
+IL_7601203,IP_5230560,malignant,melanoma,histopathology,True
+IL_7614927,IP_6579706,benign,seborrheic keratosis,histopathology,True
+IL_7625655,IP_9155557,malignant,squamous cell carcinoma,histopathology,True
+IL_7629840,IP_0991357,benign,seborrheic keratosis,histopathology,True
+IL_7758603,IP_4270560,malignant,squamous cell carcinoma,histopathology,True
+IL_7782929,IP_0093557,malignant,melanoma,histopathology,True
+IL_7949381,IP_7872950,malignant,squamous cell carcinoma,histopathology,True
+IL_8001964,IP_8857970,malignant,basal cell carcinoma,histopathology,True
+IL_8012686,IP_9116795,malignant,basal cell carcinoma,histopathology,True
+IL_8063573,IP_6578239,benign,dermatofibroma,,False
+IL_8088150,IP_7765996,benign,nevus,histopathology,True
+IL_8168888,IP_6579706,malignant,squamous cell carcinoma,histopathology,True
+IL_8169413,IP_8408163,malignant,melanoma,histopathology,True
+IL_8214313,IP_3580447,malignant,melanoma,histopathology,True
+IL_8218104,IP_3342129,benign,seborrheic keratosis,,False
+IL_8239498,IP_7256360,malignant,squamous cell carcinoma,histopathology,True
+IL_8406844,IP_6588465,malignant,melanoma,histopathology,True
+IL_8571682,IP_0545294,malignant,melanoma,histopathology,True
+IL_8573962,IP_9002218,malignant,basal cell carcinoma,histopathology,True
+IL_8605960,IP_3682931,malignant,melanoma,histopathology,True
+IL_8606570,IP_6728907,benign,nevus,histopathology,True
+IL_8628562,IP_1319015,malignant,basal cell carcinoma,histopathology,True
+IL_8656384,IP_2118132,benign,nevus,histopathology,True
+IL_8672238,IP_8945353,malignant,basal cell carcinoma,histopathology,True
+IL_8678803,IP_2738763,benign,seborrheic keratosis,,False
+IL_8688599,IP_2175925,malignant,basal cell carcinoma,histopathology,True
+IL_8738429,IP_0778689,malignant,basal cell carcinoma,histopathology,True
+IL_8887018,IP_5527482,benign,nevus,histopathology,True
+IL_8887437,IP_2738763,malignant,basal cell carcinoma,histopathology,True
+IL_8889739,IP_6123331,benign,seborrheic keratosis,histopathology,True
+IL_8942388,IP_4932731,benign,actinic keratosis,histopathology,True
+IL_8955295,IP_2359644,malignant,melanoma,histopathology,True
+IL_9000367,IP_4626612,malignant,melanoma,histopathology,True
+IL_9024769,IP_0685905,benign,dermatofibroma,histopathology,True
+IL_9035337,IP_0031063,benign,nevus,,False
+IL_9049450,IP_2208139,benign,actinic keratosis,histopathology,True
+IL_9069382,IP_0147267,malignant,basal cell carcinoma,histopathology,True
+IL_9092931,IP_7513395,malignant,basal cell carcinoma,histopathology,True
+IL_9143711,IP_6251525,benign,nevus,histopathology,True
+IL_9163996,IP_1612316,benign,actinic keratosis,,False
+IL_9195889,IP_2681150,malignant,squamous cell carcinoma,histopathology,True
+IL_9222824,IP_0147267,malignant,basal cell carcinoma,histopathology,True
+IL_9247514,IP_3235188,malignant,melanoma,histopathology,True
+IL_9261445,IP_4577038,malignant,basal cell carcinoma,histopathology,True
+IL_9265651,IP_6558273,benign,nevus,histopathology,True
+IL_9299492,IP_0031063,malignant,basal cell carcinoma,histopathology,True
+IL_9330933,IP_6558273,malignant,basal cell carcinoma,histopathology,True
+IL_9353525,IP_4567280,benign,nevus,histopathology,True
+IL_9366956,IP_3682931,malignant,basal cell carcinoma,histopathology,True
+IL_9391482,IP_5650689,benign,nevus,histopathology,True
+IL_9453442,IP_5091395,benign,nevus,histopathology,True
+IL_9505800,IP_5650689,malignant,basal cell carcinoma,histopathology,True
+IL_9520027,IP_2495114,benign,dermatofibroma,,False
+IL_9587318,IP_2079372,malignant,basal cell carcinoma,histopathology,True
+IL_9624120,IP_8785134,benign,seborrheic keratosis,,False
+IL_9626445,IP_8812719,benign,dermatofibroma,,False
+IL_9685676,IP_4097598,benign,seborrheic keratosis,histopathology,True
+IL_9686443,IP_5924149,malignant,basal cell carcinoma,histopathology,True
+IL_9726141,IP_1914877,malignant,basal cell carcinoma,histopathology,True
+IL_9777032,IP_6444963,malignant,basal cell carcinoma,histopathology,True
+IL_9784934,IP_9621492,malignant,basal cell carcinoma,histopathology,True
+IL_9809892,IP_0276872,benign,nevus,,False
+IL_9826099,IP_3451310,malignant,squamous cell carcinoma,histopathology,True
+IL_9840135,IP_7923120,malignant,basal cell carcinoma,histopathology,True
+IL_9859418,IP_9503214,benign,solar lentigo,,False
+IL_9875496,IP_4891909,benign,dermatofibroma,,False
+IL_9884616,IP_3612977,benign,dermatofibroma,,False
+IL_9889961,IP_6959152,benign,nevus,histopathology,True
+IL_9975476,IP_5892304,malignant,melanoma,histopathology,True

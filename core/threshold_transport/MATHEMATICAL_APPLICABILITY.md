@@ -1,0 +1,15 @@
+# Applicability with B = S_local and R = source S
+
+Each case's clinical threshold is fixed by another calibration fold. The paired source-P threshold and reference source-S decision are fixed. None depends on the acquired subset. Thus the complete-criterion fixed-table premise holds, also for the concatenated cross-fitted table. The concatenation is an audit object; it does not define a single scalar clinical threshold for deployment.
+
+Proposition 1's fixed-target pool allocation alone does not enforce an additional, distinct protected reference. We use the existing complete-criterion extension (main Section II-D workload limits and six margin blocks; Supplement S3), which already permits arbitrary B and R. It does not assume B = R or that either positive set contains the other.
+
+Let A = B OR R and M_req = {Y=1, R=1, B=0}. Every member of M_req must be acquired and pair-positive; any unavailable member makes the criterion impossible. These mandatory detections restore the union A. Additional subtype and pooled shortfalls are then measured against A, giving t* = |M_req| + t(A). Enough subtype-specific upgrades and total cancer upgrades are necessary and sufficient to realize these t* protected additions. Original B-detected cancers cannot be selected for a pair-negative downgrade.
+
+The required benign reductions m compare FP counts against both B and R. The flag ceiling also compares against both; with t* upgrades, r = max(m, t* + F_B - F_max) safe downgrades are needed. Available benign downgrades must cover m, all benign/excluded downgrades must cover r, and K must cover t* + r. These are exactly the existing six margin blocks. Choosing benign before excluded downgrades constructs a minimum acquisition witness when all supports hold. No cancer removed from B by local thresholding disappears from protection if it was detected by R.
+
+The six margins characterize at-most-K feasibility. The existing complete-rule quota mask additionally checks safe padding to exact K and a fixed negative-pool quota; its result is tested separately rather than assuming exact volume from an at-most certificate.
+
+Independent numerical validation uses one binary variable per lesion and final decision D_i = B_i + (D_pair,i - B_i)x_i. It imposes the original pooled/subtype detection counts, flag/FP limits, individual protection of every cancer in B OR R, and optional exact volume/quota. It does not use support counts, t*, m, r, or the closed-form margins. Returned witnesses are checked against the original clinical requirements. The validation receipt records minimum/exact-volume/quota agreement over every reported table and budget. The old source-S/P 36-table outcomes are reproduced as a regression control.
+
+The interval verification formulas also allow arbitrary fixed B and R and bound the same six margins. Their theoretical applicability is unchanged. This robustness experiment adds allocation audits, not a new retrieval-cost study; existing verification results and denominators are not expanded or reinterpreted.

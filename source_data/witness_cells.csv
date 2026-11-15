@@ -1,0 +1,18 @@
+table_id,diagnosis,B,P,R,count
+repaired__UQ__headonly__f0__q50,BCC,0,1,1,2
+repaired__UQ__headonly__f0__q50,Benign,1,0,0,1
+repaired__UQ__headonly__f0__q50,Benign,1,0,1,156
+repaired__UQ__headonly__f0__q50,Excluded,1,0,1,3
+repaired__UQ__headonly__f0__q50,Melanoma,0,1,1,1
+repaired__UQ__headonly__f0__q50,SCC NOS,0,1,1,1
+repaired__UQ__localheads__f3__q50,BCC,0,1,1,1
+repaired__UQ__localheads__f3__q50,Benign,1,0,1,155
+repaired__UQ__localheads__f3__q50,Excluded,1,0,1,2
+repaired__UQ__localheads__f3__q50,Melanoma,0,1,1,1
+repaired__UQ__localheads__f3__q50,SCC NOS,0,1,1,1
+repaired__UQ__multiscale__f2__q50,BCC,0,1,1,2
+repaired__UQ__multiscale__f2__q50,Benign,1,0,0,1
+repaired__UQ__multiscale__f2__q50,Benign,1,0,1,159
+repaired__UQ__multiscale__f2__q50,Excluded,1,0,1,2
+repaired__UQ__multiscale__f2__q50,Melanoma,0,1,1,2
+repaired__UQ__multiscale__f2__q50,SCC NOS,0,1,1,2

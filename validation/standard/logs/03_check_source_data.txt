@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "configurations": 50,
+  "matched_policy_rows": 150,
+  "policies": {
+    "Clinical-risk": {
+      "configurations": 50,
+      "oracle_feasible": 10,
+      "passes": 0,
+      "conditional_passes": 0
+    },
+    "Proximity": {
+      "configurations": 50,
+      "oracle_feasible": 10,
+      "passes": 0,
+      "conditional_passes": 0
+    },
+    "Transition-aware": {
+      "configurations": 50,
+      "oracle_feasible": 10,
+      "passes": 0,
+      "conditional_passes": 0
+    }
+  },
+  "figure3_rows": 10,
+  "first_failures": {
+    "quota": 4,
+    "selection": 6
+  },
+  "tableIII_minimum_witnesses": 3
+}
+Figure 4 / Table SVI: PASS; 20,000 verdicts, 4,100 identical infeasible stops, 560 online pairs.
+{
+  "status": "PASS",
+  "table_profile_rows": 1652,
+  "system_cohort_rows": 76,
+  "hashes_checked": 3,
+  "reference_batch_counts": [
+    7,
+    0,
+    4,
+    3,
+    0
+  ]
+}

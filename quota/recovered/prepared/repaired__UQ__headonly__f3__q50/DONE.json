@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:10:29.143601+00:00",
+  "context": "repaired__UQ__headonly__f3__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__headonly__f3__q50_design_clinical.npz": "c8021b30de3185c1fc5521ecc941720bdfdb9226f2f9ec4e88435444c3a4e1b5",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__headonly__f3__q50_calibration_clinical.npz": "aa1e2afd7efe1c83adaf97e493877d3d8a3a9f5c98f1f075f68425086695075e",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__headonly__f3__q50_evaluation_clinical.npz": "17f9186cb4e9e8d05e8416506bbda1e60f471d57df4dccd7495d9148f7a8f5a1",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__headonly__f3__q50_design_outcomes.npz": "852b86c2e2f8ef06a8f86afeeeb6b4f028ad8aa169172b5bb796d1de2079aa30",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__headonly__f3__q50_calibration_outcomes.npz": "4bdb03386174171704ea9aac1f1f8a74e0df818076767a1dc9edb3d6b9064e4d",
+    "rcvoa_selector_rebuild_20261027\\data\\UQ_pca_f3.npz": "b498e1536497c8869e8cf77710938e5d7464dce8b5ebf05e535eae8033c1d930"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "71359cd01800cbae39b44cc0cbd0e64a5ce082de7ec5b79421aaff58c08d23f7",
+    "policy.json": "ae342a50114de0a77231f2328c3e13d50a216e61088ccc635ddf14870563c2f2",
+    "probabilities.npz": "cbc59ec7bc3386d202525354c0f4c44a3405015b8b1f0fcde99a3b37e2fb30bd",
+    "selected_ids.csv": "0caf1106f4a50ea704562de3f495f1e1d6ca33eefac8b828538e73a13c888cc6",
+    "selection.npz": "e2e7df14aa59b703fcef6debd96b66c25a678703b94a3905a77a62b148af9397",
+    "selector.joblib": "8f647bb16637e0be585b8314909b7fd0ab5bae0c50e08a9d5e6df20ece9d7cd8"
+  }
+}

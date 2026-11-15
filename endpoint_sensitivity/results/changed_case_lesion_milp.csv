@@ -1,0 +1,7 @@
+table_id,setting,imaging_pct,N,K,variables,solver_status,feasible,minimum_images,required_rescues,available_total_downgrades,required_total_downgrades,downgrade_margin
+Repaired_UQ_localheads_b3_q50,reference,15,1558,233,1558,0,True,164,4,160,160,0
+Repaired_UQ_localheads_b3_q50,reference,20,1558,311,1558,0,True,164,4,160,160,0
+Repaired_UQ_localheads_b3_q50,AK_noncancer,15,1558,233,1558,0,True,164,4,160,160,0
+Repaired_UQ_localheads_b3_q50,AK_noncancer,20,1558,311,1558,0,True,164,4,160,160,0
+Repaired_UQ_localheads_b3_q50,endpoint_complete_case,15,1547,232,1547,2,False,-1,4,158,159,-1
+Repaired_UQ_localheads_b3_q50,endpoint_complete_case,20,1547,309,1547,2,False,-1,4,158,159,-1

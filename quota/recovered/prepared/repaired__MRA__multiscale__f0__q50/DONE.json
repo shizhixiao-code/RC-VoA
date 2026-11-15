@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:36.342379+00:00",
+  "context": "repaired__MRA__multiscale__f0__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f0__q50_design_clinical.npz": "472d18f1e8091b9554384154e40feaed875abae7d37562aad446857569403a13",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f0__q50_calibration_clinical.npz": "4a52527ea8e5a8227dd1f4d40c9020919830b0d1a28f920dc1dd53381458d263",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f0__q50_evaluation_clinical.npz": "1d5055ad58522f1c8fea661fd76f0a26afd3c1d602083e0d3ccd4b9729e2e786",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f0__q50_design_outcomes.npz": "f4e1579c1c0bd8bec840f64b7387e03e2d033fed3a369967673bddf1ac86add5",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f0__q50_calibration_outcomes.npz": "15669bad386a09e27816a3b7c3a67d71c768d9ab9bf5ea9519bf0f47ea0e96d7",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f0.npz": "127223aba4f71f93c9e0f8d4c47c67783e596553ab3afb221263ac7442c36e05"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "81a4fcd3ed57622b7b3ad9fdad60c6df71b7a947b60e273aaac9e4ba14d326a7",
+    "policy.json": "2d6cc97a3e2599bfd3c87e62633df936fcd2e7f73869334aecea63f13e923945",
+    "probabilities.npz": "1d0a98b2ac514302eb74e0001b5eaba8fe41417150075694c8db98c2883d146c",
+    "selected_ids.csv": "0db32fbc0354c5af4fa051f30552a8f677a7f85414d4b860338b821ba615812d",
+    "selection.npz": "b56b4180a83485dc4e6ed14f2a6e73f18205090cd7a3754f759ccb6ef64b3d80",
+    "selector.joblib": "e49f565cf0154350278688f1b23ab8838ca9e434e15d4de183cf1038aed63fb5"
+  }
+}

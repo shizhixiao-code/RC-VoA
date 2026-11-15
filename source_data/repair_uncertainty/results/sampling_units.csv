@@ -1,0 +1,11 @@
+stratum,groups,lesions,configurations
+MRA_b1,121,178,10
+MRA_b2,108,178,10
+MRA_b3,132,180,10
+MRA_b4,129,178,10
+MRA_b5,112,177,10
+UQ_b1,90,1552,10
+UQ_b2,96,1562,10
+UQ_b3,87,1558,10
+UQ_b4,85,1539,10
+UQ_b5,95,1545,10

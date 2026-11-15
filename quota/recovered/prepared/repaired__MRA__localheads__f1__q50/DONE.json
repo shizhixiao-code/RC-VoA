@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:52.600648+00:00",
+  "context": "repaired__MRA__localheads__f1__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f1__q50_design_clinical.npz": "0d987dd9e3eef07391000b004916575c0a7616edde5ed81be7659b6d00b6a9ec",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f1__q50_calibration_clinical.npz": "4b6161839dc70b4edbf9c0fb1657604fb95ea30b94e53c6911ee8afefb7342a9",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f1__q50_evaluation_clinical.npz": "1daabf4710c9ea70f49ea45041e8b912a2d1bf27d9377f6852fc71b5677c5863",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f1__q50_design_outcomes.npz": "509e085ecce0eb9f0ac53ca74a741fe547d308a45eeb7141cd69fecd9ab30d3e",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f1__q50_calibration_outcomes.npz": "870aad2cc5c5b22da5aa6d4dcfd01d1adf9a52772264a441bce5e1e9240a31c7",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f1.npz": "38684d711079559086c61fa6933803f1ed4f73d320e592c2440cc7fd6a6857fc"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "c6581404748f2dfa02ded0384826aa922144d780c0154682634c02f6d3de2b51",
+    "policy.json": "e63a50e406eb96c79c566841c624e53012cf550f83754b20ffa51540ce986cae",
+    "probabilities.npz": "32a3f68b0ac3a17f3706798595fb68ba2a0d699221f5d9b52d7cb2716d38497e",
+    "selected_ids.csv": "1e31096d15012d193f0ff5d0ac5352bc728a1b199b0cf97d1368c7c6e0210350",
+    "selection.npz": "350829f40b3a44329af4ee06a81e29690dcfc95dad69c5149feddbce362d7ee4",
+    "selector.joblib": "8f74b7ae6a3354a943502e642152c19195d99ca9954dd2448739ac9b917de77b"
+  }
+}

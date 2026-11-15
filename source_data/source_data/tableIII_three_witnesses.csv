@@ -1,0 +1,4 @@
+batch,model,N,K,t_star,C_minus,minimum_K,oracle_rescued,oracle_protected_misses,oracle_FP_reduction,policy_rescued,policy_protected_misses,policy_B_cancellations,policy_FP_reduction,policy_flags,quota,quota_min,quota_max,table_id
+1,Source heads,1552,310,4,4,164,4,0,157,1,3,0,-186,965,310,4,150,repaired__UQ__headonly__f0__q50
+3,Multiscale,1558,311,6,6,168,6,0,160,0,7,1,122,655,62,6,149,repaired__UQ__multiscale__f2__q50
+4,Local heads,1539,307,3,3,160,3,0,155,0,3,0,136,632,7,3,78,repaired__UQ__localheads__f3__q50

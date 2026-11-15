@@ -1,0 +1,892 @@
+lesion_id,source_record_id,raw_pathology,label_status,strict_malignant
+MRA_006e720544cdf25baede,742,malignant- bcc,mapped,1
+MRA_00d94e480c91f2e1cbd2,577,malignant- scc,mapped,1
+MRA_01ce8058df49dbe407ec,109,benign-melanocytic nevus,mapped,0
+MRA_022f57c68aa3993089c3,127,malignant- scc,mapped,1
+MRA_0272c3d87df60e72d0a4,202,benign-seborrheic keratosis,mapped,0
+MRA_027e135ddef92b9f8fb3,114,malignant- bcc,mapped,1
+MRA_027f6c6c862d605dcb42,154,benign-other,mapped,0
+MRA_0294ac18b7a959068197,697,malignant- bcc,mapped,1
+MRA_02be4f72128ba8a57b2a,701,benign-other,mapped,0
+MRA_034a60f8869d6e300b30,95,malignant- melanoma,mapped,1
+MRA_03d072d6ecdacf9fe5f4,41,malignant- bcc,mapped,1
+MRA_03fb2a604dcb33e3a9eb,289,benign-seborrheic keratosis,mapped,0
+MRA_041d861421481b53f379,703,benign-melanocytic nevus,mapped,0
+MRA_045623b267572edb5fe5,81,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_051242d374ff33350a97,21,benign-other,mapped,0
+MRA_0589d258928eaa058e51,220,malignant- bcc,mapped,1
+MRA_05f39942c5a476804672,177,benign-dermatofibroma,mapped,0
+MRA_05ff5f06123718a6e92d,202,malignant- bcc,mapped,1
+MRA_0616e912bda52b40ea5e,567,malignant- melanoma,mapped,1
+MRA_065ad7a6bb0bf03e2b0d,487,benign-melanocytic nevus,mapped,0
+MRA_06926461545e8c64d5cc,45,malignant- bcc,mapped,1
+MRA_077f2c5b9d22b83ef155,513,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_08676a9c3dcfd02988b4,604,benign-melanocytic nevus,mapped,0
+MRA_0867fc31e16ca86ba927,743,malignant- melanoma,mapped,1
+MRA_090c0a141c5b2a5db499,266,benign-melanocytic nevus,mapped,0
+MRA_090e25c02d54e2482672,440,benign-other,mapped,0
+MRA_09271cf1f76e09409c88,531,benign-melanocytic nevus,mapped,0
+MRA_0974fc5c96e7db44d995,313,malignant- melanoma,mapped,1
+MRA_0989018eec78d1e531d3,120,benign-melanocytic nevus,mapped,0
+MRA_09ec8bfbdce2c2eb84b4,144,benign-melanocytic nevus,mapped,0
+MRA_0a0223ad881ade289772,29,benign-other,mapped,0
+MRA_0a5dbad40be2807c6850,156,malignant- bcc,mapped,1
+MRA_0a6606bcdb4ee09f6b99,234,malignant- other,mapped,1
+MRA_0a6f1784d75e094ae715,73,malignant- scc,mapped,1
+MRA_0a93b7bbe433e3f6d40d,262,malignant- bcc,mapped,1
+MRA_0ab0152a48727d89ee2e,714,malignant- scc,mapped,1
+MRA_0b4c55a3b2e4640fb9f4,561,malignant- bcc,mapped,1
+MRA_0c23344c674645fec620,710,benign-melanocytic nevus,mapped,0
+MRA_0c53011394845de60fe4,626,malignant- sccis,mapped,1
+MRA_0c94b0afddcaf0bf3256,203,malignant- bcc,mapped,1
+MRA_0d0487526020096c4fc4,407,malignant- bcc,mapped,1
+MRA_0d587534489b88bd1647,624,benign-melanocytic nevus,mapped,0
+MRA_0d7223524946359fb49f,755,malignant- sccis,mapped,1
+MRA_0d9da56e10d94ca6cba3,60,malignant- melanoma,mapped,1
+MRA_0e181b24a90d0cd7cfef,234,malignant- ak,mapped,1
+MRA_0ead030c7f9c44e0d189,108,benign-other,mapped,0
+MRA_0efe6f7044965521e257,525,malignant- bcc,mapped,1
+MRA_0f5266e7d8ab4e6df64c,653,benign-fibrous papule,mapped,0
+MRA_0f85c489c20ae2e48ee7,13,malignant- sccis,mapped,1
+MRA_0f94bc865c4d5a394ab9,211,malignant- melanoma,mapped,1
+MRA_0fe28d262b8006865dde,220,malignant- bcc,mapped,1
+MRA_1096069c033af0eb45e2,4,benign-melanocytic nevus,mapped,0
+MRA_10f920747d827571d191,480,benign-seborrheic keratosis,mapped,0
+MRA_1136258e4b20714f1ec0,238,benign-melanocytic nevus,mapped,0
+MRA_11bd8acc4d7d9d20e0fa,169,malignant- ak,mapped,1
+MRA_11c13b2a10dc3b5d64c0,641,benign-other,mapped,0
+MRA_1243b5a5b4323f8e9b30,469,benign-melanocytic nevus,mapped,0
+MRA_125fb30d4e431c145a04,638,malignant- melanoma,mapped,1
+MRA_125ff8f567e51cb206fc,404,malignant- melanoma,mapped,1
+MRA_12a793a50961d04b239c,117,benign-melanocytic nevus,mapped,0
+MRA_12afc8c5b37f60982edb,431,benign-seborrheic keratosis,mapped,0
+MRA_12c667138576f0328a9d,85,benign-melanocytic nevus,mapped,0
+MRA_12f46b299f3cc1b02072,396,malignant- ak,mapped,1
+MRA_131dbefe73780c17337d,314,malignant- melanoma,mapped,1
+MRA_143b71c1c79e296a5950,399,malignant- melanoma,mapped,1
+MRA_14822e02484d48db1384,566,malignant- melanoma,mapped,1
+MRA_148c7bf0a6fa9b98c173,375,benign-other,mapped,0
+MRA_14ebc359da35388d3286,755,malignant- scc,mapped,1
+MRA_14fd94b0af5a54e843ca,82,malignant- melanoma,mapped,1
+MRA_1523dcc4ad631b679232,452,malignant- sccis,mapped,1
+MRA_157c9ed446bb7513c160,589,malignant- melanoma,mapped,1
+MRA_15be8bb39e966995781b,220,malignant- bcc,mapped,1
+MRA_16087ce9177133f28bdf,205,benign-melanocytic nevus,mapped,0
+MRA_16476bc1a2b7e9ec24fc,505,benign-melanocytic nevus,mapped,0
+MRA_165d05dce7111af80e90,41,malignant- bcc,mapped,1
+MRA_165fa943ca4f61b39963,73,malignant- bcc,mapped,1
+MRA_1677023d0fca06ee7e48,133,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_1678f2cea4b9d5ea0f7e,237,malignant- scc,mapped,1
+MRA_16d2e40945c07d599c00,622,benign-melanocytic nevus,mapped,0
+MRA_16d8130ddafb9f5bfdf2,433,benign-other,mapped,0
+MRA_16dac7d63f6e27314007,325,benign-melanocytic nevus,mapped,0
+MRA_16f20cd710e1049225d4,439,benign-hemangioma,mapped,0
+MRA_1761cb734c1230ceef6e,608,benign-melanocytic nevus,mapped,0
+MRA_17d452638acdfa53f01f,263,benign-melanocytic nevus,mapped,0
+MRA_17e438c177cf8a1efe44,249,benign-melanocytic nevus,mapped,0
+MRA_18210663636f44d9db16,419,malignant- melanoma,mapped,1
+MRA_1844339837b34997dd50,652,benign-seborrheic keratosis,mapped,0
+MRA_18652e13d7f0e254e598,128,benign-other,mapped,0
+MRA_189ef54bd07b392ec08f,30,malignant- bcc,mapped,1
+MRA_18b600365ccb1e180a28,5,malignant- scc,mapped,1
+MRA_18cc92de83c224c813d9,486,benign-other,mapped,0
+MRA_19ab9c37c18e73e68fb4,184,malignant- ak,mapped,1
+MRA_19f48520e653214e0913,633,malignant- bcc,mapped,1
+MRA_1a2c624e9a63155bfdaf,465,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_1a38d05dea2282947f01,361,benign-other,mapped,0
+MRA_1a6b0472a70b822c9384,121,malignant- bcc,mapped,1
+MRA_1a72672c2a0f8dc5af89,57,malignant- bcc,mapped,1
+MRA_1af7193b5c369a89f34e,62,benign-seborrheic keratosis,mapped,0
+MRA_1b258802ad187ef0350d,705,benign-seborrheic keratosis,mapped,0
+MRA_1bd46dbecca35f45416b,271,benign-melanocytic nevus,mapped,0
+MRA_1ca973b6c650ee43791a,206,benign-other,mapped,0
+MRA_1ce583824e54577a7e1c,357,malignant- melanoma,mapped,1
+MRA_1ce5b290731da4f2af89,27,malignant- bcc,mapped,1
+MRA_1cf4f13c05964d3941d4,441,malignant- bcc,mapped,1
+MRA_1d1c1d942fe64fb14285,92,benign-hemangioma,mapped,0
+MRA_1d3804cc08277a627853,736,benign-melanocytic nevus,mapped,0
+MRA_1d4a2298b271ca494275,174,malignant- bcc,mapped,1
+MRA_1daa3a803761a2325536,383,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_1e4e022a5ce41f33d12f,195,malignant- bcc,mapped,1
+MRA_1e6ecf6d6bc4d60e26c4,94,malignant- bcc,mapped,1
+MRA_1e85c4e61641b26ad1b7,276,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_1e93023ca142915b9c4a,145,malignant- bcc,mapped,1
+MRA_1eb45bb949281857377a,479,benign-melanocytic nevus,mapped,0
+MRA_1ef9470be1fa39124e4e,253,malignant- sccis,mapped,1
+MRA_1f2a05a21c0a3db580d3,170,malignant- bcc,mapped,1
+MRA_2027148e6c2748ab8abf,13,malignant- scc,mapped,1
+MRA_206cbc8a8f5e418f3d1c,533,malignant- sccis,mapped,1
+MRA_20c0308f90ff29d5a47f,340,malignant- melanoma,mapped,1
+MRA_21345e068d47c2f95d53,96,benign-other,mapped,0
+MRA_21cd3c237aa91f468fce,195,benign-other,mapped,0
+MRA_226bd9f408a9330811b6,766,benign-melanocytic nevus,mapped,0
+MRA_227cae9aec5cfc592d0f,234,malignant- bcc,mapped,1
+MRA_22c7089cea6de2ee45aa,417,benign-melanocytic nevus,mapped,0
+MRA_23abf493b86608d64448,135,malignant- bcc,mapped,1
+MRA_23b7d4a5e4cab8932a78,304,benign-melanocytic nevus,mapped,0
+MRA_23cf53f6ccf9bdd57508,107,malignant- bcc,mapped,1
+MRA_23e2d7bbb056dacec251,80,benign-melanocytic nevus,mapped,0
+MRA_24129b0625fb0ccebfb5,442,benign-melanocytic nevus,mapped,0
+MRA_241a8ee7291be6dbdf0f,539,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_24821123c502592b4374,761,benign-dermatofibroma,mapped,0
+MRA_24f538744a37a3986353,174,malignant- bcc,mapped,1
+MRA_250b55c10786f354369c,343,malignant- scc,mapped,1
+MRA_254b2381a0fa4dfa6e88,777,benign-other,mapped,0
+MRA_25579dd4740f3086d980,50,malignant- bcc,mapped,1
+MRA_25f09f75884d98d8a23b,436,malignant- ak,mapped,1
+MRA_2612ea8aa2e08744ea40,5,benign-seborrheic keratosis,mapped,0
+MRA_267d85113e01500f095b,484,malignant- bcc,mapped,1
+MRA_26ac459aa8e88c223a97,310,malignant- bcc,mapped,1
+MRA_26f5f508004840d2a262,508,benign-fibrous papule,mapped,0
+MRA_279cb3aa8d67233aeca6,541,malignant- bcc,mapped,1
+MRA_27e8d6f37c2fff5e753e,349,malignant- bcc,mapped,1
+MRA_281014c019364017dd64,498,malignant- ak,mapped,1
+MRA_284abcfa0570deac4223,147,benign-melanocytic nevus,mapped,0
+MRA_28629115bf072c661714,547,benign-hemangioma,mapped,0
+MRA_28c0489401a2fc8ac5b7,133,benign-melanocytic nevus,mapped,0
+MRA_297e544eef5d8e12efee,383,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_29cc4efc1e79abe72b4c,243,malignant- ak,mapped,1
+MRA_29ebd4accb6bdefadc9e,666,benign-seborrheic keratosis,mapped,0
+MRA_29fa5886fafaa66e5100,386,benign-melanocytic nevus,mapped,0
+MRA_29fb1b1c294203eba3f5,152,malignant- melanoma,mapped,1
+MRA_2a144f397f38c638b6dc,267,malignant- bcc,mapped,1
+MRA_2a20e730008c16f7aaaf,475,benign-other,mapped,0
+MRA_2abc871a4859a35834d9,303,benign-other,mapped,0
+MRA_2ad4fd5b1d65e62b7694,745,malignant- melanoma,mapped,1
+MRA_2b4f01cef50b3ac7eb77,118,malignant- ak,mapped,1
+MRA_2b646fb4e234461eacdc,192,benign-melanocytic nevus,mapped,0
+MRA_2b818bf687a587882da0,739,benign-melanocytic nevus,mapped,0
+MRA_2b9e42805f113f2230d8,30,benign-other,mapped,0
+MRA_2bace6b3ec1ce6ee6e85,457,benign-melanocytic nevus,mapped,0
+MRA_2bd5955eb291b453e23f,216,benign-other,mapped,0
+MRA_2cac9803cb17d74dc80d,412,malignant- melanoma,mapped,1
+MRA_2cb58963e0267792911d,805,malignant- bcc,mapped,1
+MRA_2d1d7d6d43d484992ed7,225,malignant- sccis,mapped,1
+MRA_2d4b3be48a86b000a932,753,malignant- bcc,mapped,1
+MRA_2d8d27d3e11f0375ce4a,299,benign-other,mapped,0
+MRA_2e6370a0d7cd3497561b,782,malignant- bcc,mapped,1
+MRA_2f94f52351a4628eb59b,73,malignant- scc,mapped,1
+MRA_2fbb965842522efd5e6b,565,malignant- bcc,mapped,1
+MRA_2fcd54586600c2341556,79,benign-other,mapped,0
+MRA_2fdbd9163c7d1bf26e73,89,malignant- melanoma,mapped,1
+MRA_2ffa0ecef1d1ddb1a8b6,429,benign-other,mapped,0
+MRA_30388a224e58e9b4329f,765,malignant- sccis,mapped,1
+MRA_304191b0ab27f2cb49cf,116,malignant- melanoma,mapped,1
+MRA_30585efc5a081aea51d6,742,malignant- bcc,mapped,1
+MRA_30b7d49da781cd81317e,13,malignant- scc,mapped,1
+MRA_317b4e8251447a2e064f,788,benign-melanocytic nevus,mapped,0
+MRA_3210a531dfc635bc3513,277,malignant- ak,mapped,1
+MRA_32a74e8c442e0b21d97c,664,benign-seborrheic keratosis,mapped,0
+MRA_32af5755df30988b2530,33,malignant- scc,mapped,1
+MRA_32be302672005184ef23,540,benign-other,mapped,0
+MRA_333643f9a1d4eb753d4f,119,benign-other,mapped,0
+MRA_334f5d6607bb7a85b23a,279,malignant- scc,mapped,1
+MRA_33541e036f6184f5f7a8,64,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_33742bcb7e6aa63a7b23,113,malignant- scc,mapped,1
+MRA_3389fa892a4e6b8246cb,380,malignant- ak,mapped,1
+MRA_33d588f977e7e9831f19,172,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_340471bd4efc3dfc2f93,718,malignant- melanoma,mapped,1
+MRA_340842351e1770676357,298,benign-melanocytic nevus,mapped,0
+MRA_3487c7ab3538b5141609,606,malignant- scc,mapped,1
+MRA_3490896f044fc304934d,618,malignant- bcc,mapped,1
+MRA_349b873a9ce003faac1b,494,malignant- bcc,mapped,1
+MRA_349ec6646dd4140822bc,555,benign-melanocytic nevus,mapped,0
+MRA_34e47de5a92a31f60213,90,malignant- sccis,mapped,1
+MRA_350959c9abc0a775013c,114,malignant- scc,mapped,1
+MRA_3561cb320c0887bb5666,133,malignant- melanoma,mapped,1
+MRA_359334843887ddbd9ef4,174,malignant- bcc,mapped,1
+MRA_35b84956712804d45cba,712,malignant- ak,mapped,1
+MRA_363856076fbc07e968ef,9,benign-melanocytic nevus,mapped,0
+MRA_365524427cf59c4b4604,139,benign-melanocytic nevus,mapped,0
+MRA_3691109871de4bde237b,331,malignant- sccis,mapped,1
+MRA_36b9b10059552155c97e,737,malignant- melanoma,mapped,1
+MRA_36c15474776d7f549dfd,422,malignant- melanoma,mapped,1
+MRA_36d1330d01b9d1b8fa38,60,benign-melanocytic nevus,mapped,0
+MRA_37264a05386e0bad80e0,278,malignant- bcc,mapped,1
+MRA_37bb07951cc6c57bf373,216,benign-melanocytic nevus,mapped,0
+MRA_38e5f6bd83323d26b4f0,90,malignant- melanoma,mapped,1
+MRA_3907d6f8ad019a1bb38e,584,benign-melanocytic nevus,mapped,0
+MRA_3921f1259d09e1dfda5b,300,malignant- sccis,mapped,1
+MRA_39466378fb14c4667381,34,malignant- bcc,mapped,1
+MRA_39a08e90d3b84a983e25,233,benign-seborrheic keratosis,mapped,0
+MRA_3a30b9a66d210912db4f,557,benign-melanocytic nevus,mapped,0
+MRA_3a5b9a4874c686927698,573,malignant- melanoma,mapped,1
+MRA_3afb826919ec6a5c6185,277,malignant- scc,mapped,1
+MRA_3b324d445fea464d4bb3,57,malignant- bcc,mapped,1
+MRA_3b7a4cdd7adfe18e583a,13,malignant- bcc,mapped,1
+MRA_3bd4eb78275c403b7cfd,706,benign-other,mapped,0
+MRA_3be07ee45b1f893f19b0,388,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_3c2a9a3613a4c248ff65,506,benign-other,mapped,0
+MRA_3ce9c80664400571a9fa,636,malignant- bcc,mapped,1
+MRA_3d2128125d76c517d066,468,malignant- bcc,mapped,1
+MRA_3d64b28d3b8e90b3582e,90,benign-melanocytic nevus,mapped,0
+MRA_3d7ce55673fcf1300fa3,13,malignant- scc,mapped,1
+MRA_3d81a7109051bcea63df,752,benign-other,mapped,0
+MRA_3d8bbe286228476b1bb4,363,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_3db0e54566e61577af07,442,benign-melanocytic nevus,mapped,0
+MRA_3e59ffb756bbcf27fc51,191,benign-other,mapped,0
+MRA_3ec01324ccc0cba9cb89,190,malignant- bcc,mapped,1
+MRA_3ee9b393cc73492f9b93,470,malignant- bcc,mapped,1
+MRA_3f567aca302f7a99b924,8,malignant- bcc,mapped,1
+MRA_3fe08eaa2873c976a93f,77,benign-melanocytic nevus,mapped,0
+MRA_4055d9d91f117db98b20,178,benign-melanocytic nevus,mapped,0
+MRA_405fafa8226cb0540024,765,malignant- melanoma,mapped,1
+MRA_409258154264768d803d,207,malignant- bcc,mapped,1
+MRA_40f0b20047287984cfcb,734,malignant- bcc,mapped,1
+MRA_41292f2aaa17e37dd688,275,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_414bc4075302517845e0,326,benign-melanocytic nevus,mapped,0
+MRA_41cc23bc1119e9340576,232,benign-other,mapped,0
+MRA_41fe043f8987bc58ce2c,277,malignant- scc,mapped,1
+MRA_420bd0ccbb5624bcd941,374,benign-other,mapped,0
+MRA_42249b2f2c020850ba6f,748,benign-melanocytic nevus,mapped,0
+MRA_4276bc85755d64e0c562,648,benign-other,mapped,0
+MRA_434db7ff9bca0af30081,498,malignant- scc,mapped,1
+MRA_43a180cf0bf848cdd2c0,102,malignant- melanoma,mapped,1
+MRA_43b0aa02e332a0095d19,257,benign-other,mapped,0
+MRA_43cc4e5984a05071dc81,52,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_4457e87c06b0c55e6fe7,121,malignant- bcc,mapped,1
+MRA_446e6e49e27e1037d7bf,125,benign-seborrheic keratosis,mapped,0
+MRA_44980841e5843bc7a680,227,malignant- scc,mapped,1
+MRA_44a0e837cd9e8de0b34a,27,benign-other,mapped,0
+MRA_44e2ea4608ba49a77a19,90,malignant- bcc,mapped,1
+MRA_451f2738f4c668645118,74,benign-other,mapped,0
+MRA_4588c0f8ce3e96fcdfa4,99,malignant- sccis,mapped,1
+MRA_4597a6758068ddf5c995,613,benign-melanocytic nevus,mapped,0
+MRA_459b4d158358945a8ae6,353,malignant- scc,mapped,1
+MRA_459ff05a94f1e616cefd,274,malignant- bcc,mapped,1
+MRA_466054333651e8aa5e55,223,malignant- scc,mapped,1
+MRA_479272478acad41734b2,105,benign-melanocytic nevus,mapped,0
+MRA_47f8629325abaef99d19,791,benign-seborrheic keratosis,mapped,0
+MRA_482a615b1145b6f9625d,133,benign-melanocytic nevus,mapped,0
+MRA_49510070d62eb5aedb3f,486,malignant- ak,mapped,1
+MRA_4971a25c758a9be05837,644,benign-melanocytic nevus,mapped,0
+MRA_4992a0c7497b0290fff0,66,malignant- ak,mapped,1
+MRA_4a9a027217f052ccede9,121,benign-hemangioma,mapped,0
+MRA_4ab6c553aad96fbd173e,629,malignant- melanoma,mapped,1
+MRA_4b45356eb198038a6a6f,262,malignant- ak,mapped,1
+MRA_4b5269414d159485cb2c,98,malignant- melanoma,mapped,1
+MRA_4c073093f18db9f6b092,478,benign-seborrheic keratosis,mapped,0
+MRA_4ce03cc6a56d80722a5a,240,benign-melanocytic nevus,mapped,0
+MRA_4defc975fb40b5f4e101,52,benign-seborrheic keratosis,mapped,0
+MRA_4e16ac03bb0f999aa31f,60,benign-melanocytic nevus,mapped,0
+MRA_4e6d5e990975d1b1b9ee,236,benign-other,mapped,0
+MRA_4e9f3d473621cd2463d8,603,benign-other,mapped,0
+MRA_4f0382aaf498a3b63a2c,57,benign-seborrheic keratosis,mapped,0
+MRA_4f0c8b8b9a0576263dfb,620,benign-seborrheic keratosis,mapped,0
+MRA_4faa5bc6a27ced9dc9b4,27,benign-melanocytic nevus,mapped,0
+MRA_4fb98964c8927cd1d14c,75,benign-other,mapped,0
+MRA_4fdcb2c4c160f5072ab0,387,malignant- melanoma,mapped,1
+MRA_5043088a727563419f96,101,benign-melanocytic nevus,mapped,0
+MRA_50f1d501c615e07bb97f,57,malignant- sccis,mapped,1
+MRA_50ff934854a65db3c6bf,98,malignant- sccis,mapped,1
+MRA_516b30dbea657188ee57,353,malignant- scc,mapped,1
+MRA_523879a90b9583081a28,447,benign-hemangioma,mapped,0
+MRA_52e59ce1c2436e6f2fab,468,benign-melanocytic nevus,mapped,0
+MRA_52f1399e03a948780eb3,621,benign-melanocytic nevus,mapped,0
+MRA_5305bce1b8b01d824ac4,48,malignant- bcc,mapped,1
+MRA_53791de2a299d43325b5,694,malignant- bcc,mapped,1
+MRA_54752c566edc5c495969,450,benign-seborrheic keratosis,mapped,0
+MRA_548045ccddff8c464145,211,malignant- scc,mapped,1
+MRA_54b949de3f192447f476,150,benign-other,mapped,0
+MRA_54dba77235eca23c708d,161,benign-melanocytic nevus,mapped,0
+MRA_55239403fd19c14e3f69,171,benign-other,mapped,0
+MRA_5566e90adbe3c985eb29,140,"melanocytic tumor, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_55be82357ea54813d99e,166,benign-other,mapped,0
+MRA_56372e0dfb7e9a5dfde6,468,malignant- melanoma,mapped,1
+MRA_5672a39ae17b26cb5daf,97,benign-melanocytic nevus,mapped,0
+MRA_56813315103a7d758d6b,319,benign-dermatofibroma,mapped,0
+MRA_56ee8d0175afc584f3b7,185,benign-seborrheic keratosis,mapped,0
+MRA_576a0b01d0c029fcea98,751,malignant- bcc,mapped,1
+MRA_57a97f29457fc33f1af0,759,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_57b3d5863cf0aa5b941f,67,malignant- bcc,mapped,1
+MRA_59483fb133b3aff31a9d,319,benign-hemangioma,mapped,0
+MRA_5a1e92c036caccdb41ad,366,malignant- bcc,mapped,1
+MRA_5a87dac279946444c960,772,malignant- bcc,mapped,1
+MRA_5a96c5991190dfb97ccd,174,malignant- bcc,mapped,1
+MRA_5b1f939c992e4db5066b,246,benign-seborrheic keratosis,mapped,0
+MRA_5b2b6b415c8b55d094a7,360,malignant- bcc,mapped,1
+MRA_5b3a2e266061273da4b6,596,benign-melanocytic nevus,mapped,0
+MRA_5b6b3b123effb4be9f00,42,benign-other,mapped,0
+MRA_5c7b8a5c2d31a1f12f0e,229,malignant- ak,mapped,1
+MRA_5ca494b2190c8009f1a4,32,malignant- bcc,mapped,1
+MRA_5ceb040726b554605990,407,malignant- bcc,mapped,1
+MRA_5d8078964d746757bba7,655,malignant- melanoma,mapped,1
+MRA_5dc135cf461f78f003da,468,malignant- bcc,mapped,1
+MRA_5dc907065ff50bf6d257,312,benign-melanocytic nevus,mapped,0
+MRA_5dc9992c43f97441782d,354,benign-seborrheic keratosis,mapped,0
+MRA_5df24aa462bb50700d3f,418,malignant- scc,mapped,1
+MRA_5eb9430cb7bf461e8b7e,76,malignant- ak,mapped,1
+MRA_5f09ddab853ddf0fe266,466,malignant- ak,mapped,1
+MRA_5f720642f3e336d46d92,721,benign-seborrheic keratosis,mapped,0
+MRA_5ff0ed64883c9f528fb7,109,benign-melanocytic nevus,mapped,0
+MRA_60290c9d1846228b77b1,656,benign-other,mapped,0
+MRA_60a2c01b94b07de353b2,69,benign-melanocytic nevus,mapped,0
+MRA_61474c31759efafaef7b,13,malignant- ak,mapped,1
+MRA_6159059f4ad3bf2147c3,256,malignant- bcc,mapped,1
+MRA_61b0151c6761c3a3b47f,428,malignant- bcc,mapped,1
+MRA_61da5bcc67cdb0f8f16f,744,benign-melanocytic nevus,mapped,0
+MRA_620c4ee4f397d5073f6b,372,benign-seborrheic keratosis,mapped,0
+MRA_627fb82fc99e76ad1921,407,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_6321edee591bbdd97eaa,490,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_63564875180de32aac82,463,malignant- bcc,mapped,1
+MRA_6406c372a3f272bdc562,805,malignant- melanoma,mapped,1
+MRA_6431708be3e8b6c17c2d,594,benign-melanocytic nevus,mapped,0
+MRA_6479cd993059659f3a4f,220,malignant- bcc,mapped,1
+MRA_64ac42439c41ce5b4feb,381,benign-melanocytic nevus,mapped,0
+MRA_64ad07a7f56acae88beb,26,malignant- sccis,mapped,1
+MRA_64b6d40893ea8b5572c6,107,malignant- bcc,mapped,1
+MRA_64f2670665beb1961346,206,benign-melanocytic nevus,mapped,0
+MRA_658b0c3fc5b5f308aafa,371,malignant- bcc,mapped,1
+MRA_65c93ab8a3fa12e6d5ea,77,benign-melanocytic nevus,mapped,0
+MRA_6603562402917e8b88b1,510,benign-seborrheic keratosis,mapped,0
+MRA_66090bfda9a867029d03,296,benign-seborrheic keratosis,mapped,0
+MRA_6699de65578af0506e04,137,benign-hemangioma,mapped,0
+MRA_66caacfffdcc7d7e2df7,355,benign-seborrheic keratosis,mapped,0
+MRA_66fd42a711961a62eaee,70,benign-seborrheic keratosis,mapped,0
+MRA_676306a1acc68d818f9d,136,malignant- sccis,mapped,1
+MRA_6777a1784c17bda58467,401,benign-dermatofibroma,mapped,0
+MRA_6781499cab59e3f4f8dc,240,malignant- bcc,mapped,1
+MRA_687261eae0015dfbb5a3,199,benign-other,mapped,0
+MRA_6897feb3d080aeca56d1,225,malignant- scc,mapped,1
+MRA_689f6c201f053d5ec6e7,588,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_68ab8ecc3c90b28195d3,1,malignant- sccis,mapped,1
+MRA_68b1d92e2b2c236ca5b7,290,benign-other,mapped,0
+MRA_692008e9852655eac48a,285,benign-dermatofibroma,mapped,0
+MRA_6954b89db8d378fb539f,132,benign-dermatofibroma,mapped,0
+MRA_697b2e23ccfa202b180a,378,benign-dermatofibroma,mapped,0
+MRA_69e929ff0e76614543f7,63,benign-melanocytic nevus,mapped,0
+MRA_6b52fac6e1deb0fa684d,583,malignant- sccis,mapped,1
+MRA_6bdc74aca39c37ea7cf6,19,benign-other,mapped,0
+MRA_6c7cb28f087908c296b4,412,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_6c85381fbe679573d79e,635,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_6c9f2d30939aae8b2df8,184,malignant- scc,mapped,1
+MRA_6cc4e577a76e0305fc30,744,malignant- melanoma,mapped,1
+MRA_6d4b44634f9ab8c9ec92,752,malignant- melanoma,mapped,1
+MRA_6d8bace8d0b86c3da3ac,282,benign-seborrheic keratosis,mapped,0
+MRA_6d8e3ada95a56af11866,619,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_6dd56701441c7cdc20e3,732,benign-dermatofibroma,mapped,0
+MRA_6df8a1fb7aa54d3e65d7,443,benign-melanocytic nevus,mapped,0
+MRA_6e8d2a61ce0be76d273a,477,malignant- ak,mapped,1
+MRA_6ed68d3ac848e40db7e8,214,benign-other,mapped,0
+MRA_6ed758efeef2e0074a16,532,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_6ee46d9d9a3f75850e94,164,malignant- ak,mapped,1
+MRA_6f10853200c95b3d1304,131,malignant- ak,mapped,1
+MRA_6f50e01f7ff83be07b4a,398,malignant- ak,mapped,1
+MRA_6f956a5e0d057cd3de57,280,benign-other,mapped,0
+MRA_6fbc2a5802bb3f902cda,5,malignant- bcc,mapped,1
+MRA_7043384ad91b2969910c,234,malignant- scc,mapped,1
+MRA_70ae251e40aee9caa512,255,benign-melanocytic nevus,mapped,0
+MRA_70bd6139d5e680e0d053,627,benign-fibrous papule,mapped,0
+MRA_70edeb0e158d07b230ea,337,benign-other,mapped,0
+MRA_711b3bf16a8953b79cc6,90,benign-melanocytic nevus,mapped,0
+MRA_71c0b37527749d2b0235,31,benign-melanocytic nevus,mapped,0
+MRA_71e09f7bb5cb5c20c4c0,605,benign-melanocytic nevus,mapped,0
+MRA_730ac31c013935b781f5,442,malignant- melanoma,mapped,1
+MRA_736b22a01b73048676c1,209,benign-melanocytic nevus,mapped,0
+MRA_73e571d6ccc9b2f3c267,529,benign-melanocytic nevus,mapped,0
+MRA_740fcc77e346789428e0,265,malignant- sccis,mapped,1
+MRA_74a979d650fc3cb5d853,694,malignant- scc,mapped,1
+MRA_74e7417d54dbdf22feb9,59,benign-melanocytic nevus,mapped,0
+MRA_752151d915af6aa6d6a6,220,benign-melanocytic nevus,mapped,0
+MRA_753e990f1c7eb316a03e,94,malignant- ak,mapped,1
+MRA_75eb42befe7e1e0be70e,435,malignant- bcc,mapped,1
+MRA_75f1c39d6e4876cca990,409,benign-melanocytic nevus,mapped,0
+MRA_76025cd9068f79302005,382,benign-other,mapped,0
+MRA_763a9387d6e08b0f7a07,551,malignant- bcc,mapped,1
+MRA_763dba0889f3d9493e9e,526,benign-melanocytic nevus,mapped,0
+MRA_763ed231325006cee504,57,malignant- bcc,mapped,1
+MRA_7667c5c5e49231308aba,785,malignant- melanoma,mapped,1
+MRA_774f706d18e8841d1ace,663,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_77987286bd5b7738f38d,121,malignant- sccis,mapped,1
+MRA_77d971b888a3efc7b07c,656,benign-seborrheic keratosis,mapped,0
+MRA_78445ae40babee180e90,168,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_785ef2a398f95515c787,152,malignant- scc,mapped,1
+MRA_785f4c40b58bf1868b17,225,malignant- sccis,mapped,1
+MRA_78d31e94c1b4a4d74087,337,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_78f3f91947e5f182d496,167,malignant- bcc,mapped,1
+MRA_791500242f870f667e74,382,benign-other,mapped,0
+MRA_7919ea927713765d97e1,464,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_79663de623b3910c2ebb,593,malignant- bcc,mapped,1
+MRA_79cca150d3ba34a38a43,310,benign-melanocytic nevus,mapped,0
+MRA_7a0df6f8afe92929d3cb,709,benign-seborrheic keratosis,mapped,0
+MRA_7a855a207702fbca3e09,348,benign-seborrheic keratosis,mapped,0
+MRA_7b000046ca02cac9b6fe,651,benign-dermatofibroma,mapped,0
+MRA_7b67d509d9eb01b40979,581,benign-other,mapped,0
+MRA_7c1f877e330a49e0cbc4,404,benign-other,mapped,0
+MRA_7c24b936cc04d05073a9,461,benign-dermatofibroma,mapped,0
+MRA_7c825ff56779a154d678,427,benign-melanocytic nevus,mapped,0
+MRA_7c92b5755cc1313648bb,726,malignant- bcc,mapped,1
+MRA_7cabca48e7cd8b635cdd,406,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_7cd2eaed9f2993f16cc6,746,malignant- bcc,mapped,1
+MRA_7ce030d582172c0d671b,253,benign-melanocytic nevus,mapped,0
+MRA_7ce8c9bd7aa7bc1f9d94,242,malignant- sccis,mapped,1
+MRA_7d3f3cf66ce4772c179d,746,malignant- scc,mapped,1
+MRA_7dd218114a9f9179fb2b,476,benign-seborrheic keratosis,mapped,0
+MRA_7ddc8f65cf34ebe9afc0,184,malignant- ak,mapped,1
+MRA_7df684ea6b00421a978d,308,benign-dermatofibroma,mapped,0
+MRA_7e95b5fdbcaf53636b93,528,benign-melanocytic nevus,mapped,0
+MRA_7f01b1e62f25af38e1af,371,benign-other,mapped,0
+MRA_7f29f6e102c93f3fb047,538,benign-seborrheic keratosis,mapped,0
+MRA_7f2fc0822dcbcde27795,328,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_7f72c1405676c92e2129,76,benign-other,mapped,0
+MRA_7f9e795bcca2cc7ad48f,618,benign-melanocytic nevus,mapped,0
+MRA_7fa3b56d57f9ae9aac29,230,benign-melanocytic nevus,mapped,0
+MRA_7fb958565aaf7d36c3b4,778,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_8077408f9124366509af,700,malignant- melanoma,mapped,1
+MRA_81469382877accaf7310,258,benign-seborrheic keratosis,mapped,0
+MRA_8153d08a00619b52a230,229,malignant- ak,mapped,1
+MRA_817ed87ca6a37c7809c3,436,malignant- bcc,mapped,1
+MRA_81d0139cb1671f2fedf4,55,malignant- bcc,mapped,1
+MRA_8248091a491d29e5c494,72,malignant- ak,mapped,1
+MRA_827ef90d1fa994a1e7c0,122,benign-seborrheic keratosis,mapped,0
+MRA_82b66af644b95df279b9,217,malignant- melanoma,mapped,1
+MRA_82f542eae286d2471221,251,malignant- bcc,mapped,1
+MRA_831e8cecb6201a20659e,13,malignant- bcc,mapped,1
+MRA_83b3db6e4163210469c8,186,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_847b43d8931710e105a5,130,benign-melanocytic nevus,mapped,0
+MRA_84858653493056f11426,153,benign-other,mapped,0
+MRA_84b9e7a0c20d922d3918,207,benign-melanocytic nevus,mapped,0
+MRA_852d57869de7a3d41e9d,35,malignant- bcc,mapped,1
+MRA_853820b4e6a696e392b4,487,malignant- scc,mapped,1
+MRA_861ff94b45e27b12c168,787,benign-melanocytic nevus,mapped,0
+MRA_863c18804758067afd29,90,malignant- bcc,mapped,1
+MRA_8644b046b3e073ffb367,244,malignant- bcc,mapped,1
+MRA_865c025d9ae5c04fb8bc,395,malignant- bcc,mapped,1
+MRA_86f8e40af9178ed5799d,20,malignant- other,mapped,1
+MRA_87346b31c60d78772e88,143,malignant- sccis,mapped,1
+MRA_8759885d6789dc4f75be,104,benign-seborrheic keratosis,mapped,0
+MRA_879842f2bca6919e76be,115,malignant- bcc,mapped,1
+MRA_87a08510287b7fb491e5,250,benign-dermatofibroma,mapped,0
+MRA_881bac02ec9b9e961db0,384,malignant- bcc,mapped,1
+MRA_882d513aec3600cc607d,225,malignant- sccis,mapped,1
+MRA_8908be3dce8c17a595f2,806,malignant- bcc,mapped,1
+MRA_891b55e3cd99382a248d,146,benign-other,mapped,0
+MRA_89c5db91df0d9f8b3b3e,60,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_8a5b2f49926564f72893,234,malignant- bcc,mapped,1
+MRA_8aaaef7a6fca9d7190a6,315,benign-other,mapped,0
+MRA_8aef6488f0edd2f7fa4d,52,malignant- ak,mapped,1
+MRA_8b0fc134a8314cdc4680,650,malignant- bcc,mapped,1
+MRA_8b972c0cb991e67abd49,578,benign-melanocytic nevus,mapped,0
+MRA_8bce56a4f32ad9299dd5,646,benign-fibrous papule,mapped,0
+MRA_8bea216b3e21ee6ea18c,229,benign-melanocytic nevus,mapped,0
+MRA_8c6f217b389b6f0c9b5f,52,malignant- bcc,mapped,1
+MRA_8c768793366228dca304,740,benign-melanocytic nevus,mapped,0
+MRA_8cba3d97ab0c6dda6603,207,benign-other,mapped,0
+MRA_8ce630ad31dbbf88ef57,169,benign-other,mapped,0
+MRA_8d112c8aadfd39962581,270,benign-melanocytic nevus,mapped,0
+MRA_8d60f0f22e8e4c891ef3,570,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_8db50f0af803fdaa0fa1,744,malignant- bcc,mapped,1
+MRA_8dd0cf9e9c8b095e50ec,730,malignant- bcc,mapped,1
+MRA_8de63df7f92ac811d005,83,malignant- scc,mapped,1
+MRA_8e0f651ac9b954964a0d,86,benign-melanocytic nevus,mapped,0
+MRA_8e43fcf273b7729b9480,173,malignant- melanoma,mapped,1
+MRA_8ec00e701e4cab03d7ec,571,benign-melanocytic nevus,mapped,0
+MRA_8eee7484713114cb1e48,114,malignant- bcc,mapped,1
+MRA_8f22f2055f1333cf472a,407,malignant- bcc,mapped,1
+MRA_8f4ad91f64df343db141,408,benign-seborrheic keratosis,mapped,0
+MRA_8f849a8b5e6429ff2b48,405,benign-other,mapped,0
+MRA_8fdd34ef3c4e9a29e992,90,malignant- bcc,mapped,1
+MRA_9021714df605e122fec1,245,benign-seborrheic keratosis,mapped,0
+MRA_90332dd276267db8ecf7,463,malignant- bcc,mapped,1
+MRA_9034feb12b89648166c8,228,benign-melanocytic nevus,mapped,0
+MRA_9041b60b5d866e13c157,436,malignant- other,mapped,1
+MRA_905f7d84515781855511,278,benign-other,mapped,0
+MRA_90a301846eb5c8a8239d,553,benign-fibrous papule,mapped,0
+MRA_910d277e2ed54ee0cd3d,637,malignant- scc,mapped,1
+MRA_914a10f352ae47b1b78c,166,benign-other,mapped,0
+MRA_91cad7589704af769f5b,234,malignant- ak,mapped,1
+MRA_92733b7af256109dbca4,399,benign-melanocytic nevus,mapped,0
+MRA_928231c68da1e8187fc1,95,benign-other,mapped,0
+MRA_9299f46144cf9df63186,542,benign-other,mapped,0
+MRA_92c149027853fd3b1f4a,537,benign-other,mapped,0
+MRA_931419de65f4397fe2dc,411,benign-melanocytic nevus,mapped,0
+MRA_935d827595fcdaa67120,640,malignant- scc,mapped,1
+MRA_9392babc676c051c3aba,499,benign-seborrheic keratosis,mapped,0
+MRA_93a73d94cd2edc8dd71e,46,benign-melanocytic nevus,mapped,0
+MRA_93c3ddd5e01e698709f4,406,malignant- bcc,mapped,1
+MRA_948454acebe92cc323dd,224,benign-other,mapped,0
+MRA_94ae0aefbb4491343ecf,524,benign-other,mapped,0
+MRA_94b9278dcd8f6efcd90c,628,benign-melanocytic nevus,mapped,0
+MRA_94b9f9e29df4e635fdac,498,malignant- bcc,mapped,1
+MRA_94fc8a33f4ae77159085,41,malignant- bcc,mapped,1
+MRA_950bba06e24b1b3b5220,197,benign-other,mapped,0
+MRA_952b35a59a75eda8eea5,32,malignant- ak,mapped,1
+MRA_95581eb7dedd7d25d137,38,benign-seborrheic keratosis,mapped,0
+MRA_95e562f5272aa41f4a71,201,malignant- bcc,mapped,1
+MRA_96ee0d23c2c670d02525,113,benign-seborrheic keratosis,mapped,0
+MRA_970054527dcb0c492765,119,malignant- sccis,mapped,1
+MRA_97a79a0850070b3ab255,37,benign-other,mapped,0
+MRA_97a9746fcd4b78c7284d,18,malignant- scc,mapped,1
+MRA_97cc6bb54c32dfcb9f65,106,benign-other,mapped,0
+MRA_98185cbe0d8b9f183e5d,235,benign-dermatofibroma,mapped,0
+MRA_9872652dc9c7a0b64664,220,malignant- bcc,mapped,1
+MRA_98f699dd78b036ec29d2,725,benign-melanocytic nevus,mapped,0
+MRA_9964b19a09b16813aeb9,188,malignant- ak,mapped,1
+MRA_99ce0ae9f46c1d29c4e5,423,benign-seborrheic keratosis,mapped,0
+MRA_99e8b0740cfb643a41c0,528,malignant- bcc,mapped,1
+MRA_99f792a0f3c48eecfc94,763,malignant- sccis,mapped,1
+MRA_99fe6431397406dc601a,206,malignant- bcc,mapped,1
+MRA_9a8c409ed82f941d47fa,264,benign-melanocytic nevus,mapped,0
+MRA_9bce28b80f142219a7ae,138,malignant- ak,mapped,1
+MRA_9c204ac45a73e6060621,90,malignant- bcc,mapped,1
+MRA_9c2ee35d5a9dfac9abaa,13,malignant- sccis,mapped,1
+MRA_9c6fb2f95e382cd2e073,294,benign-melanocytic nevus,mapped,0
+MRA_9c72298a1b04be1afe61,381,malignant- melanoma,mapped,1
+MRA_9d40c6225e754cb1a6e9,564,malignant- scc,mapped,1
+MRA_9d478a9d02f9abb2a84a,486,malignant- bcc,mapped,1
+MRA_9d5894245af21b0f73e5,313,malignant- melanoma,mapped,1
+MRA_9d74d3fd8c9547710553,221,malignant- bcc,mapped,1
+MRA_9dbafe7ea1fe23f804ca,316,benign-seborrheic keratosis,mapped,0
+MRA_9dcbd1326b12ac9d0950,252,malignant- bcc,mapped,1
+MRA_9e1e13c5357f9f19eafd,442,benign-melanocytic nevus,mapped,0
+MRA_9e6221082f154fa9edc4,534,benign-seborrheic keratosis,mapped,0
+MRA_9ea9f9a3cd226eaf4419,101,benign-melanocytic nevus,mapped,0
+MRA_9ee4ba6ea4a3c432f2e8,570,malignant- melanoma,mapped,1
+MRA_9f285be83975bb817af7,493,malignant- bcc,mapped,1
+MRA_9f503c5d112822a24984,36,malignant- scc,mapped,1
+MRA_9f55a118bf15591f1945,22,benign-seborrheic keratosis,mapped,0
+MRA_9f6d1065f967f71c4959,174,malignant- bcc,mapped,1
+MRA_a076471d6b071d0e0bb3,362,benign-seborrheic keratosis,mapped,0
+MRA_a0976a4e24479634bd44,215,benign-melanocytic nevus,mapped,0
+MRA_a0c0399e2dde5652c48c,176,malignant- scc,mapped,1
+MRA_a0f9f796bb56f2606e16,65,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_a174dbe18595a719cb24,262,malignant- scc,mapped,1
+MRA_a191de97d5497a9d7640,733,malignant- bcc,mapped,1
+MRA_a1eab29a8094ed07f5bf,369,benign-seborrheic keratosis,mapped,0
+MRA_a272dbd2353707eb96f8,696,benign-melanocytic nevus,mapped,0
+MRA_a3866b1b5e919e908aa9,420,benign-melanocytic nevus,mapped,0
+MRA_a38a84922f6bf5dc3cc2,43,benign-seborrheic keratosis,mapped,0
+MRA_a39c6125ddc674dbd6e4,329,benign-hemangioma,mapped,0
+MRA_a48277bd3632a6048a89,783,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_a4b303419dcd6c3b6b40,126,malignant- scc,mapped,1
+MRA_a4cfc416d6f7351d18e5,244,malignant- bcc,mapped,1
+MRA_a51ff7db9a0484bc1b27,421,benign-other,mapped,0
+MRA_a56182580b19fb181f66,349,malignant- bcc,mapped,1
+MRA_a5d424c491cca1ac4b43,591,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_a645f4303f357eb37fb4,614,benign-melanocytic nevus,mapped,0
+MRA_a6edaab1e24c914098da,486,malignant- bcc,mapped,1
+MRA_a71068dbb3958d4a467b,309,benign-melanocytic nevus,mapped,0
+MRA_a746768f2290ce87841c,51,benign-seborrheic keratosis,mapped,0
+MRA_a7609f3fcf2d0a902e30,728,benign-other,mapped,0
+MRA_a76b5922afe18b2652cb,225,malignant- sccis,mapped,1
+MRA_a800de3bd827d4a4963e,758,malignant- scc,mapped,1
+MRA_a82cfccdf58da770154e,198,malignant- bcc,mapped,1
+MRA_a85d083461b75173fb78,248,benign-hemangioma,mapped,0
+MRA_a85f3b770372dd2b2bbe,317,benign-melanocytic nevus,mapped,0
+MRA_a861de17ff2089192281,155,benign-other,mapped,0
+MRA_a86737aa9d5f37e65dd3,157,benign-other,mapped,0
+MRA_a8b25d4cce02ed94e0f9,535,malignant- sccis,mapped,1
+MRA_a8c7540255b026a2a24b,498,benign-other,mapped,0
+MRA_a90ca1011ed1feaf0eea,441,malignant- bcc,mapped,1
+MRA_a9641ff187106bea8944,87,benign-other,mapped,0
+MRA_a97e54ce089f883a71ae,366,malignant- bcc,mapped,1
+MRA_a9b34e3e029aa9bb8f2d,545,malignant- bcc,mapped,1
+MRA_aa0caaa3e48b7d6b441c,352,benign-seborrheic keratosis,mapped,0
+MRA_aa0f7eea3acf063a0022,495,benign-seborrheic keratosis,mapped,0
+MRA_aa35e6b3c4ee03901f6f,569,benign-seborrheic keratosis,mapped,0
+MRA_aaa7675942c860af887a,659,benign-other,mapped,0
+MRA_aae7195ba03ec91f1b6c,26,malignant- sccis,mapped,1
+MRA_ab13b5391f01cfbacdc3,285,benign-other,mapped,0
+MRA_ab35d4593cba52beb6ad,247,benign-other,mapped,0
+MRA_ab73251ccf20973f2006,44,malignant- scc,mapped,1
+MRA_abbac7db00c5b2578a20,564,malignant- sccis,mapped,1
+MRA_abe7deb039c1c0d7a7cd,254,benign-melanocytic nevus,mapped,0
+MRA_abf054d8179ac8f3ef94,569,malignant- sccis,mapped,1
+MRA_ac7ef8557b2977bc28b0,188,malignant- sccis,mapped,1
+MRA_acaac1f5988ce4744d88,640,benign-seborrheic keratosis,mapped,0
+MRA_ad00bf53b1e9de1db72b,251,malignant- ak,mapped,1
+MRA_ad151c6b885777516183,129,malignant- bcc,mapped,1
+MRA_ada2ea0aabf9c29f3924,377,benign-other,mapped,0
+MRA_adbb7f33e5d015dfa340,431,benign-melanocytic nevus,mapped,0
+MRA_adcad783cb689c64e7f3,56,malignant- sccis,mapped,1
+MRA_add8db30091d27704202,538,benign-other,mapped,0
+MRA_adea2d008d0af480bd85,53,malignant- bcc,mapped,1
+MRA_aea03bbbf3f632c92a3a,159,malignant- bcc,mapped,1
+MRA_aedb32440c9e44fa7fee,328,benign-melanocytic nevus,mapped,0
+MRA_aef3653997c275d262c2,288,malignant- bcc,mapped,1
+MRA_aeff9d8ac6a9d8dd32b7,527,malignant- bcc,mapped,1
+MRA_af66bc7b85c8c241d9ad,717,benign-other,mapped,0
+MRA_afb21eb9c28527942397,45,malignant- sccis,mapped,1
+MRA_afcf1955767a45c0b649,125,malignant- bcc,mapped,1
+MRA_b00227b97f91c12cbcee,273,benign-melanocytic nevus,mapped,0
+MRA_b0672b19e4353a875c22,313,benign-melanocytic nevus,mapped,0
+MRA_b07f9db16f3cc329f9fe,102,malignant- scc,mapped,1
+MRA_b0a54241b662a9ec31bf,201,benign-seborrheic keratosis,mapped,0
+MRA_b10dd1584757e272d5f4,511,malignant- bcc,mapped,1
+MRA_b13e51a7284420781ca1,262,benign-other,mapped,0
+MRA_b20d9966695de3ab6ff9,400,benign-other,mapped,0
+MRA_b22930afe28bd6ca1af8,530,malignant- ak,mapped,1
+MRA_b28417291210447cf785,167,benign-other,mapped,0
+MRA_b2f3b23d2c0b8d871412,372,benign-other,mapped,0
+MRA_b369bc43d85b53e64f9d,223,benign-other,mapped,0
+MRA_b3d96cc5ca77d63d80b9,189,malignant- sccis,mapped,1
+MRA_b4ce86aac7c78458f630,13,malignant- sccis,mapped,1
+MRA_b4cf1c20dbcbaded9bc3,492,malignant- bcc,mapped,1
+MRA_b5078fcb887bfca61caf,511,malignant- bcc,mapped,1
+MRA_b50bdbccce6b1afccd10,612,benign-seborrheic keratosis,mapped,0
+MRA_b5635a7bd551a7e82159,156,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_b56a5fb217f23ca2ee97,71,malignant- scc,mapped,1
+MRA_b5925c76a6bdac1ee252,196,benign-other,mapped,0
+MRA_b5a544470aa50f8c75a1,432,benign-seborrheic keratosis,mapped,0
+MRA_b5aef72324d7f56e3cb1,98,malignant- melanoma,mapped,1
+MRA_b6330e046fcd9f48fe96,456,malignant- bcc,mapped,1
+MRA_b69858eaeaae83237904,289,malignant- scc,mapped,1
+MRA_b6a5ed9cbe3e93615641,385,malignant- melanoma,mapped,1
+MRA_b6c03be698be59e2d24f,471,malignant- bcc,mapped,1
+MRA_b762de02378081888fa3,356,benign-melanocytic nevus,mapped,0
+MRA_b76a251f52afdd328e48,594,benign-melanocytic nevus,mapped,0
+MRA_b7e776aa8b18ee26d08d,302,benign-melanocytic nevus,mapped,0
+MRA_b80463c7d8e0bef57008,647,benign-melanocytic nevus,mapped,0
+MRA_b80e7d640d0635f672fb,268,benign-other,mapped,0
+MRA_b88870f0251560a38988,442,benign-melanocytic nevus,mapped,0
+MRA_b8982cc9bfbcb86d022e,560,benign-melanocytic nevus,mapped,0
+MRA_b8cb856a5c6f002cc1ed,60,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_b9092441fd01ea7b048a,481,benign-seborrheic keratosis,mapped,0
+MRA_b93057ed86bd215a6569,241,benign-melanocytic nevus,mapped,0
+MRA_b9bbf2738e35a42e39c7,175,malignant- bcc,mapped,1
+MRA_bacc08c99cfc05eba2ad,425,malignant- sccis,mapped,1
+MRA_bad3b82b7563023dcd0d,403,malignant- melanoma,mapped,1
+MRA_baf5ff573d2a304d7ef3,107,malignant- bcc,mapped,1
+MRA_bb4f4ea2e11ccee13549,512,malignant- melanoma,mapped,1
+MRA_bbc82d25311bee170923,253,malignant- ak,mapped,1
+MRA_bc7d539564739ed70e05,152,malignant- melanoma,mapped,1
+MRA_bc94a36572b01bc9cc76,58,benign-melanocytic nevus,mapped,0
+MRA_bcb5d53b2aa8c55a1b42,564,malignant- sccis,mapped,1
+MRA_bcebc7cb47c53320ad6c,483,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_bd4537ae6d19e64a4cb8,359,malignant- melanoma,mapped,1
+MRA_bd5cc6f3db984c71b40d,220,malignant- bcc,mapped,1
+MRA_bdc30e03ed66e52abc16,311,benign-other,mapped,0
+MRA_bde5ce13acf4d635e470,358,benign-melanocytic nevus,mapped,0
+MRA_bdf71a4e25018bd4d613,151,benign-seborrheic keratosis,mapped,0
+MRA_be1b33907af752545300,54,benign-other,mapped,0
+MRA_beea7e087dbb47bcb438,56,benign-melanocytic nevus,mapped,0
+MRA_bf43ad514dc9bc4bd716,178,benign-melanocytic nevus,mapped,0
+MRA_bfb317b24955f0265993,486,malignant- ak,mapped,1
+MRA_c0012ba5b36219937bec,174,malignant- bcc,mapped,1
+MRA_c004d600eccab81631be,43,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_c04ca67ddb93e4e9b73e,31,benign-melanocytic nevus,mapped,0
+MRA_c054075b8971707638bf,216,benign-other,mapped,0
+MRA_c09e1c4536522bbecf7e,112,malignant- scc,mapped,1
+MRA_c09fdfe1caba1eb12511,513,malignant- scc,mapped,1
+MRA_c0a812a522f7048424c8,658,benign-other,mapped,0
+MRA_c0ab3fcbba8220ca71f2,415,malignant- melanoma,mapped,1
+MRA_c145434990655b1d4706,282,benign-other,mapped,0
+MRA_c1b504e6de7eda8fcf73,220,malignant- bcc,mapped,1
+MRA_c1becae43723046a01d1,738,benign-dermatofibroma,mapped,0
+MRA_c223c1a9dda5512e20d3,437,malignant- melanoma,mapped,1
+MRA_c24e1196e0842d0ee75e,784,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_c2737455d163b2604c82,124,malignant- bcc,mapped,1
+MRA_c2a3d97fd2e7dbd478ef,78,benign-seborrheic keratosis,mapped,0
+MRA_c2af903b826bc96a4d69,804,malignant- ak,mapped,1
+MRA_c2fef57f6c8b9ca23d0d,30,malignant- sccis,mapped,1
+MRA_c4260bf317417019d44e,114,malignant- scc,mapped,1
+MRA_c47b9aeddd4e1b04e121,786,benign-other,mapped,0
+MRA_c48eeac1be93283cbc42,73,malignant- bcc,mapped,1
+MRA_c4ad65f85bcb9f6cc3ed,750,malignant- sccis,mapped,1
+MRA_c4bbd042be0bb0f7b8b4,412,malignant- melanoma,mapped,1
+MRA_c4dcecbc0a0308ccd303,202,malignant- bcc,mapped,1
+MRA_c4e1d5c7d99e61eebadf,32,malignant- bcc,mapped,1
+MRA_c4e22f21c3930d7cd2b3,95,benign-seborrheic keratosis,mapped,0
+MRA_c4f96132d5cda80d57eb,186,malignant- scc,mapped,1
+MRA_c52423b342a51dd7f03b,546,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_c57976e45e3fa6ccda58,291,malignant- melanoma,mapped,1
+MRA_c5cf1699c442a869d7b2,749,malignant- ak,mapped,1
+MRA_c5f39bb343b4ba67ec61,195,benign-other,mapped,0
+MRA_c5fad15c116c2b492cce,110,benign-other,mapped,0
+MRA_c60564bbadeebbd4274a,13,malignant- sccis,mapped,1
+MRA_c614b26a566d2b067ca5,277,benign-melanocytic nevus,mapped,0
+MRA_c621bdbe9f7c6c3156dc,489,"melanocytic tumor, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_c62f1e90d06ab17ab9fd,231,benign-melanocytic nevus,mapped,0
+MRA_c6301a7b37fa189908c3,85,benign-melanocytic nevus,mapped,0
+MRA_c6a2f1b332917162066d,158,benign-melanocytic nevus,mapped,0
+MRA_c6b3c124b0b9598c06eb,720,malignant- bcc,mapped,1
+MRA_c722479f03ffeb8680ec,294,benign-melanocytic nevus,mapped,0
+MRA_c745be001da67fe18676,57,malignant- sccis,mapped,1
+MRA_c77a9cbd1213a1589e0e,208,benign-seborrheic keratosis,mapped,0
+MRA_c7efb6981d208060c35b,536,malignant- melanoma,mapped,1
+MRA_c8a047c7c77a47fc33f1,53,benign-seborrheic keratosis,mapped,0
+MRA_c9200fb459549cb54482,323,benign-dermatofibroma,mapped,0
+MRA_c966cc643a9eb32f44b9,417,malignant- scc,mapped,1
+MRA_c96b5d92e9fe65051d4d,330,benign-melanocytic nevus,mapped,0
+MRA_c9bde28168f3ae482ef3,636,malignant- scc,mapped,1
+MRA_ca030a9f12c12c382506,643,benign-melanocytic nevus,mapped,0
+MRA_ca2eb1e227911980dcc5,613,benign-melanocytic nevus,mapped,0
+MRA_ca716c838912918d14e5,259,malignant- ak,mapped,1
+MRA_ca7c7c26ffa6fd2e5bda,41,malignant- bcc,mapped,1
+MRA_ca96ac6cd48e6d1a17d5,418,malignant- scc,mapped,1
+MRA_caac0f8484edd3707036,787,benign-seborrheic keratosis,mapped,0
+MRA_cbeccb2dfbb6591a3b03,298,malignant- bcc,mapped,1
+MRA_cc0afef92b5016154d4a,102,malignant- sccis,mapped,1
+MRA_cc57018dc24df724fb07,591,benign-other,mapped,0
+MRA_cca356de7af8122dd81e,492,benign-seborrheic keratosis,mapped,0
+MRA_ccb2f92d27082e2a8fd6,166,malignant- sccis,mapped,1
+MRA_ccbcbab763c9d0cc45ea,222,benign-other,mapped,0
+MRA_cce6c9cea267e641e7ff,274,malignant- sccis,mapped,1
+MRA_cd263f3c10a6c9f00cda,33,benign-melanocytic nevus,mapped,0
+MRA_cdcef4493d1a8a5ca5fa,407,malignant- bcc,mapped,1
+MRA_cdd453a58e563d4423f5,426,benign-melanocytic nevus,mapped,0
+MRA_ce05fe68a66aeb129bc4,121,malignant- bcc,mapped,1
+MRA_ce275de217c71733058e,342,benign-other,mapped,0
+MRA_ce6455fdc1e691fd1fd5,107,benign-other,mapped,0
+MRA_cf1157d54658780834e7,202,benign-melanocytic nevus,mapped,0
+MRA_cf584cb4db6b57c13ed7,76,malignant- sccis,mapped,1
+MRA_cf61017fda466f1ad61f,707,malignant- sccis,mapped,1
+MRA_d0612a0312fa4f3f206d,774,benign-seborrheic keratosis,mapped,0
+MRA_d092b15bc7025f9fff4e,219,malignant- bcc,mapped,1
+MRA_d0f73002ae60780d59c4,179,malignant- melanoma,mapped,1
+MRA_d11a5a41d7202fa7c1ea,482,benign-other,mapped,0
+MRA_d1e36555c8893ace6bc7,218,malignant- melanoma,mapped,1
+MRA_d1eaf3904639e0816736,198,malignant- ak,mapped,1
+MRA_d1ecfd1c8d0f6475abc2,551,benign-melanocytic nevus,mapped,0
+MRA_d32dd5d5a371ce0a1d2c,572,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_d3d7b431178a1c846764,50,malignant- bcc,mapped,1
+MRA_d3e04ddf75f671bdcb4e,379,malignant- bcc,mapped,1
+MRA_d40c2013a6b9427e95f2,156,malignant- ak,mapped,1
+MRA_d430262ee6bf3e143bdf,318,benign-melanocytic nevus,mapped,0
+MRA_d492b6ac1f44b323389b,121,malignant- bcc,mapped,1
+MRA_d4e0ea28ae0d1947efeb,640,malignant- sccis,mapped,1
+MRA_d5a5817a1be6bbffeb3a,458,benign-other,mapped,0
+MRA_d6058fdf864d04452a3d,747,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_d638fc8eb3faf2fde44b,454,benign-other,mapped,0
+MRA_d6613b7d23fd4dcf63f4,280,malignant- ak,mapped,1
+MRA_d67e9ec4cc200720effd,14,malignant- bcc,mapped,1
+MRA_d6c79c38d6be72e3cf97,114,malignant- ak,mapped,1
+MRA_d6d57791c572ed3d29c0,272,malignant- sccis,mapped,1
+MRA_d709b1b9a1bbd3a53e47,65,malignant- melanoma,mapped,1
+MRA_d7443c94ef11f8a259c6,344,benign-seborrheic keratosis,mapped,0
+MRA_d7704186e6ba72c18cd4,113,malignant- scc,mapped,1
+MRA_d7d3fedceba9d518566b,660,benign-melanocytic nevus,mapped,0
+MRA_d801ad4a72ff54eb44bb,397,malignant- ak,mapped,1
+MRA_d832cfcad2ac85661ba4,341,malignant- bcc,mapped,1
+MRA_d8609c96b5604affe6c4,298,benign-other,mapped,0
+MRA_d8954a9af52dd2cba27a,165,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_d9138c4406f0ab93e099,169,malignant- ak,mapped,1
+MRA_d96902c5cc854004e54e,364,"other- non-neoplastic, inflammatory, infectious",mapped,0
+MRA_d96925f7b00bf921c735,478,benign-seborrheic keratosis,mapped,0
+MRA_d99fd9c39df562f3f7f1,262,malignant- bcc,mapped,1
+MRA_da3b054cfcf410e4ae70,444,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_da930b689b6648b1d5f4,301,malignant- bcc,mapped,1
+MRA_dab83da0312f6ce704b3,465,benign-melanocytic nevus,mapped,0
+MRA_daf31e93bab8b0fc82ff,396,malignant- scc,mapped,1
+MRA_db67a264b2ebe2387e61,90,benign-melanocytic nevus,mapped,0
+MRA_db7e8e75b1dd83c436ac,336,benign-melanocytic nevus,mapped,0
+MRA_dbcd9bd5c2f388d130b4,211,malignant- bcc,mapped,1
+MRA_dc5251c2ab5c626651ae,563,malignant- ak,mapped,1
+MRA_dc614d794cd525ee668c,480,benign-melanocytic nevus,mapped,0
+MRA_dc7fe4eb9e42da1d30ef,17,benign-other,mapped,0
+MRA_dcb4548c83c3b41d9b3e,477,malignant- ak,mapped,1
+MRA_dcc092b149256fc8eddc,200,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_dcce19c4a0f9e855bb0a,347,benign-other,mapped,0
+MRA_dcceca7f88ee4876d4ea,762,benign-other,mapped,0
+MRA_df13f407b2b223f39cd3,453,malignant- scc,mapped,1
+MRA_df5fb1b54d3af929ba36,607,malignant- melanoma,mapped,1
+MRA_dfc9b16593d858fe6b60,424,malignant- bcc,mapped,1
+MRA_e004012cd90db5f1ee6d,193,malignant- melanoma,mapped,1
+MRA_e0708f2856e3a319a5db,611,benign-melanocytic nevus,mapped,0
+MRA_e1cd8939c309beaa4409,467,benign-melanocytic nevus,mapped,0
+MRA_e2336422a64eadaeef9c,507,malignant- bcc,mapped,1
+MRA_e239257cff5c9726ad5e,32,malignant- bcc,mapped,1
+MRA_e2485ed3041178d3d239,297,malignant- bcc,mapped,1
+MRA_e252795e2ca0621ff568,380,malignant- bcc,mapped,1
+MRA_e26dc836fe39f341eb9b,200,malignant- bcc,mapped,1
+MRA_e3b4b746f1189c3c1730,322,benign-seborrheic keratosis,mapped,0
+MRA_e3c7a50228e87c0311d6,342,malignant- melanoma,mapped,1
+MRA_e3c9c197d09a4781b45e,269,benign-melanocytic nevus,mapped,0
+MRA_e3fe1e74a570f4419b2c,472,malignant- bcc,mapped,1
+MRA_e4714c8945ba5f6866cb,286,benign-other,mapped,0
+MRA_e47a64aab96f9a0df427,27,benign-melanocytic nevus,mapped,0
+MRA_e4d51f1f4a36b064eca8,368,benign-other,mapped,0
+MRA_e507c6ccf14d4d3ab47c,6,malignant- scc,mapped,1
+MRA_e50f2bd0888ac5cdbdd2,323,benign-melanocytic nevus,mapped,0
+MRA_e51126d28845da72d840,156,malignant- ak,mapped,1
+MRA_e517a3370785cab4ea55,350,malignant- ak,mapped,1
+MRA_e5ab15a23bb7b01b6be5,53,benign-other,mapped,0
+MRA_e5eed56dac520cc05ca7,460,benign-other,mapped,0
+MRA_e67afd7ce062264ebcdb,134,malignant- scc,mapped,1
+MRA_e6b6391ae2418b30f807,239,benign-melanocytic nevus,mapped,0
+MRA_e705d84b4b5d18251dba,654,benign-other,mapped,0
+MRA_e7204e82981d7cb097e6,335,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",mapped,0
+MRA_e7396d3a3a8898391960,388,malignant- melanoma,mapped,1
+MRA_e73d2a1aeefed7162f69,183,benign-melanocytic nevus,mapped,0
+MRA_e7429069922dc7a04406,462,malignant- melanoma,mapped,1
+MRA_e753cf1819a391ddb9e0,449,malignant- scc,mapped,1
+MRA_e88816b03ff776a7235c,220,malignant- bcc,mapped,1
+MRA_e8d41b3f85b40b439a40,739,malignant- bcc,mapped,1
+MRA_e8ef7e7c9335c2382107,191,malignant- sccis,mapped,1
+MRA_e96b91d23098b47ed838,616,malignant- melanoma,mapped,1
+MRA_e97fda3e673da2fb5b55,77,benign-melanocytic nevus,mapped,0
+MRA_e9e3785db112445bfa5b,741,malignant- scc,mapped,1
+MRA_e9f0bb7f297339c90405,220,malignant- sccis,mapped,1
+MRA_ea3c4728322f7b6c432e,547,benign-other,mapped,0
+MRA_ea6cefcc8f6a6e098b8e,141,benign-other,mapped,0
+MRA_ea9925d4c3f04c644a16,711,benign-other,mapped,0
+MRA_eaca4001909ab87e5e64,446,malignant- bcc,mapped,1
+MRA_eb0f21c8f84caea5ae0f,223,benign-seborrheic keratosis,mapped,0
+MRA_eb820066bc7388b857ea,149,malignant- bcc,mapped,1
+MRA_eba0f931e5d6340cdccd,670,benign-melanocytic nevus,mapped,0
+MRA_ebe12ca7ce267e36795c,620,benign-seborrheic keratosis,mapped,0
+MRA_ebf9159a38d984151332,13,malignant- scc,mapped,1
+MRA_ec0b2a34e690696de0b0,429,malignant- other,mapped,1
+MRA_ec3696b7233daaf1d35d,186,benign-melanocytic nevus,mapped,0
+MRA_ec8625b188ae35915b01,23,malignant- bcc,mapped,1
+MRA_ecc7df20cd0e6feaa0f7,548,malignant- bcc,mapped,1
+MRA_ececb7417c9ca024eabf,442,benign-melanocytic nevus,mapped,0
+MRA_ed9057378572671959a9,113,malignant- bcc,mapped,1
+MRA_ed9a1c187c0ab459d7de,174,malignant- bcc,mapped,1
+MRA_edc72e4c2cefb999683a,551,malignant- ak,mapped,1
+MRA_edf33c49f638c44e9b8a,780,benign-other,mapped,0
+MRA_ee7dba66a0c404aff070,485,malignant- sccis,mapped,1
+MRA_ee8bdae1c07389463e0b,365,malignant- bcc,mapped,1
+MRA_eef0f838c85c0cad61cd,244,malignant- bcc,mapped,1
+MRA_f066a2ccabae7f0d3e40,350,malignant- ak,mapped,1
+MRA_f09af533ef99cacac999,195,malignant- bcc,mapped,1
+MRA_f1387148b5e5a9fb0d06,595,benign-melanocytic nevus,mapped,0
+MRA_f163f0bf490c4224df30,78,malignant- melanoma,mapped,1
+MRA_f16ee308b89b0c236855,152,malignant- sccis,mapped,1
+MRA_f17a18941447f99c46c1,610,benign-melanocytic nevus,mapped,0
+MRA_f17a2a95e956f06bd667,262,malignant- bcc,mapped,1
+MRA_f1aa6f1bced0711dd08f,141,benign-other,mapped,0
+MRA_f1cd8c6c92f89ac4af7b,356,malignant- melanoma,mapped,1
+MRA_f22f586626d04bf4698d,740,benign-melanocytic nevus,mapped,0
+MRA_f26eabf4307fdbb8ecd0,645,benign-seborrheic keratosis,mapped,0
+MRA_f277c4ce0069bf19551b,268,malignant- scc,mapped,1
+MRA_f2fb0e2f86569507fa90,194,benign-melanocytic nevus,mapped,0
+MRA_f301e401aca3e919f390,266,malignant- bcc,mapped,1
+MRA_f304dc4fad96f9940265,601,benign-seborrheic keratosis,mapped,0
+MRA_f31fcd628cd761a83eba,582,benign-melanocytic nevus,mapped,0
+MRA_f33db545e9ad1d7b3f61,297,benign-melanocytic nevus,mapped,0
+MRA_f3574f6fd25698ae00c4,455,benign-melanocytic nevus,mapped,0
+MRA_f409d7e66d75feb06143,72,benign-other,mapped,0
+MRA_f4257a2eb5959c594aac,803,benign-melanocytic nevus,mapped,0
+MRA_f44e5d0d7c35b14781e5,430,benign-other,mapped,0
+MRA_f4da4ce435fc900c95c0,103,benign-other,mapped,0
+MRA_f53a60832cc7bd37c855,13,malignant- scc,mapped,1
+MRA_f53b57c712b317d082f7,448,malignant- bcc,mapped,1
+MRA_f56d152f67effa82e019,597,benign-other,mapped,0
+MRA_f5c487f9508991e8d412,562,benign-other,mapped,0
+MRA_f661caa076659ef5580b,570,benign-melanocytic nevus,mapped,0
+MRA_f6700de7a87e2c1b4f0a,148,benign-seborrheic keratosis,mapped,0
+MRA_f670de54f9e76327677c,261,malignant- sccis,mapped,1
+MRA_f680c87878ad99d00d8b,815,benign-melanocytic nevus,mapped,0
+MRA_f6a4869975591e5f40a6,659,malignant- melanoma,mapped,1
+MRA_f6efd7184a46f728a54a,397,benign-melanocytic nevus,mapped,0
+MRA_f80df5fdda0f2a4497d4,89,malignant- melanoma,mapped,1
+MRA_f8ae8377ad3259b90cd1,319,benign-other,mapped,0
+MRA_f8c9a6aac9c1a4cb93df,805,malignant- bcc,mapped,1
+MRA_f934f9df724048a177c2,568,benign-seborrheic keratosis,mapped,0
+MRA_f94afbc131727a247779,32,malignant- bcc,mapped,1
+MRA_f95ee82f953edfc9a28c,278,benign-melanocytic nevus,mapped,0
+MRA_f9790d97f0b813ff37c9,27,benign-melanocytic nevus,mapped,0
+MRA_fa507b03598aea3462b1,213,benign-other,mapped,0
+MRA_faeed1821c5a3eff1018,240,malignant- melanoma,mapped,1
+MRA_fbb7f2064904adef62ec,576,benign-melanocytic nevus,mapped,0
+MRA_fbe9c63f616df6f6fedb,716,malignant- ak,mapped,1
+MRA_fc1343fb711135992009,324,benign-melanocytic nevus,mapped,0
+MRA_fc3f37a4363a892be92e,591,benign-other,mapped,0
+MRA_fc94cfcf6b9e608d2891,575,benign-melanocytic nevus,mapped,0
+MRA_fd03016a4429eb0a797b,558,benign-seborrheic keratosis,mapped,0
+MRA_fe2141e70cf4fc1702e4,13,benign-seborrheic keratosis,mapped,0
+MRA_ff3159aa7a82c6bdb7cb,101,benign-seborrheic keratosis,mapped,0
+MRA_ff5587d1b85c335389ab,454,malignant- bcc,mapped,1
+MRA_ffc2c73dc2b13a8d34c8,486,malignant- bcc,mapped,1
+MRA_fff59d70d446cd7c65d0,320,benign-other,mapped,0

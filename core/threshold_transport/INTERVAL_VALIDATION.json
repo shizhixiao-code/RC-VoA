@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "prefix_checks": 9072,
+  "alternative_completion_checks": 1944,
+  "full_record_checks": 1296,
+  "verdict_disagreements": 0,
+  "unchanged_verifier_sha256": "740fe10b5227a6cc793eba27bc77e0ed79f6317948075ba26db35116ab8a616f",
+  "check_code_sha256": "f2946f90d9297f6c4f320d54ac035a5331391ec827c7554c5e48f0a7dae4026d",
+  "scope": "Program applicability/enclosure check; not a new retrieval-cost experiment."
+}

@@ -1,0 +1,1052 @@
+{
+  "status": "PASS",
+  "original_metrics_reproduced": 150,
+  "sealed_ranking_selection_contexts": 50,
+  "quota_evaluations": 26025,
+  "summary": [
+    {
+      "policy": "Clinical-risk",
+      "configurations": 50,
+      "oracle_feasible": 10,
+      "original_pass": 0,
+      "projected_pass": 0,
+      "any_quota_pass": 0,
+      "feasible_any_quota_pass": 0
+    },
+    {
+      "policy": "Proximity",
+      "configurations": 50,
+      "oracle_feasible": 10,
+      "original_pass": 0,
+      "projected_pass": 0,
+      "any_quota_pass": 0,
+      "feasible_any_quota_pass": 0
+    },
+    {
+      "policy": "Transition-aware",
+      "configurations": 50,
+      "oracle_feasible": 10,
+      "original_pass": 0,
+      "projected_pass": 0,
+      "any_quota_pass": 0,
+      "feasible_any_quota_pass": 0
+    }
+  ],
+  "provenance": [
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\inputs\\case_results.csv.gz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\inputs\\case_results.csv.gz",
+      "sha256": "c5d7d5561b6c9b2ab547a7f3d5507ce2bc26b3ba06c8d161f3815db2435c93ce"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\inputs\\configuration_results.csv",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\inputs\\configuration_results.csv",
+      "sha256": "c3dc71c23e512aa56f922c8bbbd8d86a25f685d87c288cdeeb4dff2c75db259a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\inputs\\EVALUATION_COMPLETE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\inputs\\EVALUATION_COMPLETE.json",
+      "sha256": "fb7f1b44c51f8a0d9abcf225746181b56cc892a4edbb793b6e932718b1ab8f4b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f0__q50\\DONE.json",
+      "sha256": "58f115f8d2637a306c93c3021ece5a454a3e940e7db6b0392866a07de9ada62f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f0__q50\\probabilities.npz",
+      "sha256": "676018202a6dba6703282d26b2301dce003ac17e103f0333fc0e9970385d89b5"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f0__q50\\selection.npz",
+      "sha256": "12f23df8f955b92a790f673d387f0f17b8958f97061499fa097765a220eb8893"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f0__q50\\policy.json",
+      "sha256": "cb89f6169505f111dbd84a727a2448f54155b9b524b37e0e05a2dba9fa6f4d95"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f1__q50\\DONE.json",
+      "sha256": "44e82ed365fde5c88b34e30efb6c2c4422744a8f41968df12c3a82833ff2e677"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f1__q50\\probabilities.npz",
+      "sha256": "32ce52b2f18714a0eaeb7656b8a1878c83dda38f5061e2c18b3b776c963ce119"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f1__q50\\selection.npz",
+      "sha256": "6fc9f703c586bde1f87933a435c100a780ea70e189a4b654615d6ddc5a46a56f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f1__q50\\policy.json",
+      "sha256": "d6559a92f2139a39a3549287feeace47c27f7e65abe85cb5b9cc8507beb38ded"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f2__q50\\DONE.json",
+      "sha256": "ee0af256b0d3be235e8948b6921b383dc1d86adbfe9b6dbf0a229787c2380bfb"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f2__q50\\probabilities.npz",
+      "sha256": "eb101664b2fc4695063f9b89e7592e654821356f3e9ae7c7b40e2ee0e2d31a0f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f2__q50\\selection.npz",
+      "sha256": "3dffb045527103b3b3dc192f9c681b58bbf3c0a0d16424124f17d49c690e1aae"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f2__q50\\policy.json",
+      "sha256": "6cdd405fd7a52d759ca0a9d6996e31074894a273ccf1f2c9196efc3d04ca8958"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f3__q50\\DONE.json",
+      "sha256": "32269bb17163e30c191a79d61e043d07f7296fc95ed120acd8aabbaeb382f270"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f3__q50\\probabilities.npz",
+      "sha256": "1f4e2418eddad630fd074535efb75d62fc6b271dbaa61a64d40fd8a4256a3078"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f3__q50\\selection.npz",
+      "sha256": "dfe94af18c36ec876eded933e889d36c0e023cc11e8bafad1e49d553b99868dc"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f3__q50\\policy.json",
+      "sha256": "8d9630d794d8811b33cea72492684b0692be4e824e9ce30f5506fc9522911e25"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f4__q50\\DONE.json",
+      "sha256": "e5e4445adbac6bee9be31a612828ff1fa5cf817f14d640730daf2016a0c6ad57"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f4__q50\\probabilities.npz",
+      "sha256": "83d00528395d8ed275e43836457543a658b19962a07f13f8d23cec2bdd00d6bb"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f4__q50\\selection.npz",
+      "sha256": "33e0d803b39dff8ebfa7ffeff9c8c00319066a7052e903204ce1925c916cf93f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__headonly__f4__q50\\policy.json",
+      "sha256": "a6a46c336cc583531509f9c469d211edad4fcbdf34d2ed158e3f96b1576c09ab"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f0__q50\\DONE.json",
+      "sha256": "8d1d4a50eeb3c5bae38295ce751bd1324b45d13785e07065272b70f44e90c355"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f0__q50\\probabilities.npz",
+      "sha256": "b6af921b6dceb04c06c3bedcd1f481968d3024ebc74d4b9327acc4f81c3b847d"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f0__q50\\selection.npz",
+      "sha256": "12f23df8f955b92a790f673d387f0f17b8958f97061499fa097765a220eb8893"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f0__q50\\policy.json",
+      "sha256": "5a6311c69c5c8260369963f0fd8f855d4661e536b43731c4d3f94a1a0597e793"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f1__q50\\DONE.json",
+      "sha256": "a899cde8987e71e4a775676ee141ccc6269e10586a95846d88450474b8b4c04a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f1__q50\\probabilities.npz",
+      "sha256": "be9b0b2ab1a5dbf455c58fe5d0f013fbca4a5c78fa026418168135738f28f8e5"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f1__q50\\selection.npz",
+      "sha256": "ca2595d24f67f5cff3636322686412d334d70cf1cec028695258bf96718cbb7e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f1__q50\\policy.json",
+      "sha256": "b1e4fae8a5f8e1664e2c3511256621573e4e93737099f7081419381e475262d1"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f2__q50\\DONE.json",
+      "sha256": "e3e79eba4048b621ce627afccd9ec29d6894027bd8b2d8985e03b310e93840f5"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f2__q50\\probabilities.npz",
+      "sha256": "5e04cdb0da3d705fdac32756f35f7b9588c6f3f1f0c9045422f20d5015641fab"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f2__q50\\selection.npz",
+      "sha256": "46b2fac11c832b65f32868a5ce3a18631094b05d3bb47d7257dbd8661df1923d"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f2__q50\\policy.json",
+      "sha256": "60e6525450da0f245523613454d12f3f08066c8d0332725c5d9ec4dc3354735f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f3__q50\\DONE.json",
+      "sha256": "6f947e6e88ec12f8bfd452e2f2669694a054d99b731153d9e3eff4c815ef893c"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f3__q50\\probabilities.npz",
+      "sha256": "d94f69835d2a2fbe873ec56b413fd6bd7926c44fd2f2ff4cb1f89db27bb1e53b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f3__q50\\selection.npz",
+      "sha256": "dfe94af18c36ec876eded933e889d36c0e023cc11e8bafad1e49d553b99868dc"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f3__q50\\policy.json",
+      "sha256": "e78401922d2ba9b8cffa8f3978408bd6afda4b43d628b79eec85638ac6f13133"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f4__q50\\DONE.json",
+      "sha256": "0eff1969b427419892a2f9c72e7cdce676c191527d3a36770b377caf4e0c7e22"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f4__q50\\probabilities.npz",
+      "sha256": "d208fb77bddd3df3e5de503d78c099f88bf36ead57c4168891ffdcbe25340222"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f4__q50\\selection.npz",
+      "sha256": "33e0d803b39dff8ebfa7ffeff9c8c00319066a7052e903204ce1925c916cf93f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__laststage__f4__q50\\policy.json",
+      "sha256": "0416d5b85bb9d516c6077c8f0e947e1c1312ed6da3c0c5b591fcedaf1f1655c1"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f0__q50\\DONE.json",
+      "sha256": "0f8554220fef2c39f2c9e01cb8269d8c9f3b0045514b39e2d7301b944133fe32"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f0__q50\\probabilities.npz",
+      "sha256": "163729fe895b979da3c62011b632d48f6af118404a7ec44ca6de56eb25f20a27"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f0__q50\\selection.npz",
+      "sha256": "896592af3a8bb312cbcb4598a3190b4bf6644b2b1498f2751fa7ebff45aa062e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f0__q50\\policy.json",
+      "sha256": "00e7b006d096990610705865ab67c2c4aedecabdf7c21b67b461b782890ca8de"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f1__q50\\DONE.json",
+      "sha256": "7816940296b5005cd66ff00b4a4e278d84b893b5ca603000d017c283e5cb47fe"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f1__q50\\probabilities.npz",
+      "sha256": "2577e7f23c425bd48f266931971f32a21ba32d4e5095e7804f317d9a9eb365db"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f1__q50\\selection.npz",
+      "sha256": "59a48b270cb3d11fac8f42d0c52b84aafea8453a85c2feb32ec21d94e252aa1c"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f1__q50\\policy.json",
+      "sha256": "a1950864f4a9bbd699b1874dc8ae2502ba21649704d27835db8541779b12c79b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f2__q50\\DONE.json",
+      "sha256": "18c6b34a8f8fe22eef5401e24b56a62ecebf2bafc2aad6e1ca6c98f4c0bba620"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f2__q50\\probabilities.npz",
+      "sha256": "b742530d0712682239e6177eb33eef98f70c6837ce292f20da87079ecadd7ab7"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f2__q50\\selection.npz",
+      "sha256": "7f4cf5013b66ab948532dc60462864f6262a098d22d5545c4089d35081a4ba2e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f2__q50\\policy.json",
+      "sha256": "34e3fba0ebce524fefb2eba390805ae541b1ca0ad451f294f9642cdf869d5618"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f3__q50\\DONE.json",
+      "sha256": "47a8e1fa17ffb62312f632bfb609dde1b1d35b5f18a6152fb1b7778c14415c83"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f3__q50\\probabilities.npz",
+      "sha256": "8f023c804d9e7c39c51acd8d476930caadadc0cf3ff5e7d17bb2c3af73249683"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f3__q50\\selection.npz",
+      "sha256": "091d5c37c753a1570ec344683b90bdd8bfec5d97585fdc1196f66dad7ac819da"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f3__q50\\policy.json",
+      "sha256": "d584394a7deb01e4946bf6b9fe9bc31779201234328d7819b23b99c91cb84e8d"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f4__q50\\DONE.json",
+      "sha256": "8e83f703b34630dceb78efb0440c840ac7c693aba5ebc693e8d20c8ba6c8328a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f4__q50\\probabilities.npz",
+      "sha256": "5028ec530d6397dbe3e1b77696dd17084c62c80ea778a1aad7f6110ecf59b716"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f4__q50\\selection.npz",
+      "sha256": "9c5e71712ad8e6ee5d0ff785dbaf4eb2b67df6b8458708b180c79cde39862fde"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localfeatures__f4__q50\\policy.json",
+      "sha256": "2bd0e73d858d087867bcc0a4b4c76c05be4f7767766393975121a394a3891c7a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f0__q50\\DONE.json",
+      "sha256": "b8a170e2264769ad517f97c0e3528ec45978f461fd742fcd023b68853f787b1e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f0__q50\\probabilities.npz",
+      "sha256": "d984f5d0953f85e6b0b2449c78fa8efaf067e3ba5f48f168c77650a2e21ffb9c"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f0__q50\\selection.npz",
+      "sha256": "2d7fa7fa8d5743b89faa07c4388b90ba3821a62e218e3dea6bd86cb121c69409"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f0__q50\\policy.json",
+      "sha256": "da496e276e967378c183ffc84691869edae84dc6547151dd409936b7d1126d23"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f1__q50\\DONE.json",
+      "sha256": "9b17758de35a23a22241747eefc83ccbd5e0633c8eb1b627089c7e7359a26eca"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f1__q50\\probabilities.npz",
+      "sha256": "32a3f68b0ac3a17f3706798595fb68ba2a0d699221f5d9b52d7cb2716d38497e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f1__q50\\selection.npz",
+      "sha256": "350829f40b3a44329af4ee06a81e29690dcfc95dad69c5149feddbce362d7ee4"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f1__q50\\policy.json",
+      "sha256": "e63a50e406eb96c79c566841c624e53012cf550f83754b20ffa51540ce986cae"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f2__q50\\DONE.json",
+      "sha256": "13aeeeacfd26515bc2e198db1a4f72bea270aec189a6fbdf17540fdd68b86fd4"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f2__q50\\probabilities.npz",
+      "sha256": "706cda59b9469d071dee89c587ebbe73f008be980ed1814883e6efc31d6d5c68"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f2__q50\\selection.npz",
+      "sha256": "ae518dfc76e23f977f8b783816f2d8a413b91885c8987ce4ae469ab21032a26e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f2__q50\\policy.json",
+      "sha256": "08fcfa034f1d56d88eba399c349ebe8c086e7e8b3f26b355c7b134d40ce0b570"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f3__q50\\DONE.json",
+      "sha256": "194028402f552c5f18bfdc2593347ddce622be8e2b1f591bf2a4d769b7a3df1a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f3__q50\\probabilities.npz",
+      "sha256": "a06b96ba82a3ef87138bbd335f34ce95367b282fa9da53e4b79f8dad0f5f5ecd"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f3__q50\\selection.npz",
+      "sha256": "996f6e9e6fc6452777cdf07dc09c10b86961e411949cd66e47ab53b5346ecf92"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f3__q50\\policy.json",
+      "sha256": "2cba11d31908c57f779ce22d156204337da0fb5c8e7af6d546e605a003103da6"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f4__q50\\DONE.json",
+      "sha256": "3aeef40bf1369e7605cc2b1814741bd84d93f932cbc8ca0bf2659b4eef5670bd"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f4__q50\\probabilities.npz",
+      "sha256": "7baa24b6ba7ed57e8f2e2c905db6556936ba7165eeef1112626a7cf873071d9b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f4__q50\\selection.npz",
+      "sha256": "ba39fe8ef7b2d1ae61dbcac3094e480bbc13c885ebecda8d1a99c3e7c3fd6544"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__localheads__f4__q50\\policy.json",
+      "sha256": "0895b882c73c19de3933267357a1a008215022ade51bdb46392ab2f5372e2eae"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f0__q50\\DONE.json",
+      "sha256": "96b7f82a4a1cd206c307ea75682d3494fac55e7c87bf8b93a5e37811582c5f01"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f0__q50\\probabilities.npz",
+      "sha256": "1d0a98b2ac514302eb74e0001b5eaba8fe41417150075694c8db98c2883d146c"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f0__q50\\selection.npz",
+      "sha256": "b56b4180a83485dc4e6ed14f2a6e73f18205090cd7a3754f759ccb6ef64b3d80"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f0__q50\\policy.json",
+      "sha256": "2d6cc97a3e2599bfd3c87e62633df936fcd2e7f73869334aecea63f13e923945"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f1__q50\\DONE.json",
+      "sha256": "199c6ac78bfe15a15ae1d9e039f3182018077908a6f6fa340bc4d06ced7c131e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f1__q50\\probabilities.npz",
+      "sha256": "9d394dd976c429d341216549dd92685ffedca4126b71e30b986ff78dc96f485e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f1__q50\\selection.npz",
+      "sha256": "283876a35ada633dea83dbdc34e3480f638b8baf97af35fc9c0ed2a94d62ec03"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f1__q50\\policy.json",
+      "sha256": "8ee195fc4bf5c79d6504320f5563120f58997b32f0b48874fadae2971beaa1eb"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f2__q50\\DONE.json",
+      "sha256": "838edbaafad1cdefe8fcb6801b31e7cbd57c79db04c2ed03b84808aa6d67674e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f2__q50\\probabilities.npz",
+      "sha256": "f46e170dec5bfe0e8e0bf745c3356a027410375400144e036f0630073c914738"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f2__q50\\selection.npz",
+      "sha256": "9d2c2ebfe7c99922975238a9c288763132acd68ff8df60955978b17f77a58792"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f2__q50\\policy.json",
+      "sha256": "a7bf533323501dc82737b6e76f2f4d105670d282f3d0e8bb7745054ebdb60dba"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f3__q50\\DONE.json",
+      "sha256": "ff76372481fa8523e9066796ec551d4199c7edb96b30e97f5393f5582bdf31f0"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f3__q50\\probabilities.npz",
+      "sha256": "20e114e5d0ad685da25a7b65c71bf8c6bc7ba5306f1e32c501fce71fa37ae348"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f3__q50\\selection.npz",
+      "sha256": "98fa2c9468215398e84c41ec643204db25a3c338e91289c382014f7722464249"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f3__q50\\policy.json",
+      "sha256": "632c41c47a9c7fa72932b9a34b82fcd57da67194bf6eb2717ade7793d8e9c437"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f4__q50\\DONE.json",
+      "sha256": "5e573e602f231972c927ce9c134a25c6495ddc822e11914329f7d817401ce874"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f4__q50\\probabilities.npz",
+      "sha256": "ae98e0b289007c8ef60b4c991076401643d925906ebb27f9305413cc884d7ae9"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f4__q50\\selection.npz",
+      "sha256": "90c013cd88cfae23ab9f861a7005d37569fd5ccd0c135a94e48af47d62251ab0"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__MRA__multiscale__f4__q50\\policy.json",
+      "sha256": "587174bd4081700f926d7c8aae6e593271275e716c2b261c3ab272db833d8e77"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f0__q50\\DONE.json",
+      "sha256": "21bf017d03966eb3f5fbd17e3d890e03622288d48ec66ca5ec5c70243a2c3abd"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f0__q50\\probabilities.npz",
+      "sha256": "4b306716a207eddd5e6aad4021cbfcc7c6dbc566eba2aad6286b88dd6d8cc592"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f0__q50\\selection.npz",
+      "sha256": "7515b4e1b85ae0d48428fc29bc27e80429191aea109231e5e2454b48298e8159"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f0__q50\\policy.json",
+      "sha256": "a2c2572a1da86e1e3f5dda8e34cbdd48903be7cb787c1a75f7c7b5174638d4c7"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f1__q50\\DONE.json",
+      "sha256": "54168f7a35c1246f35991dabad95c68b7da01ca277a2d90bae60e88273a57ea9"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f1__q50\\probabilities.npz",
+      "sha256": "6932e97c1cc4c3dcdd3299d0ab5d5b582df95cafaccd8359fc06647d0f817bfe"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f1__q50\\selection.npz",
+      "sha256": "9a3d27c8b6a65e2647eba60377625de0e02850fd8b9bdc7bd5ba2caf86c0df63"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f1__q50\\policy.json",
+      "sha256": "37f74ea9ab5dcd279b7ca2322c32c06434e013db44333dd7ec1296971a1bbe1a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f2__q50\\DONE.json",
+      "sha256": "6df678c3cf647a3e3268455025803acd7e5def1d52bdea04dd4b93ea2d19377b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f2__q50\\probabilities.npz",
+      "sha256": "1f50c4b2a5b3618640ba834cf28a2db9cede14f113c088ed17b4439372b0c66d"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f2__q50\\selection.npz",
+      "sha256": "4a85b4748e138c47e98539346fe274af76d4971c303629665044181b4fba1b19"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f2__q50\\policy.json",
+      "sha256": "09f670146cd2a8ada2f63e50ff38ae6bd86545d69503b091e348de35974b0496"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f3__q50\\DONE.json",
+      "sha256": "5f7cb7aec1b509f02ad3b4d6bd08dcdc85cdaf3f88d4add4ea99d52e3d9b3aee"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f3__q50\\probabilities.npz",
+      "sha256": "cbc59ec7bc3386d202525354c0f4c44a3405015b8b1f0fcde99a3b37e2fb30bd"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f3__q50\\selection.npz",
+      "sha256": "e2e7df14aa59b703fcef6debd96b66c25a678703b94a3905a77a62b148af9397"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f3__q50\\policy.json",
+      "sha256": "ae342a50114de0a77231f2328c3e13d50a216e61088ccc635ddf14870563c2f2"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f4__q50\\DONE.json",
+      "sha256": "380d10d7f5d5c4069e9226eabfde3c4342f988232a4db95f2d908459987cd0eb"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f4__q50\\probabilities.npz",
+      "sha256": "84d882cb33ee47ace4baad82dd8bd98a92e50259c4b33d59933d0c04b5419d3f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f4__q50\\selection.npz",
+      "sha256": "4cb9917f89f0cf0a2ea124bff5a12a6a06e0726c572291655c6c4ad59929edbc"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__headonly__f4__q50\\policy.json",
+      "sha256": "11b813e368cb9285e45696a67832788392a1caf57c39c277b41d9b6174410a5b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f0__q50\\DONE.json",
+      "sha256": "f304a68adb62461ac9d7cd80bae6200bd20b62965b78c7b5e5db8e1e7a435d75"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f0__q50\\probabilities.npz",
+      "sha256": "9c0eb07635afa86049f2b88ec43149883407124df9ca6abc307a0df0e6cedc9c"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f0__q50\\selection.npz",
+      "sha256": "fb3b4cac6a55decfd115c8080bcd51578946d0bd36c4554249647b80dff5031a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f0__q50\\policy.json",
+      "sha256": "5f0dfb2266b8c758e3b428264e6f8b9296e0650f6d2716582921ae2cc70e471a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f1__q50\\DONE.json",
+      "sha256": "e5baf79c4a1f8716e64f8c8206224e3da859fe1b4d66f6d3ee0323640ea9f57c"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f1__q50\\probabilities.npz",
+      "sha256": "146b8f7bb7303eabe44283a95fc913b47891a72e4b4d7b1f42465ecbd300da9b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f1__q50\\selection.npz",
+      "sha256": "d7e027fec10004f1ad785494521afe14fa87ad71542ceca92817dcd38a579b67"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f1__q50\\policy.json",
+      "sha256": "e4270c9d89c129a129008b98635ffa4c5bd675879697d3429b6ee7f33bebe28a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f2__q50\\DONE.json",
+      "sha256": "d30a584073aab2268dcfe648972c6ad9f98899612d1c4bf35ee90a3979fb558c"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f2__q50\\probabilities.npz",
+      "sha256": "b520a7dc06392351ed574c2098ef098b2db22f83e148b3c8b8a397ed91e64922"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f2__q50\\selection.npz",
+      "sha256": "d54932c330d92134bcc73f38b25b0fca377e4f5ec93e79d22a81ae004822aa7a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f2__q50\\policy.json",
+      "sha256": "f9d1f9eeafd46f3a47cf9ae45b1926c55dfe78e1db6668a3c389e11332a1900f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f3__q50\\DONE.json",
+      "sha256": "1adedce273f553695327b839b37a96309242ca9b902c73b4c5e0a028fbf59ac4"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f3__q50\\probabilities.npz",
+      "sha256": "4001c373a970b84474d13c94426183ae3a3f1b4272e9ec74811b73e386e347b1"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f3__q50\\selection.npz",
+      "sha256": "e4d5f20f13ef984ca78b2ceed4286d576ba5834f0fbbebfa2102ce35da9d405b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f3__q50\\policy.json",
+      "sha256": "f2c8c9deb5d45dfdc8f6a2580ff514bebda8c94b96cae959e5dfbaa40afe8e6d"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f4__q50\\DONE.json",
+      "sha256": "c6c195bd7de58f60a9f1f6f30720eaa57b0b2eff606c142d88d0b72f5ee8df6e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f4__q50\\probabilities.npz",
+      "sha256": "4b4d1957735b82dc26b2c68064125c63a51c0f5ef4d87873ab0f6a7441bc8a84"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f4__q50\\selection.npz",
+      "sha256": "af577856ad60d4fb63b8d77839877ab7d482cda0eaa16dfb8bb4c82e9e752bee"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__laststage__f4__q50\\policy.json",
+      "sha256": "6bcf340108a5f6dbe738aa97b18b85a0e063a9dd19dee8144c49ce1bb400baf9"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f0__q50\\DONE.json",
+      "sha256": "a8dde147ac96534c38c845cc1d1b5d8f352082ed8b7dc560c35e1a07143dae6f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f0__q50\\probabilities.npz",
+      "sha256": "7df55d1cc50f2760e63e2bbaa3b005397ffdfc4105127bd8a1aa0ad9bb48f45b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f0__q50\\selection.npz",
+      "sha256": "90e28c14c1378057e10cbae9e3af4add68b23223924aeb96c2a0b388b12f359b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f0__q50\\policy.json",
+      "sha256": "044581bebe9389af67848246db6e4800ea18e9c6ef8e9b0f6eb0148d8eae8682"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f1__q50\\DONE.json",
+      "sha256": "e28ad40273ff8be1fa2cae70b5c5b393dc780b2f19ad0b8155ba32989cd3ca30"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f1__q50\\probabilities.npz",
+      "sha256": "26c1d49ee8fc578eb31a7d55bf01e468e9cddcb09edd4458b187523c156552ac"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f1__q50\\selection.npz",
+      "sha256": "9363e456f09f0150977cf6f80ceea87c56f74f20f941b2752129221aa202d50b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f1__q50\\policy.json",
+      "sha256": "e6f2584cfaca16cfa595231ed72ca15d60d44b2dc78eb654a226166282a6ddf8"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f2__q50\\DONE.json",
+      "sha256": "1d9839c84d1b3b5a8eac9d0485bcaa1fa50b725a90c13963530e73c20b494909"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f2__q50\\probabilities.npz",
+      "sha256": "d8fd13fec768c581dc3f44859bc1f933763693bc084c2fa1b2f1baafbafcb9d8"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f2__q50\\selection.npz",
+      "sha256": "cec7c0f781380189d414b0a2c273a738a8ab27b95f72408daac4aac92e15d41d"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f2__q50\\policy.json",
+      "sha256": "627ffa1498501590cca2f2130a54bc4ba904a9621b6c858f2ee5ad645bb95808"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f3__q50\\DONE.json",
+      "sha256": "62953382b2ddb84acbd5c9722d82c3b05851cc0eb0332ba0ff87c6a1dc894b07"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f3__q50\\probabilities.npz",
+      "sha256": "19f41fa0d5ca76ca9a56595cb1a8856ffd66289591016492ca95dca6e5e62fab"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f3__q50\\selection.npz",
+      "sha256": "5c13d638bd9bb79e8a4a82e8dc527d0eecb9308bedd8db5881d90915dc1bf651"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f3__q50\\policy.json",
+      "sha256": "fe5e3cecdc2974141bf452f73d390207c4b47a2abbaa955e6cc28e49cd2b265e"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f4__q50\\DONE.json",
+      "sha256": "a61ada61fd4432a3ddf68b961d8aad76487bad678caf705bdf4b3016d0df7635"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f4__q50\\probabilities.npz",
+      "sha256": "a64365a6cf774d9b68797e641a707698380c723cd5a7a6625395c3414f690035"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f4__q50\\selection.npz",
+      "sha256": "2b3b4006dc1474a4f56e06a222bf0d937323fc61ae9671a59fb9baecaac07137"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localfeatures__f4__q50\\policy.json",
+      "sha256": "28803f8d55f68d0eb7eb3581903423232a3204ad861088e44d536c6ea2ab58e1"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f0__q50\\DONE.json",
+      "sha256": "8d7776c096ac4ff3f1c9bfb4beb6ac3cc12a03ff6aa2bb56868a8a9043279ec2"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f0__q50\\probabilities.npz",
+      "sha256": "1cb21e3bf6cb8658b8dc6333d03574fc818fc55e71a2d8bee180c21f70755945"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f0__q50\\selection.npz",
+      "sha256": "81db234da10f1bb25d40d19ffd70a8e857898483cbed62c0d416a434d0f43208"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f0__q50\\policy.json",
+      "sha256": "63d635389f4644bde357cb6fdc6978ad318f5459782c9a242b7fde448c427830"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f1__q50\\DONE.json",
+      "sha256": "966104a334248af96053cee213601ae7fdd7cf023d37b7fbef6b0ef277020b20"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f1__q50\\probabilities.npz",
+      "sha256": "02d862e45d9765c6025f859725650ac6d366a23a7be8b9ccbcebf4a805fc8921"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f1__q50\\selection.npz",
+      "sha256": "ff995f94382f12912e4006caf800bf12e2fb4bd143eb66858e1d3430b779b01f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f1__q50\\policy.json",
+      "sha256": "321eae84c2acd57a60446c71ea066a1745fd1062e04dcda9af00a699b6d2c684"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f2__q50\\DONE.json",
+      "sha256": "fc06854fa05a9600d664ce1d0e8402e65a13b0b3afd576ce5fcb529ae5e38823"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f2__q50\\probabilities.npz",
+      "sha256": "f9de652c81ec2fcee25b51ab8b9ef0bdd034cf9c8af22b55b479908012df3cd5"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f2__q50\\selection.npz",
+      "sha256": "8ebcf34d54206aa96f38c867ded8124d2fefea413141f159f7bc98dad69d4d1f"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f2__q50\\policy.json",
+      "sha256": "be8dddf47774dcf50799962261db564e9f8f06e184c190a30401dcaad46d6019"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f3__q50\\DONE.json",
+      "sha256": "c7548648955fd5580e08e8e886c6f58681e4f72039f12b11f5983e3269c339c1"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f3__q50\\probabilities.npz",
+      "sha256": "229aa8c08808c97f5326c6c18c05d060ddac741cc5ebb301c547c7a866f891f9"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f3__q50\\selection.npz",
+      "sha256": "7156c98240862042e629d8d699bc33278339ef56f6a1c20da7f65da1c6ce2102"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f3__q50\\policy.json",
+      "sha256": "bb139d45f31124a483c51953f319108dc148d69157bfeb556a0e283577c1458b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f4__q50\\DONE.json",
+      "sha256": "5c265f9346fa78363d92605d4c9161a0a4ae7f3c26a50ab31dc71665f884356b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f4__q50\\probabilities.npz",
+      "sha256": "6d5ff8d3e83db130a09088f4bce023ec8196bc3d112024d0baca3a0cbd892c8b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f4__q50\\selection.npz",
+      "sha256": "7fc9cc943ae2fe6a14ea89bc8508e4a6d0684ef503f4343f7e91b40fb2007e40"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__localheads__f4__q50\\policy.json",
+      "sha256": "1a387e91347d9485c604e2d35f9de564e03f6bb2404f958493b13a1d871dbd97"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f0__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f0__q50\\DONE.json",
+      "sha256": "d3542c65a9ef6e1a94c2d99055ca1468161e8785b28b9ab7b1c87ccffdb83ce4"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f0__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f0__q50\\probabilities.npz",
+      "sha256": "e0ca84314b268b4d3eefa03914ecd0e1f372b3d28115f12a4a49a0c28f2c027a"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f0__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f0__q50\\selection.npz",
+      "sha256": "e8a9ef8f4c2b7a5990eaf93fc998db2716edace68d074e80a510479f0bbf407c"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f0__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f0__q50\\policy.json",
+      "sha256": "7328821bc3e88b473779e10224f8e037f3b80b6829bd655765f6b78d9bd32e8b"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f1__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f1__q50\\DONE.json",
+      "sha256": "798dfc0c2c084554f43b72dbcd782fd402aa2071a2d21b3e81c2a6983a493f53"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f1__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f1__q50\\probabilities.npz",
+      "sha256": "1a6ca5a9f59883bc3b5e7423f9fa98e70e00359a98a13463e41fcca766daa629"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f1__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f1__q50\\selection.npz",
+      "sha256": "b603bc9df2f52870803af833e943da432190107c6879a8c6bb4fb6cca7f965db"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f1__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f1__q50\\policy.json",
+      "sha256": "8ba670a36f13b82dc04307a663b5bfe8f5218d6c9ec9dbf2be0660637703bdba"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f2__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f2__q50\\DONE.json",
+      "sha256": "4ad09873e70fac25a473129fc1204e7d80cc66df75f3588612de0755f80de2f0"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f2__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f2__q50\\probabilities.npz",
+      "sha256": "504baa9de3ab1f2c4621f159a79f526f29dfee340d26260fd48ca7d11f964f18"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f2__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f2__q50\\selection.npz",
+      "sha256": "412212f396c8fc3a8a65729e3db305ad438f176b8fd8671ba964894bcb74fee7"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f2__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f2__q50\\policy.json",
+      "sha256": "42fb2f277bddce23c3452731b681dc52b6a95bbf7d3ed668611c9fd376bd9ff2"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f3__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f3__q50\\DONE.json",
+      "sha256": "ba1d183dee74b6a192131d2ad851f6802eb1faa7ef9f0bc99d02cd9b9d096217"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f3__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f3__q50\\probabilities.npz",
+      "sha256": "87c3e1b8db34cf8b61f4243d0d247210d46cfed61e40ff87b0e3751cd42f12af"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f3__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f3__q50\\selection.npz",
+      "sha256": "c4a1f155421e0d9f1de02c07a9aebdea63d6f9f7fb95178ddf699353063c6bc9"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f3__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f3__q50\\policy.json",
+      "sha256": "40b6e263fef8136e3ba528839ace23ee6c4e8ae2d848a798459bb576c2742362"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f4__q50\\DONE.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f4__q50\\DONE.json",
+      "sha256": "1a72aee701d27a57db036b64e9dc7a1e0bda1bbc7630d46f114892c17bc63443"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f4__q50\\probabilities.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f4__q50\\probabilities.npz",
+      "sha256": "801e29cf26f0f8934f2f8cefb300e8ced007d28073a9db1505e6cd1dbeb37ade"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f4__q50\\selection.npz",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f4__q50\\selection.npz",
+      "sha256": "8cc52e686d975f0e463edfb4c6aa8ae00aa6f0f661adf4592c039a0269b14da1"
+    },
+    {
+      "source": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f4__q50\\policy.json",
+      "copy": "F:\\research\\SITP_MRI\\rcvoa_quota_diagnostic_20261114\\recovered\\prepared\\repaired__UQ__multiscale__f4__q50\\policy.json",
+      "sha256": "3eb18d43a865bfd9c1ac481ff1ab874e40e44f0e9026f74a9e74ff1800852a0e"
+    }
+  ]
+}

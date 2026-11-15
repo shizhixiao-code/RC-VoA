@@ -1,0 +1,31 @@
+table_id,stage,cohort,mode,batch,cap,N,eligible,groups,feasible,screen,order,method,stop,checks,verdict,wall_seconds,verifier_seconds,calls,unknowns
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,0,RC-VoA,2,11,-1,0.0015214999993986567,0.0009362000000692206,3,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,0,Exact MILP,2,11,-1,0.03204580000056012,0.03196550000029674,5,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,0,Pre-screen + full,112,161,-1,0.0015040999996926985,0.00019990000691905152,1,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,1,RC-VoA,9,15,-1,0.00281749999976455,0.002666299999873445,10,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,1,Exact MILP,9,15,-1,0.13622880000002624,0.13592400000015914,19,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,1,Pre-screen + full,112,161,-1,0.0011642999998002779,0.00015869999788264977,1,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,2,RC-VoA,1,2,-1,0.0005943999994997284,0.0005489000004672562,2,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,2,Exact MILP,1,2,-1,0.01668470000004163,0.01662639999995008,3,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,2,Pre-screen + full,112,161,-1,0.001176800000393996,0.00014989999544923194,1,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,3,RC-VoA,5,4,-1,0.0020930000000589644,0.0019642999995994614,6,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,3,Exact MILP,5,4,-1,0.07785059999969235,0.07769230000030802,11,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,3,Pre-screen + full,112,161,-1,0.0011285999999017804,0.00014589999955205712,1,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,4,RC-VoA,8,15,-1,0.003140699999676144,0.0029859000005671987,9,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,4,Exact MILP,8,15,-1,0.11990289999994275,0.1196697999994285,17,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,4,Pre-screen + full,112,161,-1,0.0011189999995622202,0.00016330000744346762,1,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,5,RC-VoA,1,4,-1,0.0007523999993281905,0.0006301000003077206,2,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,5,Exact MILP,1,4,-1,0.015250600000399572,0.015193399999589019,3,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,5,Pre-screen + full,112,161,-1,0.0017534999997224077,0.00017690000186121324,1,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,6,RC-VoA,2,3,-1,0.0008425000005445327,0.0007787999993524863,3,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,6,Exact MILP,2,3,-1,0.030745199999728356,0.030644000000393135,5,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,6,Pre-screen + full,112,161,-1,0.0013200000003052992,0.00016730000334064243,1,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,7,RC-VoA,7,9,-1,0.0023130999998102197,0.0021861999985048897,8,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,7,Exact MILP,7,9,-1,0.08052869999937684,0.08028900000135764,15,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,7,Pre-screen + full,112,161,-1,0.0010830999999598134,0.00013249999301478965,1,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,8,RC-VoA,12,20,-1,0.003207200000360899,0.0030390999991141143,13,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,8,Exact MILP,12,20,-1,0.17456659999970725,0.17423820000203705,25,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,8,Pre-screen + full,112,161,-1,0.0011067000004914007,0.00014519999695039587,1,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,9,RC-VoA,4,7,-1,0.0012888000001112232,0.00121090000084223,5,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,9,Exact MILP,4,7,-1,0.058612999999240856,0.05848550000064279,9,0
+Primary_MRA_localheads_b5_q50,Primary,MRA,localheads,5,50,177,161,112,False,False,9,Pre-screen + full,112,161,-1,0.0011421999997764942,0.00015870000061113387,1,0

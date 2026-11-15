@@ -1,0 +1,1 @@
+[{"project": "original", "tables": 236, "tables_with_SCCIS": 109, "exact_margin_identity_checks": 708}, {"project": "expanded_source", "tables": 236, "tables_with_SCCIS": 109, "exact_margin_identity_checks": 708}, {"project": "expanded_source_fixed_R", "tables": 236, "tables_with_SCCIS": 109, "exact_margin_identity_checks": 708}]

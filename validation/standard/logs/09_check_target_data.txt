@@ -1,0 +1,13 @@
+{
+  "status": "PASS",
+  "table_profile_rows": 1652,
+  "system_cohort_rows": 76,
+  "hashes_checked": 3,
+  "reference_batch_counts": [
+    7,
+    0,
+    4,
+    3,
+    0
+  ]
+}

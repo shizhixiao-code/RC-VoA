@@ -1,0 +1,13 @@
+setting,cohort,N,groups,known,cancer,noncancer,excluded,melanoma,invasive_SCC,SCC_NOS,BCC,SCCIS,other_cancer
+reference,MRA,891,602,803,379,424,88,70,64,0,186,55,4
+AK_noncancer,MRA,891,602,854,379,475,37,70,64,0,186,55,4
+endpoint_complete_case,MRA,803,563,803,379,424,0,70,64,0,186,55,4
+reference,HIBA,298,208,283,189,94,15,48,0,40,101,0,0
+AK_noncancer,HIBA,298,208,298,189,109,0,48,0,40,101,0,0
+endpoint_complete_case,HIBA,283,198,283,189,94,0,48,0,40,101,0,0
+reference,UQ,7756,453,7675,95,7580,81,16,0,32,47,0,0
+AK_noncancer,UQ,7756,453,7691,95,7596,65,16,0,32,47,0,0
+endpoint_complete_case,UQ,7675,453,7675,95,7580,0,16,0,32,47,0,0
+reference,MCR-SL,223,59,208,41,167,15,8,0,4,29,0,0
+AK_noncancer,MCR-SL,223,59,218,41,177,5,8,0,4,29,0,0
+endpoint_complete_case,MCR-SL,208,58,208,41,167,0,8,0,4,29,0,0

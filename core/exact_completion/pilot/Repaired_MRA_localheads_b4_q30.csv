@@ -1,0 +1,4 @@
+table_id,stage,cohort,mode,batch,cap,N,eligible,groups,feasible,screen,order,exact_stop,rc_stop,exact_checks,rc_checks,screen_checks,verdict,truth,record_saving,exact_fraction,rc_fraction,offline_uncached_calls,offline_uncached_seconds,offline_evaluations,solver_unknowns,earliest_proved
+Repaired_MRA_localheads_b4_q30,Repaired,MRA,localheads,4,30,178,159,129,False,False,0,16,16,17,17,159,-1,-1,0,0.1069182389937107,0.1069182389937107,12,0.048248200000671204,11,0,True
+Repaired_MRA_localheads_b4_q30,Repaired,MRA,localheads,4,30,178,159,129,False,False,49,13,13,16,16,159,-1,-1,0,0.10062893081761007,0.10062893081761007,9,0.033807200000410376,11,0,True
+Repaired_MRA_localheads_b4_q30,Repaired,MRA,localheads,4,30,178,159,129,False,False,99,21,21,21,21,159,-1,-1,0,0.1320754716981132,0.1320754716981132,9,0.030723899999429705,11,0,True

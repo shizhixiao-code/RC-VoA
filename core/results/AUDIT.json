@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "tables": 236,
+  "configuration_stage_judgments": 5664,
+  "exhaustive_small_table_checks": 448,
+  "full_criterion_agreement": 236,
+  "primary_nonexclusive_failures": [
+    99,
+    95,
+    99,
+    3,
+    79,
+    50
+  ],
+  "python": "3.13.14",
+  "numpy": "2.5.1",
+  "scipy": "1.18.0",
+  "data_sha256": "1a85a83cdb90df1e144b896321a2dcd16cebc456c2dd022393b15a2ad8ad79bd",
+  "code_sha256": "e08acb2ff18c5dbc3a6b90da022c4b025a554f77253c41c273c9c7e9d3d6e956"
+}

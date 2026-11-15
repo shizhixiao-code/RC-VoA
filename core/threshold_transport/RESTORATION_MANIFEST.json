@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "source_directory": "F:\\research\\SITP_MRI\\rcvoa_threshold_transport_20261102\\source_data\\threshold_transport",
+  "original_files_byte_identical": {
+    "all_36_system_operating_points.csv": "5ab7b8a4467ac2fb54ac7278ef0e7b3b0e5a03c2c7d0726750cdd9bdf6e7875f",
+    "audit_by_cohort.csv": "bf69e606369278f644f7d07a80884c5d2dfcb573bfa5afb93f8a0e96e1618af7",
+    "audit_summary.csv": "cbdce51d834f7d798e8a74d6b4c53d5bf1bdf7b35ffb636248dffb534754110b",
+    "calibration_coverage.csv": "c35948965dda026d313f2527ba56a2849528351c9245e3af09ea7d84a60f4553",
+    "calibration_strata.csv": "44b9d1e2fc51113ff0b451a73f80c4ed8910fe38275f35e539bdb716ae4e4279",
+    "calibration_thresholds.csv": "9f953e7c7b42fd94b7c4fa6324be5f2b81dd8e3eaeb0973c2810b19fc1d30f37",
+    "complete_criterion_tables.csv": "a0021874e5ef2f6016da93a2e61241b1dee9a5e140872795fddd04e1248512ed",
+    "frontier.csv": "98b0955f5531f1e38a5c4c4f0268d892673f453a4190a54548bb39aeebaa439d",
+    "group_roles.csv": "1b8bbf75eefa097c509dd174eb4164b670d482ae5621d1b4b1762ba80569ac6e",
+    "independent_MILP_checks.csv": "c23c514799038392fd86d9195c2161c4b8ca8a5dc43b9e20d04105cee3f6d885",
+    "interval_program_checks.csv": "76c0576750c7cb1a6d6627fe2d9e0a2ad1eee1ec8071c71d88cfc9832ed2a865",
+    "minimum_witnesses.csv.gz": "05a7339af7525eaef6496508ff2d8341b5c6d0e7ca7e4bc242243c5e4639040e",
+    "operating_points.csv": "e4c20353ce23008ae9ef6d3b1d93a0d37021084c789bc7a6619e41fc32b005d7",
+    "oracle_strata.csv": "15fb425ad76308e3c9d4744b2356e0a23c0ed3afc227ded37064040123732380",
+    "policy_selections.csv.gz": "9f5b1fcf4446c2bb1b9f3b7f6273b9e42d433964607ad21807d85df1f16e670d",
+    "ranker_results.csv": "cdaae2bb3c0deff86bac243c1669856bb7b3eaec3310cf85097094dce61f2bf1",
+    "ranker_summary.csv": "5b325fda07d8f12f388b37965c4e6e9b965a3e6b61847713734b9db3a1f089bd",
+    "score_distributions.csv": "305099b88fad39a53c1651f6848452c5ed6faac7ccc1aa8e83a7370315163067",
+    "score_inventory.csv": "38c7d6c319d2a3d341fbcbf31b11576ae82e400b6d32b3792242f3cf79f7967e",
+    "source_threshold_reproduction.csv": "5ee9509c705ae0d84adbf508240019dde2314384e065a13e9c297bf8a2031817",
+    "subtype_rescue_margins.csv": "a66d32ee8cdfdae99ca92a6131f05da72ca07011c561b0c2eb94f408d58903f3",
+    "Table_SIV_full.csv": "b48296566fb6247b74fcdbcf9fc354136293ec92b3e0fb1bfb2ba40962dba3de",
+    "uncertainty.csv": "fbbee7f8032e5486129e854758084abb50bd77cec35c762fff191e10fab4cc9d"
+  }
+}

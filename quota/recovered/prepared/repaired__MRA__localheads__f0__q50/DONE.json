@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:48.863823+00:00",
+  "context": "repaired__MRA__localheads__f0__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f0__q50_design_clinical.npz": "18318928b23eb952a30587e9bc30608c9f9272df2dee8737b2ff4e153df2f1a5",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f0__q50_calibration_clinical.npz": "57712f645b5521d378fe2615a69e27ee40973d0b6326201914bed0e1f2f93f37",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f0__q50_evaluation_clinical.npz": "7180ba32b67d337d8308112e3a0f69e76a7734eec5681a11399e6d2c011820b5",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f0__q50_design_outcomes.npz": "2caa14f0c79dc9d9fac9fad0fe080d92702353c3cc04c042f319ef9060f6e191",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f0__q50_calibration_outcomes.npz": "a84897b1020fdfe720b4e7f421713453619ad9029512cd078d1aa1c0755d4a45",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f0.npz": "127223aba4f71f93c9e0f8d4c47c67783e596553ab3afb221263ac7442c36e05"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "6744b2e1aa5cd884cde632f3f13efd17a652448cadfb551b61607e79a8eaa27f",
+    "policy.json": "da496e276e967378c183ffc84691869edae84dc6547151dd409936b7d1126d23",
+    "probabilities.npz": "d984f5d0953f85e6b0b2449c78fa8efaf067e3ba5f48f168c77650a2e21ffb9c",
+    "selected_ids.csv": "0ea34e8f2c2d7cdb974d11821b4a3cd19f44f84d3a23425f9da5dcc27d375359",
+    "selection.npz": "2d7fa7fa8d5743b89faa07c4388b90ba3821a62e218e3dea6bd86cb121c69409",
+    "selector.joblib": "9d36c1f935a6b8f35d1bf1dead0f91a77e5e6daccbe26c96a1fcd8e1b430d4d7"
+  }
+}

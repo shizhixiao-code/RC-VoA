@@ -1,0 +1,110 @@
+[
+  {
+    "setting": "reference",
+    "family": "source_SP",
+    "imaging_pct": 20,
+    "tables": 36,
+    "original_feasible": 27,
+    "expanded_source_feasible": 24,
+    "newly_feasible": 3,
+    "newly_infeasible": 6,
+    "support_failure": 12,
+    "capacity_only": 0
+  },
+  {
+    "setting": "reference",
+    "family": "primary",
+    "imaging_pct": 20,
+    "tables": 100,
+    "original_feasible": 1,
+    "expanded_source_feasible": 1,
+    "newly_feasible": 1,
+    "newly_infeasible": 1,
+    "support_failure": 99,
+    "capacity_only": 0
+  },
+  {
+    "setting": "reference",
+    "family": "repaired",
+    "imaging_pct": 20,
+    "tables": 100,
+    "original_feasible": 14,
+    "expanded_source_feasible": 7,
+    "newly_feasible": 1,
+    "newly_infeasible": 8,
+    "support_failure": 93,
+    "capacity_only": 0
+  },
+  {
+    "setting": "AK_noncancer",
+    "family": "source_SP",
+    "imaging_pct": 20,
+    "tables": 36,
+    "original_feasible": 27,
+    "expanded_source_feasible": 24,
+    "newly_feasible": 3,
+    "newly_infeasible": 6,
+    "support_failure": 12,
+    "capacity_only": 0
+  },
+  {
+    "setting": "AK_noncancer",
+    "family": "primary",
+    "imaging_pct": 20,
+    "tables": 100,
+    "original_feasible": 1,
+    "expanded_source_feasible": 1,
+    "newly_feasible": 1,
+    "newly_infeasible": 1,
+    "support_failure": 99,
+    "capacity_only": 0
+  },
+  {
+    "setting": "AK_noncancer",
+    "family": "repaired",
+    "imaging_pct": 20,
+    "tables": 100,
+    "original_feasible": 14,
+    "expanded_source_feasible": 7,
+    "newly_feasible": 1,
+    "newly_infeasible": 8,
+    "support_failure": 93,
+    "capacity_only": 0
+  },
+  {
+    "setting": "endpoint_complete_case",
+    "family": "source_SP",
+    "imaging_pct": 20,
+    "tables": 36,
+    "original_feasible": 27,
+    "expanded_source_feasible": 24,
+    "newly_feasible": 3,
+    "newly_infeasible": 6,
+    "support_failure": 12,
+    "capacity_only": 0
+  },
+  {
+    "setting": "endpoint_complete_case",
+    "family": "primary",
+    "imaging_pct": 20,
+    "tables": 100,
+    "original_feasible": 1,
+    "expanded_source_feasible": 1,
+    "newly_feasible": 1,
+    "newly_infeasible": 1,
+    "support_failure": 99,
+    "capacity_only": 0
+  },
+  {
+    "setting": "endpoint_complete_case",
+    "family": "repaired",
+    "imaging_pct": 20,
+    "tables": 100,
+    "original_feasible": 13,
+    "expanded_source_feasible": 7,
+    "newly_feasible": 1,
+    "newly_infeasible": 7,
+    "support_failure": 93,
+    "capacity_only": 0
+  }
+]

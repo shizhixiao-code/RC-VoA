@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:27.827774+00:00",
+  "context": "repaired__MRA__laststage__f3__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__laststage__f3__q50_design_clinical.npz": "35a3502197828c40aa7502bcab9f07052c1c31a05151c06cb15823dabd03fae4",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__laststage__f3__q50_calibration_clinical.npz": "2880d11e14ca955863624fbe7c62baefff006f14fe86b866b66d3bf87881a993",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__laststage__f3__q50_evaluation_clinical.npz": "46cb72ab0480e533a8d6ffed84053123d17b12be5bf86f72681836e523aac076",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__laststage__f3__q50_design_outcomes.npz": "c58923da2206b23fa76079b6b18226e982402bc26840d35ac1267a4077cb9169",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__laststage__f3__q50_calibration_outcomes.npz": "b581e4060ef26fe09c8043fedb29f8afcc3cc6eb8f5c7ad81af17398c1255e94",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f3.npz": "cbd31c2974b6c4aa585c7b241862186de6e36933cf0d56c98e85648cfef7c890"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "1b35c36087e10a874aa0f9024af1ebb9aba01486f51114eec77988f85a2105bb",
+    "policy.json": "e78401922d2ba9b8cffa8f3978408bd6afda4b43d628b79eec85638ac6f13133",
+    "probabilities.npz": "d94f69835d2a2fbe873ec56b413fd6bd7926c44fd2f2ff4cb1f89db27bb1e53b",
+    "selected_ids.csv": "abb7507683c837a1d691d09f7a7bcc1fbc622850af25f13fe85b4a7baf840fff",
+    "selection.npz": "dfe94af18c36ec876eded933e889d36c0e023cc11e8bafad1e49d553b99868dc",
+    "selector.joblib": "4a1cec6d5e99cda4d15fd3cf4b099f6fb17e45490080004190eb2c2b3c0deecf"
+  }
+}

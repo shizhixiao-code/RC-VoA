@@ -1,0 +1,4 @@
+batch,model,N,t_star,m,C_minus,B_plus,minimum_K,K15,quota15_min,quota15_max,K20,quota20_min,quota20_max,oracle_retained,oracle_rescued,oracle_protected_misses,oracle_FP_reduction,proximity_rescued,proximity_protected_misses,clinical_risk_rescued,clinical_risk_protected_misses
+1,Source heads,1552,4,76,4,212,164,232,4,72,310,4,150,21,4,0,157,2,2,0,4
+3,Multiscale,1558,6,75,6,164,168,233,6,71,311,6,149,29,6,0,160,0,7,0,6
+4,Local heads,1539,3,75,3,174,160,230,3,66,307,3,78,13,3,0,155,0,3,0,3

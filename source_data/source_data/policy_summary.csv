@@ -1,0 +1,4 @@
+policy,configurations,oracle_feasible,passes,conditional_passes
+Transition-aware,50,10,0,0
+Proximity,50,10,0,0
+Clinical-risk,50,10,0,0

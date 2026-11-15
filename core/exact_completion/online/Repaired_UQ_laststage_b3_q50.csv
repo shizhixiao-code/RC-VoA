@@ -1,0 +1,31 @@
+table_id,stage,cohort,mode,batch,cap,N,eligible,groups,feasible,screen,order,method,stop,checks,verdict,wall_seconds,verifier_seconds,calls,unknowns
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,0,RC-VoA,87,1547,1,0.02276649999930669,0.021661499995389022,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,0,Exact MILP,87,1547,1,1.1928338000006988,1.1906544999956168,185,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,0,Pre-screen + full,87,1547,1,0.0009482999994361307,0.0001350999991700519,1,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,1,RC-VoA,87,1547,1,0.02286999999978434,0.021745799998825532,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,1,Exact MILP,87,1547,1,1.298776700000417,1.2958303999957934,185,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,1,Pre-screen + full,87,1547,1,0.0010669000002963003,0.00016110000160551863,1,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,2,RC-VoA,87,1547,1,0.02258460000030027,0.021464600002218504,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,2,Exact MILP,86,1543,1,1.5752880000000005,1.57275600000321,183,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,2,Pre-screen + full,87,1547,1,0.0009631000002627843,0.00015609999718435574,1,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,3,RC-VoA,87,1547,1,0.025514299999485957,0.024345100007849396,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,3,Exact MILP,86,1541,1,1.2609876999995322,1.2590198000025339,183,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,3,Pre-screen + full,87,1547,1,0.0009659000006649876,0.00015350000194302993,1,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,4,RC-VoA,87,1547,1,0.023712700000032783,0.022584299996196933,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,4,Exact MILP,87,1547,1,1.185699999999997,1.1834921999979997,185,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,4,Pre-screen + full,87,1547,1,0.0009739999995872495,0.00015050000365590677,1,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,5,RC-VoA,87,1547,1,0.021698499999729393,0.020649200003390433,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,5,Exact MILP,86,1536,1,1.4831140999995114,1.4810666999965179,183,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,5,Pre-screen + full,87,1547,1,0.0009700000000520959,0.00015150000217545312,1,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,6,RC-VoA,87,1547,1,0.02125660000001517,0.02006869999877381,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,6,Exact MILP,87,1547,1,1.1872630999996545,1.185123599999315,185,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,6,Pre-screen + full,87,1547,1,0.0009158999991996097,0.00012430000060703605,1,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,7,RC-VoA,87,1547,1,0.022916899999472662,0.02188740000474354,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,7,Exact MILP,85,1521,1,1.3532390000000305,1.351129899996522,181,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,7,Pre-screen + full,87,1547,1,0.0009993999992730096,0.00018499999987398041,1,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,8,RC-VoA,87,1547,1,0.02550829999927373,0.024258200000076613,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,8,Exact MILP,87,1547,1,1.1283958999993047,1.1248267000009946,185,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,8,Pre-screen + full,87,1547,1,0.000948699999753444,0.00013809999290970154,1,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,9,RC-VoA,87,1547,1,0.021484899999450136,0.020432099994650343,88,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,9,Exact MILP,86,1526,1,1.5209838999999192,1.518998500003363,183,0
+Repaired_UQ_laststage_b3_q50,Repaired,UQ,laststage,3,50,1558,1547,87,True,False,9,Pre-screen + full,87,1547,1,0.000990300000012212,0.00016200000482058385,1,0

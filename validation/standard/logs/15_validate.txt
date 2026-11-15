@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "partial_scenarios": 180,
+  "completions": 12504,
+  "literal_allocation_completions": 5158,
+  "individual_margin_checks": 2500,
+  "larger_full_tables": 70,
+  "verdict_counts": {
+    "-1": 150,
+    "0": 13,
+    "1": 17
+  },
+  "timeout_and_error_tests": 4
+}

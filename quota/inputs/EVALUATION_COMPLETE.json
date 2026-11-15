@@ -1,0 +1,15 @@
+{
+  "timestamp_utc": "2026-11-04T18:19:09.992804+00:00",
+  "configurations": 172,
+  "policy_rows": 516,
+  "milp_checks": 1003,
+  "files": {
+    "case_failure_diagnostics.csv.gz": "c4a52182c798b7bbcef0a3a329b3a0a9149711a35dae52f6532a70aee228d378",
+    "case_results.csv.gz": "c5d7d5561b6c9b2ab547a7f3d5507ce2bc26b3ba06c8d161f3815db2435c93ce",
+    "configuration_results.csv": "c3dc71c23e512aa56f922c8bbbd8d86a25f685d87c288cdeeb4dff2c75db259a",
+    "independent_MILP_checks.csv": "05c7c00774bc8740c3319d081c59a8839718029d3c1251bbd8471d59760b5fd5",
+    "REVEAL_START.json": "c1cf32fec1455ffcd9c527a7913c30503778c9170f3b73b4c19d74ccb807e5a6"
+  },
+  "no_post_test_tuning": true,
+  "evidence": "Exploratory grouped validation on historically inspected cohorts"
+}

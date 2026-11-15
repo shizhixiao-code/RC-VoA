@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "preparation_seal_sha256": "62cf7a2bd08f25c525037029fe891426c7def30940115d1b70784b6ae1f47ced",
+  "measurement_code_sha256": "14c1f219655c5a2b34619e346b57e286e2ba7cbbe5cb452e7a85e5dffe3a0566",
+  "cohort_frontiers": 12,
+  "threshold_maximality_verified": true,
+  "evaluation_oracle_used_for_local_selection": false,
+  "bootstrap_draws_per_cohort": 1000,
+  "bootstrap_unit": "original groups within fixed evaluation folds",
+  "bootstrap_conditioning": "frozen clinical models and calibration thresholds",
+  "outputs": {
+    "operating_points.csv": "e4c20353ce23008ae9ef6d3b1d93a0d37021084c789bc7a6619e41fc32b005d7",
+    "frontier.csv": "98b0955f5531f1e38a5c4c4f0268d892673f453a4190a54548bb39aeebaa439d",
+    "oracle_strata.csv": "15fb425ad76308e3c9d4744b2356e0a23c0ed3afc227ded37064040123732380",
+    "uncertainty.csv": "fbbee7f8032e5486129e854758084abb50bd77cec35c762fff191e10fab4cc9d",
+    "score_distributions.csv": "305099b88fad39a53c1651f6848452c5ed6faac7ccc1aa8e83a7370315163067",
+    "all_36_system_operating_points.csv": "5ab7b8a4467ac2fb54ac7278ef0e7b3b0e5a03c2c7d0726750cdd9bdf6e7875f"
+  }
+}

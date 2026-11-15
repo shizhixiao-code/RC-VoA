@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:07:12.092463+00:00",
+  "context": "repaired__MRA__localfeatures__f3__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f3__q50_design_clinical.npz": "e023a5d6d2acf27ab0d7237c679fb3f940dd816238b47eaba4a58eafc8fe7bcf",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f3__q50_calibration_clinical.npz": "b1b64793aca433ae5d23117303a9ec090c7d10558f6e5073b8ce25a42e9b20a4",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f3__q50_evaluation_clinical.npz": "bb6509a3f6aac64ac8623358227952ffddb4c3bdcada5836657c43be55374e3f",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f3__q50_design_outcomes.npz": "893fe441f90ae58146f0c99e4b416b4a9638f03f3b47b45586b70a386b1c1303",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f3__q50_calibration_outcomes.npz": "6c20e68b34b7accd1c003749a9b169f60b5478ff106b91c0c17ffbbed69d4313",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f3.npz": "cbd31c2974b6c4aa585c7b241862186de6e36933cf0d56c98e85648cfef7c890"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "1d53220ff28962ac88ae82cc983a94e3fdd454bfd6296701a008ec71e3e1da68",
+    "policy.json": "d584394a7deb01e4946bf6b9fe9bc31779201234328d7819b23b99c91cb84e8d",
+    "probabilities.npz": "8f023c804d9e7c39c51acd8d476930caadadc0cf3ff5e7d17bb2c3af73249683",
+    "selected_ids.csv": "67b2e8ec140cb0f8d68e7e0f5113561389e10183d50c4d844bf62fd46c1c43af",
+    "selection.npz": "091d5c37c753a1570ec344683b90bdd8bfec5d97585fdc1196f66dad7ac819da",
+    "selector.joblib": "a96b754b6a8470e8333c37bdbbc9ac9755a53bd9a8a7477a7a0d1d9c6009cb52"
+  }
+}

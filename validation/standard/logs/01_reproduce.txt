@@ -1,0 +1,42 @@
+{
+  "table_id": "UQ_multiscale_b3_frozen50",
+  "minimum_images": 168,
+  "retained": 29,
+  "rescued": 6,
+  "false_positive_reduction": 160,
+  "flags": 623,
+  "t_star": 6,
+  "m": 75,
+  "r": 162,
+  "C_minus": 6,
+  "B_plus": 164,
+  "margins": [
+    0,
+    0,
+    0,
+    89,
+    4,
+    143
+  ]
+}
+{
+  "table_id": "Repaired_UQ_headonly_b1_q50",
+  "minimum_images": 164,
+  "retained": 21,
+  "rescued": 4,
+  "false_positive_reduction": 157,
+  "flags": 620,
+  "t_star": 4,
+  "m": 76,
+  "r": 160,
+  "C_minus": 4,
+  "B_plus": 212,
+  "margins": [
+    0,
+    0,
+    0,
+    136,
+    55,
+    146
+  ]
+}

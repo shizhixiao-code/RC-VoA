@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "tables": 236,
+  "expected_feasible": {
+    "source_SP": 27,
+    "primary": 1,
+    "repaired": 14
+  },
+  "aggregation": "diagnostic category x B x Dpair x R; case counts only, no images or patient identifiers",
+  "source_seal_sha256": "7d5576bd8be50968c10539ece6728a973a73e6280cb7daf011cc131d7a4867a2",
+  "protocol_sha256": "a5fbbab8ef1ddd2788bb67028bb55328f190955312cc8f9f4351e9687878b8cb"
+}

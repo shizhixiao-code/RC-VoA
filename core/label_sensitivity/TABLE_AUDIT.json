@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "setting": "reference",
+  "budgets": [
+    15,
+    20
+  ],
+  "clinical_targets": "Original reference targets",
+  "rows": [
+    {
+      "setting": "Original",
+      "source_SP_15": 27,
+      "source_SP_20": 27,
+      "source_SP_denominator": 36,
+      "primary": 1,
+      "repaired": 14,
+      "lowflag_denominator": 100
+    },
+    {
+      "setting": "AK/KA, updated R",
+      "source_SP_15": 24,
+      "source_SP_20": 24,
+      "source_SP_denominator": 36,
+      "primary": 1,
+      "repaired": 7,
+      "lowflag_denominator": 100
+    },
+    {
+      "setting": "AK/KA, fixed R",
+      "source_SP_15": 21,
+      "source_SP_20": 24,
+      "source_SP_denominator": 36,
+      "primary": 1,
+      "repaired": 7,
+      "lowflag_denominator": 100
+    }
+  ],
+  "input_and_output_csv_sha256": {
+    "frozen_feasibility_summary.csv": "4649249f9becb64e23b07af244da621be5983e489ace3e8d93f594e0d87e11f8",
+    "frozen_table_results.csv": "376887ea8c2e2d54689053834f60dbdbc0d549b699d8ef74fb5ecf758cf478d1",
+    "original_feasibility_summary.csv": "cfd0a23403ff52d709beba7203df8fb1853b10ee5a68e400c135c773240e2115",
+    "pipeline_feasibility_summary.csv": "4f7fac273300d3136a298ee41b95c5979331ec5fcd2f86a3a1edcb25c95ec4b1",
+    "pipeline_table_results.csv": "27cdbfe9b060e24ad56e304d8f92baf3be0edd7523a131b744e1974be1ca2fe7",
+    "Table_SVII.csv": "6d6c4f147f1c7b7f706743ac6dff82901f7c532b1756346f3b6047531e0bb0e5"
+  }
+}

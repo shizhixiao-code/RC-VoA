@@ -1,0 +1,102 @@
+{
+  "status": "PASS",
+  "code_sha256": "60a7535f941c505fb3545e35b9cd74028d307c2d60af1574b956590362c23dbe",
+  "resource_denominators_and_integer_budgets_consistent": true,
+  "summary_strata_and_bootstrap_observed_counts_match": true,
+  "endpoint_setting_verdict_sets_identical_within_each_reference_contract": true,
+  "cross_reference_verdict_differences": [
+    [
+      "source_SP",
+      "MCR-SL",
+      "deit3_base_patch16_224_L1",
+      "-1",
+      "100",
+      "reference",
+      "15"
+    ],
+    [
+      "source_SP",
+      "MCR-SL",
+      "deit3_base_patch16_224_L1",
+      "-1",
+      "100",
+      "AK_noncancer",
+      "15"
+    ],
+    [
+      "source_SP",
+      "MCR-SL",
+      "deit3_base_patch16_224_L1",
+      "-1",
+      "100",
+      "endpoint_complete_case",
+      "15"
+    ],
+    [
+      "source_SP",
+      "MCR-SL",
+      "deit3_base_patch16_224_L2",
+      "-1",
+      "100",
+      "reference",
+      "15"
+    ],
+    [
+      "source_SP",
+      "MCR-SL",
+      "deit3_base_patch16_224_L2",
+      "-1",
+      "100",
+      "AK_noncancer",
+      "15"
+    ],
+    [
+      "source_SP",
+      "MCR-SL",
+      "deit3_base_patch16_224_L2",
+      "-1",
+      "100",
+      "endpoint_complete_case",
+      "15"
+    ],
+    [
+      "source_SP",
+      "MCR-SL",
+      "deit3_base_patch16_224_L3",
+      "-1",
+      "100",
+      "reference",
+      "15"
+    ],
+    [
+      "source_SP",
+      "MCR-SL",
+      "deit3_base_patch16_224_L3",
+      "-1",
+      "100",
+      "AK_noncancer",
+      "15"
+    ],
+    [
+      "source_SP",
+      "MCR-SL",
+      "deit3_base_patch16_224_L3",
+      "-1",
+      "100",
+      "endpoint_complete_case",
+      "15"
+    ]
+  ],
+  "reference_repaired_lost_configurations": {
+    "configurations": 8,
+    "rescue_support": 6,
+    "flag_downgrade": 4,
+    "both": 2
+  },
+  "preserved_files": 101,
+  "preserved_pdf_pages": {
+    "RCVoA_Main_Integrated.pdf": 8,
+    "RCVoA_Supplement_Integrated.pdf": 4
+  },
+  "total_pages": 12
+}

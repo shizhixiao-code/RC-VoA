@@ -1,0 +1,42 @@
+[
+  {
+    "cohort": "MRA",
+    "source_path": "F:\\research\\SITP_MRI\\data\\modeling_ready\\skin\\rcvoa_data_lock_v1\\mra_lesions_expanded.csv",
+    "source_sha256": "e5ed0ff3301112790f854c06b855b78dcd91b4900f03d1079fc49213b97668bb",
+    "captured_path": "inputs\\clinical\\MRA__endpoint_metadata.csv",
+    "captured_sha256": "2a00881cecb87fbe51659874ad598b69053fb3a1142ef7fed3448ba780d801ac",
+    "rows": 891,
+    "id_join_one_to_one": true,
+    "group_join_exact": true
+  },
+  {
+    "cohort": "HIBA",
+    "source_path": "F:\\research\\SITP_MRI\\data\\modeling_ready\\skin\\rcvoa_hiba_untouched_v1\\outcomes_sealed.csv",
+    "source_sha256": "f3f707b7d84c1424bf408e5ec67e1bf35fc9f2686b80cbc1db7ff688b23f81d4",
+    "captured_path": "inputs\\clinical\\HIBA__endpoint_metadata.csv",
+    "captured_sha256": "afa4184f731e88e59ddcd2116fbd09bf6ca9034c2170948d0cf7e8070fc138d2",
+    "rows": 298,
+    "id_join_one_to_one": true,
+    "group_join_exact": true
+  },
+  {
+    "cohort": "UQ",
+    "source_path": "F:\\research\\SITP_MRI\\rcvoa_revision_v3_1\\frozen\\source_files\\data\\modeling_ready\\skin\\rcvoa_uq_longitudinal_sealed_v1\\strict_endpoint_mapping.csv",
+    "source_sha256": "0dffa13410c36253cc3a20306e7fb72787ae5434846816636b5b18bb3ea0ed50",
+    "captured_path": "inputs\\clinical\\UQ__endpoint_metadata.csv",
+    "captured_sha256": "0ebabd9027cdbc741b11d0b45ff321d0502500dfeb05cbc9f2eee36b88fc774d",
+    "rows": 7756,
+    "id_join_one_to_one": true,
+    "group_join_exact": true
+  },
+  {
+    "cohort": "MCR-SL",
+    "source_path": "F:\\research\\SITP_MRI\\rcvoa_revision_v3_1\\frozen\\source_files\\artifacts\\analysis\\rcvoa_r35_mcrsl_external_20260920\\case_endpoints.csv",
+    "source_sha256": "9421952be22a499922b64963197bb8647c2b8f945276576eab852b7675cc53c5",
+    "captured_path": "inputs\\clinical\\MCR-SL__endpoint_metadata.csv",
+    "captured_sha256": "ffaf44d102a3b827ecc8a10f8c23db273e34d0b1ebea91a7cf459e15af55a84e",
+    "rows": 223,
+    "id_join_one_to_one": true,
+    "group_join_exact": true
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "status": "PASS",
+  "full_record_agreements": 23600,
+  "summary": [
+    {
+      "scope": "All primary",
+      "tables": 100,
+      "orders": 100,
+      "avoided_pct": 92.0230713561683,
+      "checked_pct": 7.976928643831698
+    },
+    {
+      "scope": "Primary queried infeasible",
+      "tables": 27,
+      "orders": 100,
+      "avoided_pct": 74.15851801094676,
+      "checked_pct": 25.841481989053236
+    },
+    {
+      "scope": "Primary feasible",
+      "tables": 1,
+      "orders": 100,
+      "avoided_pct": 0.02714932126696823,
+      "checked_pct": 99.97285067873304
+    },
+    {
+      "scope": "Repaired queried infeasible",
+      "tables": 14,
+      "orders": 100,
+      "avoided_pct": 67.18604361609476,
+      "checked_pct": 32.813956383905236
+    },
+    {
+      "scope": "Repaired feasible",
+      "tables": 14,
+      "orders": 100,
+      "avoided_pct": 0.01598810545011112,
+      "checked_pct": 99.9840118945499,
+      "necessary_query_bound_pct": 99.30509113321683
+    }
+  ],
+  "scope": "Archived query-cost ledger replay; exact full-table margins recomputed from independent aggregate inputs"
+}

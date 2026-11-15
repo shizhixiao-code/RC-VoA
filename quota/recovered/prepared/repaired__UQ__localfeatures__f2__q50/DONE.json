@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:11:55.942965+00:00",
+  "context": "repaired__UQ__localfeatures__f2__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f2__q50_design_clinical.npz": "5bc032f6fc17972710d2dcc6ec2d17e1247c5e0f5bf651e9c521f18972ef6f54",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f2__q50_calibration_clinical.npz": "5d9bf906ab8e3952eaedc252235f9f632a11c9e5f24b810e4f49588ad916cd2f",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f2__q50_evaluation_clinical.npz": "27a0beb123344e48852855eaa281b6536db45e67a8f484d3aaae2b13370f20e1",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f2__q50_design_outcomes.npz": "f81567842af3d2c63520b8d01e3a41741b035d1b963941e7c9094ddcc110cf66",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f2__q50_calibration_outcomes.npz": "018905922e892ed020c9e4ceaa4f1ba75db67031ba217269fc45f46af8e4b529",
+    "rcvoa_selector_rebuild_20261027\\data\\UQ_pca_f2.npz": "f1db8fe16507232d54f405df81f034e7a9c472465189e0c0bec49995edbe352e"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "217e9240f0359a5ed21a86546a1adf6837dcdf36951fa7cdff0c7d8bf8765c70",
+    "policy.json": "627ffa1498501590cca2f2130a54bc4ba904a9621b6c858f2ee5ad645bb95808",
+    "probabilities.npz": "d8fd13fec768c581dc3f44859bc1f933763693bc084c2fa1b2f1baafbafcb9d8",
+    "selected_ids.csv": "5c75b606c1ca48d45eafc24764408d393105294a3e2d13fa672fc06208958966",
+    "selection.npz": "cec7c0f781380189d414b0a2c273a738a8ab27b95f72408daac4aac92e15d41d",
+    "selector.joblib": "9b8a917af0dffecbda7b29a953eb495f5d710683f10527c2ebbfbc005207289f"
+  }
+}

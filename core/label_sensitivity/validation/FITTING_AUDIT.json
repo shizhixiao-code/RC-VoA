@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "source_backbone_jobs": 90,
+  "source_initialization_jobs": 2,
+  "lowflag_training_jobs": 26,
+  "image_network_training_jobs": 118,
+  "fusion_outer_pipelines": 15,
+  "source_components": 4978,
+  "source_backbone_epochs": 553,
+  "source_backbone_fit_validation_seconds": 31909.582785844803,
+  "resumed_jobs": 1,
+  "timing_scope": "Sum of committed training/validation run segments, including recorded pre-resume segments; excludes interrupted partial-epoch overhead, export, preprocessing, fusion and lowflag stages. Not online verification runtime.",
+  "original_crops_verified": 27770,
+  "original_isolated_training_runtime_matched": [
+    "python",
+    "torch",
+    "numpy",
+    "timm",
+    "gpu",
+    "cuda",
+    "precision"
+  ],
+  "protected_files_unchanged": 101,
+  "code_sha256": "a3da28d4c2e01bb4b7176f01b51932469e6fb4fe7dd3da363973c64d1c45deb6"
+}

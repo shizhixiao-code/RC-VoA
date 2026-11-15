@@ -1,0 +1,8 @@
+{
+  "status": "PASS",
+  "scope": "Pattern scan for private keys, GitHub and AWS credentials, including ZIP members; not a formal privacy or data-license audit.",
+  "files_scanned": 1668,
+  "zip_members_scanned": 1276,
+  "python_files_parsed": 37,
+  "findings": []
+}

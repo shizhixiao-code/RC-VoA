@@ -1,0 +1,40 @@
+completed 30 /150
+completed 60 /150
+completed 90 /150
+completed 120 /150
+completed 150 /150
+{
+  "status": "PASS",
+  "original_metrics_reproduced": 150,
+  "sealed_ranking_selection_contexts": 50,
+  "quota_evaluations": 26025,
+  "summary": [
+    {
+      "policy": "Clinical-risk",
+      "configurations": 50,
+      "oracle_feasible": 10,
+      "original_pass": 0,
+      "projected_pass": 0,
+      "any_quota_pass": 0,
+      "feasible_any_quota_pass": 0
+    },
+    {
+      "policy": "Proximity",
+      "configurations": 50,
+      "oracle_feasible": 10,
+      "original_pass": 0,
+      "projected_pass": 0,
+      "any_quota_pass": 0,
+      "feasible_any_quota_pass": 0
+    },
+    {
+      "policy": "Transition-aware",
+      "configurations": 50,
+      "oracle_feasible": 10,
+      "original_pass": 0,
+      "projected_pass": 0,
+      "any_quota_pass": 0,
+      "feasible_any_quota_pass": 0
+    }
+  ]
+}

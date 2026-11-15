@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:11:53.309564+00:00",
+  "context": "repaired__UQ__localfeatures__f1__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f1__q50_design_clinical.npz": "538821e1b96889846cc2450c6cc21aa3f3586e8de5e16e8d6fe9b978856dea12",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f1__q50_calibration_clinical.npz": "8f8229084c27cba7b254a05097495879f96404aeaaad5abeb7e8ae7cbbb9e52a",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f1__q50_evaluation_clinical.npz": "e943a57f2623d7944072cbea39814910a90000cf352f67043a499106bae36137",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f1__q50_design_outcomes.npz": "3675d46ff01c4b34902566b47bef829892f94b1317b1db863d5abbb36828f1d3",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f1__q50_calibration_outcomes.npz": "a8ac348da8517feb192687f0fdcc1c042c26ea0a3ef998b80c189cafaabe3fba",
+    "rcvoa_selector_rebuild_20261027\\data\\UQ_pca_f1.npz": "08cff178071ea9c542d959d3b1c1db0048c7bbdeb2090e71ede20c63f97b5619"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "12795834788fda96da1ba86e3e6fbc8504932eebcbd17b91a17b9f86a4f811e7",
+    "policy.json": "e6f2584cfaca16cfa595231ed72ca15d60d44b2dc78eb654a226166282a6ddf8",
+    "probabilities.npz": "26c1d49ee8fc578eb31a7d55bf01e468e9cddcb09edd4458b187523c156552ac",
+    "selected_ids.csv": "cfb07a7c354a98204c6ef1c33701ef53873f34f801f29ed20bfae7785e54c146",
+    "selection.npz": "9363e456f09f0150977cf6f80ceea87c56f74f20f941b2752129221aa202d50b",
+    "selector.joblib": "679e3ba650db0ed4008fb637bb7b785933b8bcd05cf0f2be8825326a15d0fbec"
+  }
+}

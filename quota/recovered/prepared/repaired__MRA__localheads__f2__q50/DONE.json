@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:53.037898+00:00",
+  "context": "repaired__MRA__localheads__f2__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f2__q50_design_clinical.npz": "ac7112553acacf7d0a983665583524fa0873460d627c161b130de3a9bee32321",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f2__q50_calibration_clinical.npz": "b297b0c57003516cb69dccda2476896a05e8ca3f3e460a7ecc97207a01339981",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f2__q50_evaluation_clinical.npz": "8ddc0918ff8fbe0ab7ebb9443f9cbd5b9f97c955e72c568f21fc4f3116c902a2",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f2__q50_design_outcomes.npz": "92f32d0cee796744ef2b3932d852ea28803d26b59adb49a6bfdb5c80ff1b6782",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f2__q50_calibration_outcomes.npz": "c2d28b2a1fd249e24075e5908e0bef98bb63edcf38e7a9a31dc53f5dce290ac4",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f2.npz": "c99df92c629d2d8c56229d40be0ae7b1efa863dc4988bc5b079f2a0c718fe3cd"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "e0f1ced590bbb3ff9951ab3a7fc700349e901ba47da941446749b839723e859a",
+    "policy.json": "08fcfa034f1d56d88eba399c349ebe8c086e7e8b3f26b355c7b134d40ce0b570",
+    "probabilities.npz": "706cda59b9469d071dee89c587ebbe73f008be980ed1814883e6efc31d6d5c68",
+    "selected_ids.csv": "1117d723546ffea5c23a2300223c55c627dc99627d0ad751d19c912a588499a0",
+    "selection.npz": "ae518dfc76e23f977f8b783816f2d8a413b91885c8987ce4ae469ab21032a26e",
+    "selector.joblib": "b6be033d02bc4613d537fb79ce45059046ee9f5cb6fec3d81bd3dd7835e85d5c"
+  }
+}

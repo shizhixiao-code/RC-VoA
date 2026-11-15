@@ -1,0 +1,361 @@
+backbone,cohort,evaluation_fold,calibration_fold,threshold,stratum,rate,n,required,individual_cut,calibration_status,detected,binding
+efficientnet_b0,MRA,0,1,0.30011762712284107,All cancer,90,89,81,0.5123681554522715,nonzero_miss_allowance,89,False
+efficientnet_b0,MRA,0,1,0.30011762712284107,Melanoma,95,17,17,0.30011762712284107,zero_misses_required,17,True
+efficientnet_b0,MRA,0,1,0.30011762712284107,Invasive SCC,95,19,19,0.5550391632644315,zero_misses_required,19,False
+efficientnet_b0,MRA,0,1,0.30011762712284107,SCC NOS,95,0,0,,absent,0,False
+efficientnet_b0,MRA,0,1,0.30011762712284107,BCC,90,42,38,0.5135618901854142,nonzero_miss_allowance,42,False
+efficientnet_b0,MRA,0,1,0.30011762712284107,SCCIS,90,11,10,0.5654957965611012,nonzero_miss_allowance,11,False
+efficientnet_b0,MRA,1,2,0.24004196233776312,All cancer,90,65,59,0.4093132895723759,nonzero_miss_allowance,65,False
+efficientnet_b0,MRA,1,2,0.24004196233776312,Melanoma,95,13,13,0.24004196233776312,zero_misses_required,13,True
+efficientnet_b0,MRA,1,2,0.24004196233776312,Invasive SCC,95,11,11,0.4914637468522861,zero_misses_required,11,False
+efficientnet_b0,MRA,1,2,0.24004196233776312,SCC NOS,95,0,0,,absent,0,False
+efficientnet_b0,MRA,1,2,0.24004196233776312,BCC,90,30,27,0.42957367435059723,nonzero_miss_allowance,30,False
+efficientnet_b0,MRA,1,2,0.24004196233776312,SCCIS,90,10,9,0.5762446669602738,nonzero_miss_allowance,10,False
+efficientnet_b0,MRA,2,3,0.22113454054914522,All cancer,90,66,60,0.45474386552526597,nonzero_miss_allowance,66,False
+efficientnet_b0,MRA,2,3,0.22113454054914522,Melanoma,95,13,13,0.22113454054914522,zero_misses_required,13,True
+efficientnet_b0,MRA,2,3,0.22113454054914522,Invasive SCC,95,12,12,0.44343893392928,zero_misses_required,12,False
+efficientnet_b0,MRA,2,3,0.22113454054914522,SCC NOS,95,0,0,,absent,0,False
+efficientnet_b0,MRA,2,3,0.22113454054914522,BCC,90,30,27,0.49598059275661754,nonzero_miss_allowance,30,False
+efficientnet_b0,MRA,2,3,0.22113454054914522,SCCIS,90,9,9,0.5011169495471417,zero_misses_required,9,False
+efficientnet_b0,MRA,3,4,0.19737431734138755,All cancer,90,81,73,0.45529170501720423,nonzero_miss_allowance,81,False
+efficientnet_b0,MRA,3,4,0.19737431734138755,Melanoma,95,12,12,0.19737431734138755,zero_misses_required,12,True
+efficientnet_b0,MRA,3,4,0.19737431734138755,Invasive SCC,95,11,11,0.3920255636910712,zero_misses_required,11,False
+efficientnet_b0,MRA,3,4,0.19737431734138755,SCC NOS,95,0,0,,absent,0,False
+efficientnet_b0,MRA,3,4,0.19737431734138755,BCC,90,43,39,0.5585353980949753,nonzero_miss_allowance,43,False
+efficientnet_b0,MRA,3,4,0.19737431734138755,SCCIS,90,14,13,0.6198670833565764,nonzero_miss_allowance,14,False
+efficientnet_b0,MRA,4,0,0.2532571555511776,All cancer,90,78,71,0.5042222641598085,nonzero_miss_allowance,78,False
+efficientnet_b0,MRA,4,0,0.2532571555511776,Melanoma,95,15,15,0.2532571555511776,zero_misses_required,15,True
+efficientnet_b0,MRA,4,0,0.2532571555511776,Invasive SCC,95,11,11,0.49073696012455476,zero_misses_required,11,False
+efficientnet_b0,MRA,4,0,0.2532571555511776,SCC NOS,95,0,0,,absent,0,False
+efficientnet_b0,MRA,4,0,0.2532571555511776,BCC,90,41,37,0.5097141591318821,nonzero_miss_allowance,41,False
+efficientnet_b0,MRA,4,0,0.2532571555511776,SCCIS,90,11,10,0.563089933086442,nonzero_miss_allowance,11,False
+efficientnet_b0,HIBA,0,1,0.2521436379599819,All cancer,90,34,31,0.5431500230407997,nonzero_miss_allowance,34,False
+efficientnet_b0,HIBA,0,1,0.2521436379599819,Melanoma,95,7,7,0.2521436379599819,zero_misses_required,7,True
+efficientnet_b0,HIBA,0,1,0.2521436379599819,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,HIBA,0,1,0.2521436379599819,SCC NOS,95,9,9,0.5431500230407997,zero_misses_required,9,False
+efficientnet_b0,HIBA,0,1,0.2521436379599819,BCC,90,18,17,0.5714324562120848,nonzero_miss_allowance,18,False
+efficientnet_b0,HIBA,0,1,0.2521436379599819,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,HIBA,1,2,0.3444315997905898,All cancer,90,41,37,0.5619177250871392,nonzero_miss_allowance,41,False
+efficientnet_b0,HIBA,1,2,0.3444315997905898,Melanoma,95,13,13,0.3444315997905898,zero_misses_required,13,True
+efficientnet_b0,HIBA,1,2,0.3444315997905898,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,HIBA,1,2,0.3444315997905898,SCC NOS,95,6,6,0.6709628818757254,zero_misses_required,6,False
+efficientnet_b0,HIBA,1,2,0.3444315997905898,BCC,90,22,20,0.584581681999793,nonzero_miss_allowance,22,False
+efficientnet_b0,HIBA,1,2,0.3444315997905898,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,HIBA,2,3,0.3560465997017153,All cancer,90,40,36,0.475731598355247,nonzero_miss_allowance,40,False
+efficientnet_b0,HIBA,2,3,0.3560465997017153,Melanoma,95,7,7,0.3560465997017153,zero_misses_required,7,True
+efficientnet_b0,HIBA,2,3,0.3560465997017153,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,HIBA,2,3,0.3560465997017153,SCC NOS,95,10,10,0.5351552332884829,zero_misses_required,10,False
+efficientnet_b0,HIBA,2,3,0.3560465997017153,BCC,90,23,21,0.5690731738139471,nonzero_miss_allowance,23,False
+efficientnet_b0,HIBA,2,3,0.3560465997017153,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,HIBA,3,4,0.3827504556395799,All cancer,90,36,33,0.46493073817456265,nonzero_miss_allowance,36,False
+efficientnet_b0,HIBA,3,4,0.3827504556395799,Melanoma,95,9,9,0.3827504556395799,zero_misses_required,9,True
+efficientnet_b0,HIBA,3,4,0.3827504556395799,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,HIBA,3,4,0.3827504556395799,SCC NOS,95,9,9,0.45692097237529194,zero_misses_required,9,False
+efficientnet_b0,HIBA,3,4,0.3827504556395799,BCC,90,18,17,0.5631678626543124,nonzero_miss_allowance,18,False
+efficientnet_b0,HIBA,3,4,0.3827504556395799,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,HIBA,4,0,0.4265232626480843,All cancer,90,38,35,0.44129704746467835,nonzero_miss_allowance,37,False
+efficientnet_b0,HIBA,4,0,0.4265232626480843,Melanoma,95,12,12,0.4265232626480843,zero_misses_required,12,True
+efficientnet_b0,HIBA,4,0,0.4265232626480843,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,HIBA,4,0,0.4265232626480843,SCC NOS,95,6,6,0.6587125974641589,zero_misses_required,6,False
+efficientnet_b0,HIBA,4,0,0.4265232626480843,BCC,90,20,18,0.48906057024602295,nonzero_miss_allowance,19,False
+efficientnet_b0,HIBA,4,0,0.4265232626480843,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,UQ,0,1,0.6425926260241391,All cancer,90,18,17,0.6446622077392961,nonzero_miss_allowance,18,False
+efficientnet_b0,UQ,0,1,0.6425926260241391,Melanoma,95,3,3,0.6446622077392961,zero_misses_required,3,False
+efficientnet_b0,UQ,0,1,0.6425926260241391,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,UQ,0,1,0.6425926260241391,SCC NOS,95,9,9,0.6425926260241391,zero_misses_required,9,True
+efficientnet_b0,UQ,0,1,0.6425926260241391,BCC,90,6,6,0.6609875854654357,zero_misses_required,6,False
+efficientnet_b0,UQ,0,1,0.6425926260241391,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,UQ,1,2,0.6260161866648368,All cancer,90,29,27,0.6365121239483772,nonzero_miss_allowance,29,False
+efficientnet_b0,UQ,1,2,0.6260161866648368,Melanoma,95,4,4,0.6260161866648368,zero_misses_required,4,True
+efficientnet_b0,UQ,1,2,0.6260161866648368,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,UQ,1,2,0.6260161866648368,SCC NOS,95,11,11,0.6365121239483772,zero_misses_required,11,False
+efficientnet_b0,UQ,1,2,0.6260161866648368,BCC,90,14,13,0.6408468761318065,nonzero_miss_allowance,14,False
+efficientnet_b0,UQ,1,2,0.6260161866648368,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,UQ,2,3,0.5362588244659033,All cancer,90,13,12,0.5876035920530404,nonzero_miss_allowance,13,False
+efficientnet_b0,UQ,2,3,0.5362588244659033,Melanoma,95,2,2,0.6345677378550582,zero_misses_required,2,False
+efficientnet_b0,UQ,2,3,0.5362588244659033,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,UQ,2,3,0.5362588244659033,SCC NOS,95,2,2,0.6715591989652078,zero_misses_required,2,False
+efficientnet_b0,UQ,2,3,0.5362588244659033,BCC,90,9,9,0.5362588244659033,zero_misses_required,9,True
+efficientnet_b0,UQ,2,3,0.5362588244659033,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,UQ,3,4,0.6598577415600929,All cancer,90,14,13,0.6598577415600929,nonzero_miss_allowance,13,True
+efficientnet_b0,UQ,3,4,0.6598577415600929,Melanoma,95,1,1,0.6979671021197581,zero_misses_required,1,False
+efficientnet_b0,UQ,3,4,0.6598577415600929,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,UQ,3,4,0.6598577415600929,SCC NOS,95,3,3,0.6701665826470655,zero_misses_required,3,False
+efficientnet_b0,UQ,3,4,0.6598577415600929,BCC,90,10,9,0.6598577415600929,nonzero_miss_allowance,9,True
+efficientnet_b0,UQ,3,4,0.6598577415600929,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,UQ,4,0,0.5608522382373542,All cancer,90,21,19,0.6211688612950729,nonzero_miss_allowance,21,False
+efficientnet_b0,UQ,4,0,0.5608522382373542,Melanoma,95,6,6,0.5608522382373542,zero_misses_required,6,True
+efficientnet_b0,UQ,4,0,0.5608522382373542,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,UQ,4,0,0.5608522382373542,SCC NOS,95,7,7,0.5649494866554082,zero_misses_required,7,False
+efficientnet_b0,UQ,4,0,0.5608522382373542,BCC,90,8,8,0.6247083553734015,zero_misses_required,8,False
+efficientnet_b0,UQ,4,0,0.5608522382373542,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,0,1,0.40277096195391293,All cancer,90,11,10,0.4129896878167658,nonzero_miss_allowance,11,False
+efficientnet_b0,MCR-SL,0,1,0.40277096195391293,Melanoma,95,1,1,0.40277096195391293,zero_misses_required,1,True
+efficientnet_b0,MCR-SL,0,1,0.40277096195391293,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,0,1,0.40277096195391293,SCC NOS,95,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,0,1,0.40277096195391293,BCC,90,10,9,0.5756856705128451,nonzero_miss_allowance,10,False
+efficientnet_b0,MCR-SL,0,1,0.40277096195391293,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,1,2,0.20775841410294293,All cancer,90,5,5,0.20775841410294293,zero_misses_required,5,True
+efficientnet_b0,MCR-SL,1,2,0.20775841410294293,Melanoma,95,1,1,0.45180346986349473,zero_misses_required,1,False
+efficientnet_b0,MCR-SL,1,2,0.20775841410294293,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,1,2,0.20775841410294293,SCC NOS,95,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,1,2,0.20775841410294293,BCC,90,4,4,0.20775841410294293,zero_misses_required,4,True
+efficientnet_b0,MCR-SL,1,2,0.20775841410294293,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,2,3,0.5745319850333361,All cancer,90,6,6,0.5745319850333361,zero_misses_required,6,True
+efficientnet_b0,MCR-SL,2,3,0.5745319850333361,Melanoma,95,1,1,0.5745319850333361,zero_misses_required,1,True
+efficientnet_b0,MCR-SL,2,3,0.5745319850333361,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,2,3,0.5745319850333361,SCC NOS,95,1,1,0.5790946363506865,zero_misses_required,1,False
+efficientnet_b0,MCR-SL,2,3,0.5745319850333361,BCC,90,4,4,0.6895200589382909,zero_misses_required,4,False
+efficientnet_b0,MCR-SL,2,3,0.5745319850333361,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,3,4,0.28112923584278043,All cancer,90,4,4,0.28112923584278043,zero_misses_required,4,True
+efficientnet_b0,MCR-SL,3,4,0.28112923584278043,Melanoma,95,1,1,0.28112923584278043,zero_misses_required,1,True
+efficientnet_b0,MCR-SL,3,4,0.28112923584278043,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,3,4,0.28112923584278043,SCC NOS,95,1,1,0.8185433189884508,zero_misses_required,1,False
+efficientnet_b0,MCR-SL,3,4,0.28112923584278043,BCC,90,2,2,0.6573053192470975,zero_misses_required,2,False
+efficientnet_b0,MCR-SL,3,4,0.28112923584278043,SCCIS,90,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,4,0,0.18741965571616712,All cancer,90,15,14,0.3182249836471994,nonzero_miss_allowance,15,False
+efficientnet_b0,MCR-SL,4,0,0.18741965571616712,Melanoma,95,4,4,0.18741965571616712,zero_misses_required,4,True
+efficientnet_b0,MCR-SL,4,0,0.18741965571616712,Invasive SCC,95,0,0,,absent,0,False
+efficientnet_b0,MCR-SL,4,0,0.18741965571616712,SCC NOS,95,2,2,0.6904689429967763,zero_misses_required,2,False
+efficientnet_b0,MCR-SL,4,0,0.18741965571616712,BCC,90,9,9,0.45269780334700477,zero_misses_required,9,False
+efficientnet_b0,MCR-SL,4,0,0.18741965571616712,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,MRA,0,1,0.4045597228183738,All cancer,90,89,81,0.586029898199257,nonzero_miss_allowance,89,False
+convnext_tiny,MRA,0,1,0.4045597228183738,Melanoma,95,17,17,0.4045597228183738,zero_misses_required,17,True
+convnext_tiny,MRA,0,1,0.4045597228183738,Invasive SCC,95,19,19,0.6307201198103013,zero_misses_required,19,False
+convnext_tiny,MRA,0,1,0.4045597228183738,SCC NOS,95,0,0,,absent,0,False
+convnext_tiny,MRA,0,1,0.4045597228183738,BCC,90,42,38,0.6139101502179571,nonzero_miss_allowance,42,False
+convnext_tiny,MRA,0,1,0.4045597228183738,SCCIS,90,11,10,0.741157371199496,nonzero_miss_allowance,11,False
+convnext_tiny,MRA,1,2,0.3317425234649181,All cancer,90,65,59,0.5336753842251187,nonzero_miss_allowance,65,False
+convnext_tiny,MRA,1,2,0.3317425234649181,Melanoma,95,13,13,0.3317425234649181,zero_misses_required,13,True
+convnext_tiny,MRA,1,2,0.3317425234649181,Invasive SCC,95,11,11,0.6281574208561751,zero_misses_required,11,False
+convnext_tiny,MRA,1,2,0.3317425234649181,SCC NOS,95,0,0,,absent,0,False
+convnext_tiny,MRA,1,2,0.3317425234649181,BCC,90,30,27,0.594268057767751,nonzero_miss_allowance,30,False
+convnext_tiny,MRA,1,2,0.3317425234649181,SCCIS,90,10,9,0.7557849798580212,nonzero_miss_allowance,10,False
+convnext_tiny,MRA,2,3,0.2851986867487895,All cancer,90,66,60,0.4128437414303037,nonzero_miss_allowance,66,False
+convnext_tiny,MRA,2,3,0.2851986867487895,Melanoma,95,13,13,0.2851986867487895,zero_misses_required,13,True
+convnext_tiny,MRA,2,3,0.2851986867487895,Invasive SCC,95,12,12,0.6710107428911631,zero_misses_required,12,False
+convnext_tiny,MRA,2,3,0.2851986867487895,SCC NOS,95,0,0,,absent,0,False
+convnext_tiny,MRA,2,3,0.2851986867487895,BCC,90,30,27,0.5923578085378495,nonzero_miss_allowance,30,False
+convnext_tiny,MRA,2,3,0.2851986867487895,SCCIS,90,9,9,0.5923943278580897,zero_misses_required,9,False
+convnext_tiny,MRA,3,4,0.20899509500660915,All cancer,90,81,73,0.6047556846607737,nonzero_miss_allowance,81,False
+convnext_tiny,MRA,3,4,0.20899509500660915,Melanoma,95,12,12,0.20899509500660915,zero_misses_required,12,True
+convnext_tiny,MRA,3,4,0.20899509500660915,Invasive SCC,95,11,11,0.5626999545507059,zero_misses_required,11,False
+convnext_tiny,MRA,3,4,0.20899509500660915,SCC NOS,95,0,0,,absent,0,False
+convnext_tiny,MRA,3,4,0.20899509500660915,BCC,90,43,39,0.7233667258111931,nonzero_miss_allowance,43,False
+convnext_tiny,MRA,3,4,0.20899509500660915,SCCIS,90,14,13,0.8190776407408273,nonzero_miss_allowance,14,False
+convnext_tiny,MRA,4,0,0.29110119309547955,All cancer,90,78,71,0.5900507243227887,nonzero_miss_allowance,78,False
+convnext_tiny,MRA,4,0,0.29110119309547955,Melanoma,95,15,15,0.29110119309547955,zero_misses_required,15,True
+convnext_tiny,MRA,4,0,0.29110119309547955,Invasive SCC,95,11,11,0.5265668023968144,zero_misses_required,11,False
+convnext_tiny,MRA,4,0,0.29110119309547955,SCC NOS,95,0,0,,absent,0,False
+convnext_tiny,MRA,4,0,0.29110119309547955,BCC,90,41,37,0.6833480279221378,nonzero_miss_allowance,41,False
+convnext_tiny,MRA,4,0,0.29110119309547955,SCCIS,90,11,10,0.6791351179382624,nonzero_miss_allowance,11,False
+convnext_tiny,HIBA,0,1,0.3460552306595165,All cancer,90,34,31,0.4759959240999582,nonzero_miss_allowance,34,False
+convnext_tiny,HIBA,0,1,0.3460552306595165,Melanoma,95,7,7,0.3460552306595165,zero_misses_required,7,True
+convnext_tiny,HIBA,0,1,0.3460552306595165,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,HIBA,0,1,0.3460552306595165,SCC NOS,95,9,9,0.6469541976667805,zero_misses_required,9,False
+convnext_tiny,HIBA,0,1,0.3460552306595165,BCC,90,18,17,0.4759959240999582,nonzero_miss_allowance,18,False
+convnext_tiny,HIBA,0,1,0.3460552306595165,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,HIBA,1,2,0.25437620959366003,All cancer,90,41,37,0.42137780944440095,nonzero_miss_allowance,41,False
+convnext_tiny,HIBA,1,2,0.25437620959366003,Melanoma,95,13,13,0.25437620959366003,zero_misses_required,13,True
+convnext_tiny,HIBA,1,2,0.25437620959366003,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,HIBA,1,2,0.25437620959366003,SCC NOS,95,6,6,0.3708294565731477,zero_misses_required,6,False
+convnext_tiny,HIBA,1,2,0.25437620959366003,BCC,90,22,20,0.6005004983565143,nonzero_miss_allowance,22,False
+convnext_tiny,HIBA,1,2,0.25437620959366003,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,HIBA,2,3,0.16086629824515186,All cancer,90,40,36,0.435877761029268,nonzero_miss_allowance,40,False
+convnext_tiny,HIBA,2,3,0.16086629824515186,Melanoma,95,7,7,0.16086629824515186,zero_misses_required,7,True
+convnext_tiny,HIBA,2,3,0.16086629824515186,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,HIBA,2,3,0.16086629824515186,SCC NOS,95,10,10,0.25594603669171984,zero_misses_required,10,False
+convnext_tiny,HIBA,2,3,0.16086629824515186,BCC,90,23,21,0.6531986715542532,nonzero_miss_allowance,23,False
+convnext_tiny,HIBA,2,3,0.16086629824515186,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,HIBA,3,4,0.36935976587692554,All cancer,90,36,33,0.45889924494057543,nonzero_miss_allowance,36,False
+convnext_tiny,HIBA,3,4,0.36935976587692554,Melanoma,95,9,9,0.4212597764547927,zero_misses_required,9,False
+convnext_tiny,HIBA,3,4,0.36935976587692554,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,HIBA,3,4,0.36935976587692554,SCC NOS,95,9,9,0.36935976587692554,zero_misses_required,9,True
+convnext_tiny,HIBA,3,4,0.36935976587692554,BCC,90,18,17,0.4913358630671327,nonzero_miss_allowance,18,False
+convnext_tiny,HIBA,3,4,0.36935976587692554,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,HIBA,4,0,0.4234497479114593,All cancer,90,38,35,0.454570855217558,nonzero_miss_allowance,36,False
+convnext_tiny,HIBA,4,0,0.4234497479114593,Melanoma,95,12,12,0.4234497479114593,zero_misses_required,12,True
+convnext_tiny,HIBA,4,0,0.4234497479114593,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,HIBA,4,0,0.4234497479114593,SCC NOS,95,6,6,0.49658064072815267,zero_misses_required,6,False
+convnext_tiny,HIBA,4,0,0.4234497479114593,BCC,90,20,18,0.5676705526427357,nonzero_miss_allowance,18,False
+convnext_tiny,HIBA,4,0,0.4234497479114593,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,UQ,0,1,0.2892966287597886,All cancer,90,18,17,0.49243266219378057,nonzero_miss_allowance,18,False
+convnext_tiny,UQ,0,1,0.2892966287597886,Melanoma,95,3,3,0.2892966287597886,zero_misses_required,3,True
+convnext_tiny,UQ,0,1,0.2892966287597886,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,UQ,0,1,0.2892966287597886,SCC NOS,95,9,9,0.49243266219378057,zero_misses_required,9,False
+convnext_tiny,UQ,0,1,0.2892966287597886,BCC,90,6,6,0.5730221503852927,zero_misses_required,6,False
+convnext_tiny,UQ,0,1,0.2892966287597886,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,UQ,1,2,0.20179866242363326,All cancer,90,29,27,0.3424296090474351,nonzero_miss_allowance,29,False
+convnext_tiny,UQ,1,2,0.20179866242363326,Melanoma,95,4,4,0.20179866242363326,zero_misses_required,4,True
+convnext_tiny,UQ,1,2,0.20179866242363326,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,UQ,1,2,0.20179866242363326,SCC NOS,95,11,11,0.5275165996648111,zero_misses_required,11,False
+convnext_tiny,UQ,1,2,0.20179866242363326,BCC,90,14,13,0.4111705966461548,nonzero_miss_allowance,14,False
+convnext_tiny,UQ,1,2,0.20179866242363326,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,UQ,2,3,0.15567407483994405,All cancer,90,13,12,0.26372026680363536,nonzero_miss_allowance,13,False
+convnext_tiny,UQ,2,3,0.15567407483994405,Melanoma,95,2,2,0.15567407483994405,zero_misses_required,2,True
+convnext_tiny,UQ,2,3,0.15567407483994405,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,UQ,2,3,0.15567407483994405,SCC NOS,95,2,2,0.5252965385330641,zero_misses_required,2,False
+convnext_tiny,UQ,2,3,0.15567407483994405,BCC,90,9,9,0.5435269338405264,zero_misses_required,9,False
+convnext_tiny,UQ,2,3,0.15567407483994405,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,UQ,3,4,0.42874189589511325,All cancer,90,14,13,0.42874189589511325,nonzero_miss_allowance,13,True
+convnext_tiny,UQ,3,4,0.42874189589511325,Melanoma,95,1,1,0.568781444374806,zero_misses_required,1,False
+convnext_tiny,UQ,3,4,0.42874189589511325,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,UQ,3,4,0.42874189589511325,SCC NOS,95,3,3,0.42874189589511325,zero_misses_required,3,True
+convnext_tiny,UQ,3,4,0.42874189589511325,BCC,90,10,9,0.44659479858699014,nonzero_miss_allowance,9,False
+convnext_tiny,UQ,3,4,0.42874189589511325,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,UQ,4,0,0.4177826287501462,All cancer,90,21,19,0.4531517987930694,nonzero_miss_allowance,21,False
+convnext_tiny,UQ,4,0,0.4177826287501462,Melanoma,95,6,6,0.4177826287501462,zero_misses_required,6,True
+convnext_tiny,UQ,4,0,0.4177826287501462,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,UQ,4,0,0.4177826287501462,SCC NOS,95,7,7,0.6920495133867708,zero_misses_required,7,False
+convnext_tiny,UQ,4,0,0.4177826287501462,BCC,90,8,8,0.4276530079210872,zero_misses_required,8,False
+convnext_tiny,UQ,4,0,0.4177826287501462,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,MCR-SL,0,1,0.3666226677771441,All cancer,90,11,10,0.3666226677771441,nonzero_miss_allowance,10,True
+convnext_tiny,MCR-SL,0,1,0.3666226677771441,Melanoma,95,1,1,0.3666226677771441,zero_misses_required,1,True
+convnext_tiny,MCR-SL,0,1,0.3666226677771441,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,MCR-SL,0,1,0.3666226677771441,SCC NOS,95,0,0,,absent,0,False
+convnext_tiny,MCR-SL,0,1,0.3666226677771441,BCC,90,10,9,0.482760383497096,nonzero_miss_allowance,9,False
+convnext_tiny,MCR-SL,0,1,0.3666226677771441,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,MCR-SL,1,2,0.24836597631238105,All cancer,90,5,5,0.24836597631238105,zero_misses_required,5,True
+convnext_tiny,MCR-SL,1,2,0.24836597631238105,Melanoma,95,1,1,0.24836597631238105,zero_misses_required,1,True
+convnext_tiny,MCR-SL,1,2,0.24836597631238105,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,MCR-SL,1,2,0.24836597631238105,SCC NOS,95,0,0,,absent,0,False
+convnext_tiny,MCR-SL,1,2,0.24836597631238105,BCC,90,4,4,0.27732014373455305,zero_misses_required,4,False
+convnext_tiny,MCR-SL,1,2,0.24836597631238105,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,MCR-SL,2,3,0.5700457670596542,All cancer,90,6,6,0.5700457670596542,zero_misses_required,6,True
+convnext_tiny,MCR-SL,2,3,0.5700457670596542,Melanoma,95,1,1,0.6517934123214586,zero_misses_required,1,False
+convnext_tiny,MCR-SL,2,3,0.5700457670596542,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,MCR-SL,2,3,0.5700457670596542,SCC NOS,95,1,1,0.5700457670596542,zero_misses_required,1,True
+convnext_tiny,MCR-SL,2,3,0.5700457670596542,BCC,90,4,4,0.6550508545619185,zero_misses_required,4,False
+convnext_tiny,MCR-SL,2,3,0.5700457670596542,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,MCR-SL,3,4,0.1435004809534183,All cancer,90,4,4,0.1435004809534183,zero_misses_required,4,True
+convnext_tiny,MCR-SL,3,4,0.1435004809534183,Melanoma,95,1,1,0.1435004809534183,zero_misses_required,1,True
+convnext_tiny,MCR-SL,3,4,0.1435004809534183,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,MCR-SL,3,4,0.1435004809534183,SCC NOS,95,1,1,0.47693819190440123,zero_misses_required,1,False
+convnext_tiny,MCR-SL,3,4,0.1435004809534183,BCC,90,2,2,0.439526409032307,zero_misses_required,2,False
+convnext_tiny,MCR-SL,3,4,0.1435004809534183,SCCIS,90,0,0,,absent,0,False
+convnext_tiny,MCR-SL,4,0,0.14044991300421053,All cancer,90,15,14,0.26006072276730235,nonzero_miss_allowance,15,False
+convnext_tiny,MCR-SL,4,0,0.14044991300421053,Melanoma,95,4,4,0.14044991300421053,zero_misses_required,4,True
+convnext_tiny,MCR-SL,4,0,0.14044991300421053,Invasive SCC,95,0,0,,absent,0,False
+convnext_tiny,MCR-SL,4,0,0.14044991300421053,SCC NOS,95,2,2,0.4773071995841163,zero_misses_required,2,False
+convnext_tiny,MCR-SL,4,0,0.14044991300421053,BCC,90,9,9,0.2732632868991115,zero_misses_required,9,False
+convnext_tiny,MCR-SL,4,0,0.14044991300421053,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,MRA,0,1,0.29917324414123325,All cancer,90,89,81,0.5241463700656247,nonzero_miss_allowance,89,False
+deit3_base_patch16_224,MRA,0,1,0.29917324414123325,Melanoma,95,17,17,0.29917324414123325,zero_misses_required,17,True
+deit3_base_patch16_224,MRA,0,1,0.29917324414123325,Invasive SCC,95,19,19,0.560947649360755,zero_misses_required,19,False
+deit3_base_patch16_224,MRA,0,1,0.29917324414123325,SCC NOS,95,0,0,,absent,0,False
+deit3_base_patch16_224,MRA,0,1,0.29917324414123325,BCC,90,42,38,0.6648805398773036,nonzero_miss_allowance,42,False
+deit3_base_patch16_224,MRA,0,1,0.29917324414123325,SCCIS,90,11,10,0.7760972242863884,nonzero_miss_allowance,11,False
+deit3_base_patch16_224,MRA,1,2,0.2200256189821011,All cancer,90,65,59,0.41888495012816296,nonzero_miss_allowance,65,False
+deit3_base_patch16_224,MRA,1,2,0.2200256189821011,Melanoma,95,13,13,0.2200256189821011,zero_misses_required,13,True
+deit3_base_patch16_224,MRA,1,2,0.2200256189821011,Invasive SCC,95,11,11,0.5594957342314899,zero_misses_required,11,False
+deit3_base_patch16_224,MRA,1,2,0.2200256189821011,SCC NOS,95,0,0,,absent,0,False
+deit3_base_patch16_224,MRA,1,2,0.2200256189821011,BCC,90,30,27,0.5173513448032436,nonzero_miss_allowance,30,False
+deit3_base_patch16_224,MRA,1,2,0.2200256189821011,SCCIS,90,10,9,0.7394516107342499,nonzero_miss_allowance,10,False
+deit3_base_patch16_224,MRA,2,3,0.1641231897570153,All cancer,90,66,60,0.4711202596299063,nonzero_miss_allowance,66,False
+deit3_base_patch16_224,MRA,2,3,0.1641231897570153,Melanoma,95,13,13,0.1641231897570153,zero_misses_required,13,True
+deit3_base_patch16_224,MRA,2,3,0.1641231897570153,Invasive SCC,95,12,12,0.4918403469183259,zero_misses_required,12,False
+deit3_base_patch16_224,MRA,2,3,0.1641231897570153,SCC NOS,95,0,0,,absent,0,False
+deit3_base_patch16_224,MRA,2,3,0.1641231897570153,BCC,90,30,27,0.5615656336539612,nonzero_miss_allowance,30,False
+deit3_base_patch16_224,MRA,2,3,0.1641231897570153,SCCIS,90,9,9,0.7398929699235565,zero_misses_required,9,False
+deit3_base_patch16_224,MRA,3,4,0.18788030371893172,All cancer,90,81,73,0.48125923004683335,nonzero_miss_allowance,81,False
+deit3_base_patch16_224,MRA,3,4,0.18788030371893172,Melanoma,95,12,12,0.18788030371893172,zero_misses_required,12,True
+deit3_base_patch16_224,MRA,3,4,0.18788030371893172,Invasive SCC,95,11,11,0.41029926839482733,zero_misses_required,11,False
+deit3_base_patch16_224,MRA,3,4,0.18788030371893172,SCC NOS,95,0,0,,absent,0,False
+deit3_base_patch16_224,MRA,3,4,0.18788030371893172,BCC,90,43,39,0.7082423449966082,nonzero_miss_allowance,43,False
+deit3_base_patch16_224,MRA,3,4,0.18788030371893172,SCCIS,90,14,13,0.7410434814715954,nonzero_miss_allowance,14,False
+deit3_base_patch16_224,MRA,4,0,0.1978728489383011,All cancer,90,78,71,0.5078428305385141,nonzero_miss_allowance,78,False
+deit3_base_patch16_224,MRA,4,0,0.1978728489383011,Melanoma,95,15,15,0.1978728489383011,zero_misses_required,15,True
+deit3_base_patch16_224,MRA,4,0,0.1978728489383011,Invasive SCC,95,11,11,0.5078428305385141,zero_misses_required,11,False
+deit3_base_patch16_224,MRA,4,0,0.1978728489383011,SCC NOS,95,0,0,,absent,0,False
+deit3_base_patch16_224,MRA,4,0,0.1978728489383011,BCC,90,41,37,0.6832565425160834,nonzero_miss_allowance,41,False
+deit3_base_patch16_224,MRA,4,0,0.1978728489383011,SCCIS,90,11,10,0.6825599527805315,nonzero_miss_allowance,11,False
+deit3_base_patch16_224,HIBA,0,1,0.24812677236006747,All cancer,90,34,31,0.42768098551434086,nonzero_miss_allowance,34,False
+deit3_base_patch16_224,HIBA,0,1,0.24812677236006747,Melanoma,95,7,7,0.24812677236006747,zero_misses_required,7,True
+deit3_base_patch16_224,HIBA,0,1,0.24812677236006747,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,HIBA,0,1,0.24812677236006747,SCC NOS,95,9,9,0.6679483219672836,zero_misses_required,9,False
+deit3_base_patch16_224,HIBA,0,1,0.24812677236006747,BCC,90,18,17,0.5636061711862195,nonzero_miss_allowance,18,False
+deit3_base_patch16_224,HIBA,0,1,0.24812677236006747,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,HIBA,1,2,0.31155702220428755,All cancer,90,41,37,0.44739410676832925,nonzero_miss_allowance,41,False
+deit3_base_patch16_224,HIBA,1,2,0.31155702220428755,Melanoma,95,13,13,0.31155702220428755,zero_misses_required,13,True
+deit3_base_patch16_224,HIBA,1,2,0.31155702220428755,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,HIBA,1,2,0.31155702220428755,SCC NOS,95,6,6,0.4703760715190297,zero_misses_required,6,False
+deit3_base_patch16_224,HIBA,1,2,0.31155702220428755,BCC,90,22,20,0.580598374359953,nonzero_miss_allowance,22,False
+deit3_base_patch16_224,HIBA,1,2,0.31155702220428755,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,HIBA,2,3,0.11867159275818136,All cancer,90,40,36,0.38869954746409946,nonzero_miss_allowance,40,False
+deit3_base_patch16_224,HIBA,2,3,0.11867159275818136,Melanoma,95,7,7,0.11867159275818136,zero_misses_required,7,True
+deit3_base_patch16_224,HIBA,2,3,0.11867159275818136,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,HIBA,2,3,0.11867159275818136,SCC NOS,95,10,10,0.33179994547241515,zero_misses_required,10,False
+deit3_base_patch16_224,HIBA,2,3,0.11867159275818136,BCC,90,23,21,0.6808757644481936,nonzero_miss_allowance,23,False
+deit3_base_patch16_224,HIBA,2,3,0.11867159275818136,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,HIBA,3,4,0.37881794493504495,All cancer,90,36,33,0.42259808133485316,nonzero_miss_allowance,35,False
+deit3_base_patch16_224,HIBA,3,4,0.37881794493504495,Melanoma,95,9,9,0.4018771096132677,zero_misses_required,9,False
+deit3_base_patch16_224,HIBA,3,4,0.37881794493504495,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,HIBA,3,4,0.37881794493504495,SCC NOS,95,9,9,0.37881794493504495,zero_misses_required,9,True
+deit3_base_patch16_224,HIBA,3,4,0.37881794493504495,BCC,90,18,17,0.4616328177417836,nonzero_miss_allowance,17,False
+deit3_base_patch16_224,HIBA,3,4,0.37881794493504495,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,HIBA,4,0,0.30506047442816125,All cancer,90,38,35,0.40748249912233003,nonzero_miss_allowance,38,False
+deit3_base_patch16_224,HIBA,4,0,0.30506047442816125,Melanoma,95,12,12,0.30506047442816125,zero_misses_required,12,True
+deit3_base_patch16_224,HIBA,4,0,0.30506047442816125,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,HIBA,4,0,0.30506047442816125,SCC NOS,95,6,6,0.5476632385835325,zero_misses_required,6,False
+deit3_base_patch16_224,HIBA,4,0,0.30506047442816125,BCC,90,20,18,0.5165289967249055,nonzero_miss_allowance,20,False
+deit3_base_patch16_224,HIBA,4,0,0.30506047442816125,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,0,1,0.37272216938138925,All cancer,90,18,17,0.37754000901687096,nonzero_miss_allowance,18,False
+deit3_base_patch16_224,UQ,0,1,0.37272216938138925,Melanoma,95,3,3,0.37272216938138925,zero_misses_required,3,True
+deit3_base_patch16_224,UQ,0,1,0.37272216938138925,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,0,1,0.37272216938138925,SCC NOS,95,9,9,0.4071290492448975,zero_misses_required,9,False
+deit3_base_patch16_224,UQ,0,1,0.37272216938138925,BCC,90,6,6,0.6331666350349442,zero_misses_required,6,False
+deit3_base_patch16_224,UQ,0,1,0.37272216938138925,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,1,2,0.18985180290321854,All cancer,90,29,27,0.3083655265117494,nonzero_miss_allowance,29,False
+deit3_base_patch16_224,UQ,1,2,0.18985180290321854,Melanoma,95,4,4,0.18985180290321854,zero_misses_required,4,True
+deit3_base_patch16_224,UQ,1,2,0.18985180290321854,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,1,2,0.18985180290321854,SCC NOS,95,11,11,0.5211702662969774,zero_misses_required,11,False
+deit3_base_patch16_224,UQ,1,2,0.18985180290321854,BCC,90,14,13,0.39894922783170644,nonzero_miss_allowance,14,False
+deit3_base_patch16_224,UQ,1,2,0.18985180290321854,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,2,3,0.10273114516532164,All cancer,90,13,12,0.3226961517189477,nonzero_miss_allowance,13,False
+deit3_base_patch16_224,UQ,2,3,0.10273114516532164,Melanoma,95,2,2,0.10273114516532164,zero_misses_required,2,True
+deit3_base_patch16_224,UQ,2,3,0.10273114516532164,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,2,3,0.10273114516532164,SCC NOS,95,2,2,0.5614196177549142,zero_misses_required,2,False
+deit3_base_patch16_224,UQ,2,3,0.10273114516532164,BCC,90,9,9,0.5441233214449092,zero_misses_required,9,False
+deit3_base_patch16_224,UQ,2,3,0.10273114516532164,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,3,4,0.3656384993425507,All cancer,90,14,13,0.3656384993425507,nonzero_miss_allowance,13,True
+deit3_base_patch16_224,UQ,3,4,0.3656384993425507,Melanoma,95,1,1,0.5423183653598813,zero_misses_required,1,False
+deit3_base_patch16_224,UQ,3,4,0.3656384993425507,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,3,4,0.3656384993425507,SCC NOS,95,3,3,0.583913530532546,zero_misses_required,3,False
+deit3_base_patch16_224,UQ,3,4,0.3656384993425507,BCC,90,10,9,0.3656384993425507,nonzero_miss_allowance,9,True
+deit3_base_patch16_224,UQ,3,4,0.3656384993425507,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,4,0,0.32850864718988376,All cancer,90,21,19,0.4707146449727369,nonzero_miss_allowance,21,False
+deit3_base_patch16_224,UQ,4,0,0.32850864718988376,Melanoma,95,6,6,0.46105487873672724,zero_misses_required,6,False
+deit3_base_patch16_224,UQ,4,0,0.32850864718988376,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,UQ,4,0,0.32850864718988376,SCC NOS,95,7,7,0.7289753203461335,zero_misses_required,7,False
+deit3_base_patch16_224,UQ,4,0,0.32850864718988376,BCC,90,8,8,0.32850864718988376,zero_misses_required,8,True
+deit3_base_patch16_224,UQ,4,0,0.32850864718988376,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,0,1,0.29222811277186866,All cancer,90,11,10,0.29222811277186866,nonzero_miss_allowance,10,True
+deit3_base_patch16_224,MCR-SL,0,1,0.29222811277186866,Melanoma,95,1,1,0.29222811277186866,zero_misses_required,1,True
+deit3_base_patch16_224,MCR-SL,0,1,0.29222811277186866,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,0,1,0.29222811277186866,SCC NOS,95,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,0,1,0.29222811277186866,BCC,90,10,9,0.372665738197164,nonzero_miss_allowance,9,False
+deit3_base_patch16_224,MCR-SL,0,1,0.29222811277186866,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,1,2,0.23385082803160512,All cancer,90,5,5,0.23385082803160512,zero_misses_required,5,True
+deit3_base_patch16_224,MCR-SL,1,2,0.23385082803160512,Melanoma,95,1,1,0.2744985766462751,zero_misses_required,1,False
+deit3_base_patch16_224,MCR-SL,1,2,0.23385082803160512,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,1,2,0.23385082803160512,SCC NOS,95,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,1,2,0.23385082803160512,BCC,90,4,4,0.23385082803160512,zero_misses_required,4,True
+deit3_base_patch16_224,MCR-SL,1,2,0.23385082803160512,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,2,3,0.47487053315263406,All cancer,90,6,6,0.47487053315263406,zero_misses_required,6,True
+deit3_base_patch16_224,MCR-SL,2,3,0.47487053315263406,Melanoma,95,1,1,0.5645588281419306,zero_misses_required,1,False
+deit3_base_patch16_224,MCR-SL,2,3,0.47487053315263406,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,2,3,0.47487053315263406,SCC NOS,95,1,1,0.47487053315263406,zero_misses_required,1,True
+deit3_base_patch16_224,MCR-SL,2,3,0.47487053315263406,BCC,90,4,4,0.6740135075450706,zero_misses_required,4,False
+deit3_base_patch16_224,MCR-SL,2,3,0.47487053315263406,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,3,4,0.17504358566241734,All cancer,90,4,4,0.17504358566241734,zero_misses_required,4,True
+deit3_base_patch16_224,MCR-SL,3,4,0.17504358566241734,Melanoma,95,1,1,0.17504358566241734,zero_misses_required,1,True
+deit3_base_patch16_224,MCR-SL,3,4,0.17504358566241734,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,3,4,0.17504358566241734,SCC NOS,95,1,1,0.6610681883782439,zero_misses_required,1,False
+deit3_base_patch16_224,MCR-SL,3,4,0.17504358566241734,BCC,90,2,2,0.46376827042818836,zero_misses_required,2,False
+deit3_base_patch16_224,MCR-SL,3,4,0.17504358566241734,SCCIS,90,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,4,0,0.11772205642604469,All cancer,90,15,14,0.17565407985788084,nonzero_miss_allowance,15,False
+deit3_base_patch16_224,MCR-SL,4,0,0.11772205642604469,Melanoma,95,4,4,0.11772205642604469,zero_misses_required,4,True
+deit3_base_patch16_224,MCR-SL,4,0,0.11772205642604469,Invasive SCC,95,0,0,,absent,0,False
+deit3_base_patch16_224,MCR-SL,4,0,0.11772205642604469,SCC NOS,95,2,2,0.3901841026762407,zero_misses_required,2,False
+deit3_base_patch16_224,MCR-SL,4,0,0.11772205642604469,BCC,90,9,9,0.2861919311155053,zero_misses_required,9,False
+deit3_base_patch16_224,MCR-SL,4,0,0.11772205642604469,SCCIS,90,0,0,,absent,0,False

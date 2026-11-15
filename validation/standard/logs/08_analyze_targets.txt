@@ -1,0 +1,32 @@
+reference {'source_SP': 27, 'primary': 1, 'repaired': 14}
+pooled_85 {'source_SP': 27, 'primary': 1, 'repaired': 14}
+subtypes_minus5 {'source_SP': 30, 'primary': 1, 'repaired': 14}
+fp_reduction_5 {'source_SP': 27, 'primary': 1, 'repaired': 14}
+flag_reduction_5 {'source_SP': 27, 'primary': 1, 'repaired': 26}
+absolute_cap_plus10 {'source_SP': 27, 'primary': 1, 'repaired': 14}
+imaging_25 {'source_SP': 27, 'primary': 1, 'repaired': 14}
+{
+  "status": "PASS",
+  "tables": 236,
+  "profiles": 7,
+  "independent_milp_judgments": 1652,
+  "reference_agreement": 236,
+  "integer_witnesses_checked": 309,
+  "small_table_enumeration": {
+    "judgments": 294,
+    "feasible": 22,
+    "seed": 20261108
+  },
+  "relaxations_monotone": true,
+  "unknown_or_timeout": 0,
+  "python": "3.13.14",
+  "numpy": "2.5.1",
+  "scipy": "1.18.0",
+  "highs": "1.12.0",
+  "elapsed_seconds": 3.477771500000017,
+  "hashes": {
+    "tables.json": "1a85a83cdb90df1e144b896321a2dcd16cebc456c2dd022393b15a2ad8ad79bd",
+    "PROTOCOL.json": "61b5004df1ee03dd75c4d8f41f8ebd9dae357acd0ad8766b7c326d4ed7f78e6d",
+    "analyze_targets.py": "cfe288476f2cafd2f1d040a22a6550b16882ef7699ccaf1ad434daefa8c93953"
+  }
+}

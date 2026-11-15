@@ -1,0 +1,4 @@
+policy,configurations,oracle_feasible,original_pass,projected_pass,any_quota_pass,feasible_any_quota_pass
+Clinical-risk,50,10,0,0,0,0
+Proximity,50,10,0,0,0,0
+Transition-aware,50,10,0,0,0,0

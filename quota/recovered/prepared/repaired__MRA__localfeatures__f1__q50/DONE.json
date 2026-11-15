@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:07:06.648791+00:00",
+  "context": "repaired__MRA__localfeatures__f1__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f1__q50_design_clinical.npz": "3c74c48cdb12ee6a8bb1af1e2b0bf7de491eb7f761047b2860476ac6d61bf2a9",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f1__q50_calibration_clinical.npz": "13de89b940486a81d5772cfe0ce5cc2749b74115706f1597e0cf3471f928dae2",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f1__q50_evaluation_clinical.npz": "5178a3ac132ba7670c6883cab02160ca2460766ec5c838842449082be7c10817",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f1__q50_design_outcomes.npz": "3fb2116daeeb1f4a08d7338c937ac261181bc495a02daaffbe7cca9b9ae9936f",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f1__q50_calibration_outcomes.npz": "712f5b3c5089e88a8f31b42790964648d5dd77e86229d82ba62d407d4d6834ae",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f1.npz": "38684d711079559086c61fa6933803f1ed4f73d320e592c2440cc7fd6a6857fc"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "bf7755a61a4ee9e99d9f026b1b210e8028bfa75e85956979d19b23cb8d6650df",
+    "policy.json": "a1950864f4a9bbd699b1874dc8ae2502ba21649704d27835db8541779b12c79b",
+    "probabilities.npz": "2577e7f23c425bd48f266931971f32a21ba32d4e5095e7804f317d9a9eb365db",
+    "selected_ids.csv": "dc1e77abdc8cb1fe1437b2971fc1ef8468b9dcc93cca6c412b35696f11ebdf24",
+    "selection.npz": "59a48b270cb3d11fac8f42d0c52b84aafea8453a85c2feb32ec21d94e252aa1c",
+    "selector.joblib": "9be0d90d24d6ea066e0dccc2be8c8b098e704d07388826e2c6837cbbaba1111e"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "suite": "source-inclusion",
+  "started_utc": "20261115T105734Z_df0485",
+  "status": "PASS",
+  "release_files_verified": 1664,
+  "python": "3.13.14",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "steps": [
+    {
+      "cwd": "expanded_source\\rcvoa_p1_full_20261109\\code",
+      "command": [
+        "run_full_analysis.py",
+        "--reference-mode",
+        "pipeline"
+      ],
+      "exit_code": 0,
+      "seconds": 8.611,
+      "log": "logs\\01_run_full_analysis.txt"
+    },
+    {
+      "cwd": "expanded_source\\rcvoa_p1_full_20261109\\code",
+      "command": [
+        "bootstrap_repair.py",
+        "--reference-mode",
+        "pipeline"
+      ],
+      "exit_code": 0,
+      "seconds": 8.045,
+      "log": "logs\\02_bootstrap_repair.txt"
+    },
+    {
+      "cwd": "expanded_source\\rcvoa_p1_full_20261109\\code",
+      "command": [
+        "run_full_analysis.py",
+        "--reference-mode",
+        "frozen"
+      ],
+      "exit_code": 0,
+      "seconds": 7.199,
+      "log": "logs\\03_run_full_analysis.txt"
+    },
+    {
+      "cwd": "expanded_source\\rcvoa_p1_full_20261109\\code",
+      "command": [
+        "bootstrap_repair.py",
+        "--reference-mode",
+        "frozen"
+      ],
+      "exit_code": 0,
+      "seconds": 8.107,
+      "log": "logs\\04_bootstrap_repair.txt"
+    },
+    {
+      "cwd": "expanded_source\\rcvoa_p1_full_20261109\\code",
+      "command": [
+        "check_sccis_equivalence.py"
+      ],
+      "exit_code": 0,
+      "seconds": 4.394,
+      "log": "logs\\05_check_sccis_equivalence.txt"
+    }
+  ],
+  "numpy": "2.5.1",
+  "pandas": "3.0.5",
+  "scipy": "1.18.0"
+}

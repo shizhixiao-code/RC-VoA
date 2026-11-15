@@ -1,0 +1,60 @@
+[
+  {
+    "cohort": "MRA",
+    "source_sha256": "e5ed0ff3301112790f854c06b855b78dcd91b4900f03d1079fc49213b97668bb",
+    "slice": "inputs\\clinical\\upstream\\MRA__source_fields.csv",
+    "slice_sha256": "32f419d48ebb68c80627de3b8950588862079fcaf40eb196a0859a26a43350a8",
+    "columns": [
+      "lesion_id",
+      "source_record_id",
+      "raw_pathology",
+      "label_status",
+      "strict_malignant"
+    ],
+    "rows": 891
+  },
+  {
+    "cohort": "HIBA",
+    "source_sha256": "f3f707b7d84c1424bf408e5ec67e1bf35fc9f2686b80cbc1db7ff688b23f81d4",
+    "slice": "inputs\\clinical\\upstream\\HIBA__source_fields.csv",
+    "slice_sha256": "f6ef3e6d04dee39dbff2abe1869d0424bd74bcf3306b23fbe7e1094439a917ac",
+    "columns": [
+      "lesion_id",
+      "patient_id",
+      "benign_malignant",
+      "diagnosis",
+      "diagnosis_confirm_type",
+      "concomitant_biopsy"
+    ],
+    "rows": 298
+  },
+  {
+    "cohort": "UQ",
+    "source_sha256": "0dffa13410c36253cc3a20306e7fb72787ae5434846816636b5b18bb3ea0ed50",
+    "slice": "inputs\\clinical\\upstream\\UQ__source_fields.csv",
+    "slice_sha256": "0dffa13410c36253cc3a20306e7fb72787ae5434846816636b5b18bb3ea0ed50",
+    "columns": [
+      "participant_id",
+      "lesion_id",
+      "endpoint_category",
+      "diagnosis",
+      "diagnosis_basis",
+      "histopathologic_result"
+    ],
+    "rows": 7756
+  },
+  {
+    "cohort": "MCR-SL",
+    "source_sha256": "9421952be22a499922b64963197bb8647c2b8f945276576eab852b7675cc53c5",
+    "slice": "inputs\\clinical\\upstream\\MCR-SL__source_fields.csv",
+    "slice_sha256": "9421952be22a499922b64963197bb8647c2b8f945276576eab852b7675cc53c5",
+    "columns": [
+      "id",
+      "group",
+      "diagnosis",
+      "y",
+      "histopathology"
+    ],
+    "rows": 223
+  }
+]

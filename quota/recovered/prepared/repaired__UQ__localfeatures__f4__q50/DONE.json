@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:12:06.705376+00:00",
+  "context": "repaired__UQ__localfeatures__f4__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f4__q50_design_clinical.npz": "915a9d6b134e5958427b7960e4e8b10a2c932b94208e6dee4df80eb18abfda64",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f4__q50_calibration_clinical.npz": "52a1917898501c20014a119e47aa55c2598540adaae4259b212096a71e434e84",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f4__q50_evaluation_clinical.npz": "928fe80a22d40324528ae8f79e857333ed49a3f383bb77beb5053c75ee2bd080",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f4__q50_design_outcomes.npz": "7ebb2a8ea1cded39cc668b2da19344cd99a4bb400bb484d18d37cc040b84c2cf",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f4__q50_calibration_outcomes.npz": "a3269864103d170c95adaabb264cec6d4acf564e0b512b1a3fa0cbccf5e7ccf3",
+    "rcvoa_selector_rebuild_20261027\\data\\UQ_pca_f4.npz": "cf1452a7d2bd5c2d91e34ecd832e70719ef8b335d9a455778c97ca883d1f1229"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "8ba36c7c5b508339fc2b0d817efb7d9c95d0564e42b9c67a45ba73528a3654d4",
+    "policy.json": "28803f8d55f68d0eb7eb3581903423232a3204ad861088e44d536c6ea2ab58e1",
+    "probabilities.npz": "a64365a6cf774d9b68797e641a707698380c723cd5a7a6625395c3414f690035",
+    "selected_ids.csv": "ef97d53000d70c219af0fb95c6e2c39015306aa7e23c5038740556c914c26b51",
+    "selection.npz": "2b3b4006dc1474a4f56e06a222bf0d937323fc61ae9671a59fb9baecaac07137",
+    "selector.joblib": "0d3f0bbbeb37a1cfba4eee4629c96b3b7091a2382a53dea0a7ee689c238c802f"
+  }
+}

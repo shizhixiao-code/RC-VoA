@@ -1,0 +1,12 @@
+{
+  "status": "FROZEN_BEFORE_NEW_EXTERNAL_RESULTS",
+  "purpose": "Separate changes in fitted transition support from changes in the reference clinical decision R and its protected set.",
+  "fits": "Reuse the exact expanded-source model fits; no additional neural training or target-dependent model choice.",
+  "source_SP": "B and paired decisions come from the expanded-source S/P fits; R is the original matching architecture's S decision. Apply the same complete dual-reference criterion.",
+  "primary": "New low-flag clinical and paired decisions; retain the original ConvNeXt source-S R case by case.",
+  "repaired": "Recompute the original calibration-only rescue cutoff using the frozen original R on calibration cases. Preserve original paired decisions on B-positive cases. Do not reuse a cutoff calibrated to the newly fitted R.",
+  "targets": "Same pooled/subtype sensitivity floors, cancer retention identities under B and R, FP reduction, flag reduction, caps, imaging budgets, external cases and group folds.",
+  "reporting": "Report pipeline-R and frozen-original-R comparisons separately. The former repeats the original pipeline definition; the latter preserves the original reference benchmark. Do not pool their configuration denominators.",
+  "endpoint_settings": ["reference", "AK_noncancer", "endpoint_complete_case"],
+  "uncertainty": "Same 1000-replicate conditional group-bootstrap protocol, run separately per reference contract and endpoint setting."
+}

@@ -1,0 +1,8 @@
+{
+  "status": "POST_HOC_EXPLORATORY",
+  "scope": "All 50 repaired configurations at 20% imaging / 50% flag cap; all three frozen rankings",
+  "intervention": "Keep within-pool ordering, fixed K, decisions and endpoints. Sweep every integer quota allowed by pool sizes. Also project original quota to the archived oracle feasible interval.",
+  "interpretation": "Outcome-informed diagnostic upper bound within frozen rankings, not a deployable policy or new independent validation.",
+  "no_retraining": true,
+  "no_new_selector": true
+}

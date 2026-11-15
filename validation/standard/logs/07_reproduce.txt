@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "tables": 236,
+  "configuration_stage_judgments": 5664,
+  "exhaustive_small_table_checks": 448,
+  "full_criterion_agreement": 236,
+  "primary_nonexclusive_failures": [
+    99,
+    95,
+    99,
+    3,
+    79,
+    50
+  ],
+  "python": "3.13.14",
+  "numpy": "2.5.1",
+  "scipy": "1.18.0",
+  "data_sha256": "1a85a83cdb90df1e144b896321a2dcd16cebc456c2dd022393b15a2ad8ad79bd",
+  "code_sha256": "e08acb2ff18c5dbc3a6b90da022c4b025a554f77253c41c273c9c7e9d3d6e956"
+}
+{'analysis': 'cumulative', 'step': 1, 'constraint': 'imaging', 'family': 'primary', 'tables': 100, 'feasible': 100}
+{'analysis': 'cumulative', 'step': 1, 'constraint': 'imaging', 'family': 'repaired', 'tables': 100, 'feasible': 100}
+{'analysis': 'cumulative', 'step': 1, 'constraint': 'imaging', 'family': 'source_SP', 'tables': 36, 'feasible': 36}
+{'analysis': 'cumulative', 'step': 2, 'constraint': 'pooled', 'family': 'primary', 'tables': 100, 'feasible': 19}
+{'analysis': 'cumulative', 'step': 2, 'constraint': 'pooled', 'family': 'repaired', 'tables': 100, 'feasible': 89}
+{'analysis': 'cumulative', 'step': 2, 'constraint': 'pooled', 'family': 'source_SP', 'tables': 36, 'feasible': 36}
+{'analysis': 'cumulative', 'step': 3, 'constraint': 'subtypes', 'family': 'primary', 'tables': 100, 'feasible': 5}
+{'analysis': 'cumulative', 'step': 3, 'constraint': 'subtypes', 'family': 'repaired', 'tables': 100, 'feasible': 65}
+{'analysis': 'cumulative', 'step': 3, 'constraint': 'subtypes', 'family': 'source_SP', 'tables': 36, 'feasible': 27}
+{'analysis': 'cumulative', 'step': 4, 'constraint': 'protect_B', 'family': 'primary', 'tables': 100, 'feasible': 5}
+{'analysis': 'cumulative', 'step': 4, 'constraint': 'protect_B', 'family': 'repaired', 'tables': 100, 'feasible': 65}
+{'analysis': 'cumulative', 'step': 4, 'constraint': 'protect_B', 'family': 'source_SP', 'tables': 36, 'feasible': 27}
+{'analysis': 'cumulative', 'step': 5, 'constraint': 'protect_R', 'family': 'primary', 'tables': 100, 'feasible': 1}
+{'analysis': 'cumulative', 'step': 5, 'constraint': 'protect_R', 'family': 'repaired', 'tables': 100, 'feasible': 44}
+{'analysis': 'cumulative', 'step': 5, 'constraint': 'protect_R', 'family': 'source_SP', 'tables': 36, 'feasible': 27}
+{'analysis': 'cumulative', 'step': 6, 'constraint': 'FP', 'family': 'primary', 'tables': 100, 'feasible': 1}
+{'analysis': 'cumulative', 'step': 6, 'constraint': 'FP', 'family': 'repaired', 'tables': 100, 'feasible': 40}
+{'analysis': 'cumulative', 'step': 6, 'constraint': 'FP', 'family': 'source_SP', 'tables': 36, 'feasible': 27}
+{'analysis': 'cumulative', 'step': 7, 'constraint': 'relative_flags', 'family': 'primary', 'tables': 100, 'feasible': 1}
+{'analysis': 'cumulative', 'step': 7, 'constraint': 'relative_flags', 'family': 'repaired', 'tables': 100, 'feasible': 14}
+{'analysis': 'cumulative', 'step': 7, 'constraint': 'relative_flags', 'family': 'source_SP', 'tables': 36, 'feasible': 27}
+{'analysis': 'cumulative', 'step': 8, 'constraint': 'absolute_flags', 'family': 'primary', 'tables': 100, 'feasible': 1}
+{'analysis': 'cumulative', 'step': 8, 'constraint': 'absolute_flags', 'family': 'repaired', 'tables': 100, 'feasible': 14}
+{'analysis': 'cumulative', 'step': 8, 'constraint': 'absolute_flags', 'family': 'source_SP', 'tables': 36, 'feasible': 27}

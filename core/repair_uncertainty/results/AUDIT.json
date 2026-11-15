@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "python": "3.13.14",
+  "numpy": "2.5.1",
+  "scipy": "1.18.0",
+  "replicates": 1000,
+  "seed": 20261109,
+  "cohort_batch_strata": 10,
+  "groups": 1055,
+  "original_verdicts_matched": 200,
+  "bootstrap_table_verdicts": 200000,
+  "independent_allocation_milps": 400,
+  "monotone_paired_gain": true,
+  "overall": {
+    "stratum": "all",
+    "configurations": 100,
+    "primary_feasible": 1,
+    "repaired_feasible": 14,
+    "observed_gain_pp": 13.0,
+    "bootstrap_mean_gain_pp": 11.094,
+    "percentile_95_low_pp": 4.999999999999999,
+    "percentile_95_high_pp": 19.0,
+    "replicates": 1000
+  },
+  "elapsed_seconds": 2.5900904000009177,
+  "hashes": {
+    "PROTOCOL.json": "9471e900ea270f3673946261430fe0644cb35110d5293513f77b34dab84b8927",
+    "paired_group_counts.npz": "c6cdf5976106c08f488e141b1196cd2f8216be7bb35fe5ef58c7d65e8b57dbf0",
+    "configurations.json": "9fee88c1305573066443e980fef9ce413ee29fc57d19b7761bd0deea347d7e3a",
+    "run_bootstrap.py": "e928623d9cbff8f1ec541405342d176941bf889c1f785bd5f9b11428a8045b1b"
+  }
+}

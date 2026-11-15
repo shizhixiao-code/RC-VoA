@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:36.693451+00:00",
+  "context": "repaired__MRA__multiscale__f1__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f1__q50_design_clinical.npz": "c6c3daf4995c56434f416dc9a4629b6e3e811c8e7a1bbdf6d156899e851c832e",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f1__q50_calibration_clinical.npz": "61467d96b4639c2b3028b9c8f97e9408da8a8242b0acfcaf05eae79a19cd2d44",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f1__q50_evaluation_clinical.npz": "f1b4ff6dafda474ac380a944f7949b9dbdd1f556614305a301f4c764a96a32d1",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f1__q50_design_outcomes.npz": "d85af0576c7c00e59268702a4c6a91aa4c3d3680c86f1f0369882bb8d58fc0c7",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f1__q50_calibration_outcomes.npz": "7b4bf8b05cf5567ee7628897641f76a50ffba6eae641601abc19cde76ba44180",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f1.npz": "38684d711079559086c61fa6933803f1ed4f73d320e592c2440cc7fd6a6857fc"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "6df1ae5ec178d8c954de7857e6f4ac608bd7ac51410e9d267115208fe54e46c0",
+    "policy.json": "8ee195fc4bf5c79d6504320f5563120f58997b32f0b48874fadae2971beaa1eb",
+    "probabilities.npz": "9d394dd976c429d341216549dd92685ffedca4126b71e30b986ff78dc96f485e",
+    "selected_ids.csv": "0d1d6a1e91d5a6b897230bc908f1fc63201e1904df978dc909c8512995930d3b",
+    "selection.npz": "283876a35ada633dea83dbdc34e3480f638b8baf97af35fc9c0ed2a94d62ec03",
+    "selector.joblib": "9d734d8566c747e8cb51d884784e0066ab2a33dbb49c97803d8946130c3adee3"
+  }
+}

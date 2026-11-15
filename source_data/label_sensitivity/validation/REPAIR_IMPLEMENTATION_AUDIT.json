@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "original_replay": {
+    "status": "PASS",
+    "cutoff_checks": 100,
+    "primary_decision_vectors_checked": 200,
+    "all_original_calibration_cutoffs_reproduced_exactly": true,
+    "code_sha256": "f3e53c24a50a0a2502fbed341a5cf2e7240144692a1b07a2dc74caa9f7e18de8"
+  },
+  "boundary_checks": [
+    {
+      "case": "whole_ties",
+      "cutoff": 0.4,
+      "original": 0.7,
+      "positive_pool_unchanged": true
+    },
+    {
+      "case": "original_supported",
+      "cutoff": 0.3,
+      "original": 0.3,
+      "positive_pool_unchanged": true
+    },
+    {
+      "case": "no_calibration_cancer",
+      "cutoff": 0.5,
+      "original": 0.5,
+      "positive_pool_unchanged": true
+    },
+    {
+      "case": "all_cancers_initially_positive",
+      "cutoff": 0.5,
+      "original": 0.5,
+      "positive_pool_unchanged": true
+    },
+    {
+      "case": "finite_negative_scores",
+      "cutoff": -20.0,
+      "original": 0.0,
+      "positive_pool_unchanged": true
+    }
+  ],
+  "expanded_cutoffs_without_evaluation_group_overlap": 200,
+  "fallback_reason": "With mutually exclusive cancer categories and floors at most 100%, mandatory rescues and subtype/pooled deficits cannot exceed available B=0 calibration cancers. A cutoff at or below their minimum finite score provides all rescue support. This does not certify downgrade capacity, imaging capacity, or evaluation feasibility.",
+  "code_sha256": "61afde274120a89d652802efda5b510eb8d62a26f0bb585804c0b144e79bb8c3"
+}

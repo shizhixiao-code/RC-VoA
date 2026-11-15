@@ -1,0 +1,71 @@
+{
+  "created_utc": "2026-11-09T07:05:00.133013+00:00",
+  "status": "FROZEN_BEFORE_NEW_FITS",
+  "scope": "Full P1 label/exclusion sensitivity; manuscript unchanged; exploratory retrospective rerun.",
+  "source_alternative": {
+    "N": 4978,
+    "reference_N": 4717,
+    "added_AK_negative": 99,
+    "added_KA_positive": 162,
+    "labels": "Use original provider binary side: AK negative, KA positive. SCCIS remains its own subtype; no diagnostic re-adjudication.",
+    "folds": "Previously frozen v2 duplicate-component folds retained for all 4978 components; existing 4717 folds and representatives identical.",
+    "other_exclusions": "224 non-histopathology and 33 overlap candidates remain excluded; same five duplicate merges."
+  },
+  "steps": [
+    "Raw-field and duplicate/fold audit",
+    "Expanded-source refit with original isolated backbone/fusion/threshold recipe",
+    "Expanded-source refit of the five original low-flag representation arms and original held-out threshold repair",
+    "Reference and alternative endpoint definitions on all available newly fitted tables",
+    "Formal SCCIS/IEC same-floor rename equivalence check",
+    "Independent integer allocation validation and preserved-version check"
+  ],
+  "fitting": {
+    "backbones": [
+      "efficientnet_b0",
+      "convnext_tiny",
+      "deit3_base_patch16_224"
+    ],
+    "outer_folds": 5,
+    "seeds_per_fold": 3,
+    "modalities": 2,
+    "initialization": "Same ImageNet weights for isolated backbones; original fixed warm-start checkpoint for the separate low-flag arm recipe.",
+    "calibration": "Next MILK fold excluded from backbone fitting and validation; all external outcomes excluded from source fitting.",
+    "stopping": "Original source validation and early-stopping rules; no target-dependent reruns or hyperparameter search.",
+    "lowflag": "Keep original external group folds, arm recipes, warm-start checkpoints and target/reference definitions; add source AK/KA to source fits. No evaluation-fold labels enter selection/repair."
+  },
+  "endpoint_settings": [
+    "reference",
+    "AK_noncancer",
+    "endpoint_complete_case"
+  ],
+  "targets": "Original reference targets; imaging 10/15/20% for source SP, 15/20% for primary/repaired. Each table is a configuration, not an independent patient.",
+  "equivalence": "Changing SCCIS to IEC at the same 90% floor is a permutation/rename, not a new clinical target.",
+  "inputs": {
+    "frozen_cases": {
+      "path": "rcvoa_fusion_week1_fp32/metadata/cases.csv",
+      "sha256": "6d5ecc4397178ce1453314a32de1b2b3084a6a61f983651ad60d3c7265e030d0"
+    },
+    "frozen_labels": {
+      "path": "rcvoa_fusion_week1_fp32/metadata/MILK_labels.csv",
+      "sha256": "4ef0fb7c7c9aaa2cd481649092956c3b8c9757959ac3c468742025e807c8b86b"
+    },
+    "folds": {
+      "path": "data/splits/rcvoa_milk_outer_folds_v2.csv",
+      "sha256": "4451a97a94f22bdb77d9eda3924b6d0d5dc51a5e4793928561883173730b86ec"
+    },
+    "lesions": {
+      "path": "data/modeling_ready/skin/rcvoa_data_lock_v1/milk10k_lesions.csv",
+      "sha256": "e3219ed6efba8de8ce93d8622495636420fe72d2f8d7e33cd094dc247fc59714"
+    },
+    "official": {
+      "path": "output/rcvoa_operating_regions_20261009/provenance/milk10k_official_metadata_20261009.csv",
+      "sha256": "347c3a386331c1a8948f4d87a952be9aff3e859b668ddb2d08f35321addc2ebf"
+    }
+  },
+  "metadata_hashes": {
+    "cases.csv": "41a1c8ba802542652d8d9a84906c7d559cab83b588bea544828e13832014a0c0",
+    "MILK_labels.csv": "0d160ffc2df00959820d54c675cc8c460df3a9738704253d60834abf6ecf5f73",
+    "MILK_label_audit.csv": "91496888efc7905ccfe512042715a9eb856519d5c220344a56026d0902b1c0bc"
+  },
+  "preserved_files": 101
+}

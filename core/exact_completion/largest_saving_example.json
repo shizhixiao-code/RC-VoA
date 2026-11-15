@@ -1,0 +1,36 @@
+{
+  "table_id": "Repaired_UQ_headonly_b1_q50",
+  "order": 89,
+  "eligible": 1536,
+  "exact_prefix": 82,
+  "rc_prefix": 90,
+  "exact_checks": 1433,
+  "rc_checks": 1536,
+  "saved_records": 103,
+  "remaining_eligible": 103,
+  "rc_verdict_at_exact_stop": 0,
+  "rc_lower_margins": {
+    "mandatory_unrescuable": 0,
+    "Melanoma": -39,
+    "Invasive SCC": -39,
+    "SCC NOS": -39,
+    "BCC": -37,
+    "SCCIS": -37,
+    "rescue_total": -41,
+    "FP_reduction": 124,
+    "flag_reduction": 3,
+    "capacity": 66
+  },
+  "rc_upper_margins": {
+    "mandatory_unrescuable": 0,
+    "Melanoma": 42,
+    "Invasive SCC": 41,
+    "SCC NOS": 42,
+    "BCC": 42,
+    "SCCIS": 41,
+    "rescue_total": 41,
+    "FP_reduction": 142,
+    "flag_reduction": 56,
+    "capacity": 148
+  }
+}

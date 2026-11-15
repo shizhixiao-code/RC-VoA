@@ -1,0 +1,25 @@
+scope,setting,budget,method,tables,passes,same_quota_feasible
+heldout_fold,S_local,10,Clinical risk,180,0,18
+heldout_fold,S_local,10,Proximity,180,0,0
+heldout_fold,S_local,15,Clinical risk,180,0,93
+heldout_fold,S_local,15,Proximity,180,4,36
+heldout_fold,S_local,20,Clinical risk,180,8,96
+heldout_fold,S_local,20,Proximity,180,12,69
+heldout_fold,source_S,10,Clinical risk,180,0,33
+heldout_fold,source_S,10,Proximity,180,9,9
+heldout_fold,source_S,15,Clinical risk,180,0,165
+heldout_fold,source_S,15,Proximity,180,46,129
+heldout_fold,source_S,20,Clinical risk,180,17,165
+heldout_fold,source_S,20,Proximity,180,46,153
+pooled,S_local,10,Clinical risk,36,0,0
+pooled,S_local,10,Proximity,36,0,0
+pooled,S_local,15,Clinical risk,36,0,0
+pooled,S_local,15,Proximity,36,0,0
+pooled,S_local,20,Clinical risk,36,0,0
+pooled,S_local,20,Proximity,36,0,0
+pooled,source_S,10,Clinical risk,36,0,0
+pooled,source_S,10,Proximity,36,0,0
+pooled,source_S,15,Clinical risk,36,0,27
+pooled,source_S,15,Proximity,36,0,24
+pooled,source_S,20,Clinical risk,36,0,27
+pooled,source_S,20,Proximity,36,0,27

@@ -1,0 +1,4 @@
+table_id,stage,cohort,mode,batch,cap,N,eligible,groups,feasible,screen,order,exact_stop,rc_stop,exact_checks,rc_checks,screen_checks,verdict,truth,record_saving,exact_fraction,rc_fraction,offline_uncached_calls,offline_uncached_seconds,offline_evaluations,solver_unknowns,earliest_proved
+Repaired_UQ_headonly_b1_q30,Repaired,UQ,headonly,1,30,1552,1536,90,True,False,0,90,90,1536,1536,1536,1,1,0,1.0,1.0,27,0.1452155999986644,11,0,True
+Repaired_UQ_headonly_b1_q30,Repaired,UQ,headonly,1,30,1552,1536,90,True,False,49,88,88,1525,1525,1536,1,1,0,0.9928385416666666,0.9928385416666666,21,0.48473740000099497,10,0,True
+Repaired_UQ_headonly_b1_q30,Repaired,UQ,headonly,1,30,1552,1536,90,True,False,99,89,90,1532,1536,1536,1,1,4,0.9973958333333334,1.0,23,0.31604170000082377,11,0,True

@@ -1,0 +1,13 @@
+scope,setting,budget,tables,feasible,exact_feasible,positive_rescue_feasible,support_failures,fail_mandatory,fail_subtype,fail_total_rescue,fail_FP_reduction,fail_flag_reduction,fail_capacity
+heldout_fold,S_local,10,180,18,18,0,81,79,78,79,0,24,162
+heldout_fold,S_local,15,180,96,96,3,81,79,78,79,0,24,36
+heldout_fold,S_local,20,180,99,99,3,81,79,78,79,0,24,18
+heldout_fold,source_S,10,180,33,33,0,15,0,15,15,0,0,147
+heldout_fold,source_S,15,180,165,165,0,15,0,15,15,0,0,9
+heldout_fold,source_S,20,180,165,165,0,15,0,15,15,0,0,0
+pooled,S_local,10,36,0,0,0,36,36,30,36,0,4,36
+pooled,S_local,15,36,0,0,0,36,36,30,36,0,4,6
+pooled,S_local,20,36,0,0,0,36,36,30,36,0,4,0
+pooled,source_S,10,36,0,0,0,9,0,9,9,0,0,36
+pooled,source_S,15,36,27,27,0,9,0,9,9,0,0,0
+pooled,source_S,20,36,27,27,0,9,0,9,9,0,0,0

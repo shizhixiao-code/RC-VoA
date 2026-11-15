@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:07:12.139980+00:00",
+  "context": "repaired__MRA__localfeatures__f2__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f2__q50_design_clinical.npz": "aeefa6e510e4d51799ded65edfd6e18c13da2dfae437438d833dd7ac69f0c566",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f2__q50_calibration_clinical.npz": "303a7d8b2c7e9b65bd4a0c0eda49fa8fa3b4521a08b7103cbf1cd6f56c4ac655",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f2__q50_evaluation_clinical.npz": "f8cdc2546f3cc1792e41ead3ed548b16f950896e10cf1cc0619df50450067dd6",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f2__q50_design_outcomes.npz": "a66411871d18c3d30578d37bd18855a988295e22fe2a85c84db91dedbd07f06d",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f2__q50_calibration_outcomes.npz": "ff4ad103f27467bf4691c47ac02fe04cf9fd913ba116a303c40ba013d55b910e",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f2.npz": "c99df92c629d2d8c56229d40be0ae7b1efa863dc4988bc5b079f2a0c718fe3cd"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "bff7d08f42d4ca5f900581810da962ba85c765fbf18fbc3008af76872fcb38c6",
+    "policy.json": "34e3fba0ebce524fefb2eba390805ae541b1ca0ad451f294f9642cdf869d5618",
+    "probabilities.npz": "b742530d0712682239e6177eb33eef98f70c6837ce292f20da87079ecadd7ab7",
+    "selected_ids.csv": "0e9f5b08fcd6aedbea8de7238e2ca8db7ed2ca049b597e70533bae91d7f6d278",
+    "selection.npz": "7f4cf5013b66ab948532dc60462864f6262a098d22d5545c4089d35081a4ba2e",
+    "selector.joblib": "4a86d5f859511b9c935632c7bf517f7d11d8e9e4887db434111e37539ddd7f67"
+  }
+}

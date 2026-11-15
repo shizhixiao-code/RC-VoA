@@ -1,0 +1,6 @@
+stratum,configurations,primary_feasible,repaired_feasible,observed_gain_pp,bootstrap_mean_gain_pp,percentile_95_low_pp,percentile_95_high_pp,replicates
+all,100,1,14,13.0,11.094,4.999999999999999,19.0,1000
+MRA,50,0,0,0.0,0.0,0.0,0.0,1000
+UQ,50,1,14,26.0,22.188,9.999999999999998,38.0,1000
+cap_30,50,0,4,8.0,9.984,2.0,20.0,1000
+cap_50,50,1,10,18.0,12.204,4.0,22.0,1000

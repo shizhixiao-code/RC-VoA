@@ -1,0 +1,21 @@
+{
+  "status": "FROZEN_BEFORE_REFITTING",
+  "scope": "Remove the source exclusion from the low-flag initialization as well as all subsequent source head/feature fits.",
+  "source_initializer": "Refit original member1 clinical and dermoscopic ConvNeXt from ImageNet; source folds2/3/4 train, fold1 validation, fold0 unused. Same selected lr5e-5, seed, augmentation, bfloat16,16 epochs maximum, patience4. No new LR search.",
+  "lowflag": "Then repeat original source heads, laststage, warmstage, source-only choice, multiscale, and 20 grouped local fits. Source AK maps to binary0/subtype0; KA to binary1/SCC-family; SCCIS separate subtype4.",
+  "source_thresholds": "S uses pooled90%, MEL95%, SCC-family95% including retained KA, BCC90%, SCCIS90%. AK never enters SCCIS denominator.",
+  "external_training": "Original external training manifests and group roles retained; endpoint-setting comparisons are downstream audits of these fitted decisions, not separate target-model retrainings.",
+  "amendment_to": "protocol/PLAN.json: replaces the initially planned fixed low-flag warm-start checkpoint with its expanded-source refit; all other recipes retained.",
+  "source_files": {
+    "rcvoa_criteria_revision_20261023\\protocol\\SOURCE_REPRESENTATION_PLAN.md": "993ee9f0f0e232ba9d1e487f1e7c8efe1a66b35353d0102979887bc4849e3940",
+    "rcvoa_criteria_revision_20261023\\protocol\\SOURCE_WARM_START_PLAN.md": "690528b7e2ea9ef749a6e1990b2020d9a388c7959f0052f767f7f72317fd1955",
+    "rcvoa_criteria_revision_20261023\\protocol\\LOCAL_REPRESENTATION_PLAN.md": "e60d917bbed68bd4109e4d1c2a1d3534f6d4b71235debc8b0b27bf7e80b508df",
+    "rcvoa_criteria_revision_20261023\\protocol\\MULTISCALE_INPUT_PLAN.md": "25fd35ceb4c428b9e3ace8de09114c04c060bb6668ff7fb43f53e91aee0f5a21",
+    "rcvoa_criteria_revision_20261023\\code\\train_source_subtypes.py": "3e6a7ad2fac81fbf55f64bce999c3c9dfdf1102095607fc2babe1f94a3b61582",
+    "rcvoa_criteria_revision_20261023\\code\\train_source_warm.py": "8112fda6f82c47dbe27c4779baf39125e86c5c3726c72288b0fd3e1cfa85e517",
+    "rcvoa_criteria_revision_20261023\\code\\train_local_subtypes.py": "ce1f6af5d5edca768cfecea10ba099d0abd1db9825fd6941c9461d46a0aa2e8c",
+    "rcvoa_criteria_revision_20261023\\code\\prepare_scale_crops.py": "c49e134fe1f8bc9db300effdfb80966d1b6639e8ee8e41b3d0629cf3859430e3",
+    "rcvoa_criteria_revision_20261023\\code\\export_scale_scores.py": "dd2f823e221a310b58aba9a11492e0d80fd95445223a593ccd71fdc70081136c",
+    "rcvoa_criteria_revision_20261023\\experiments\\lowflag20261023\\source_representation\\local_training_manifest.csv": "beaf663f75c79866c4c8e384f3f30d58ceda9763fe5146fd95379731c513390e"
+  }
+}

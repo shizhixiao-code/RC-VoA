@@ -1,0 +1,27 @@
+{
+  "title": "RC-VoA: Certified Allocation Auditing and Verification for Skin-Lesion Imaging",
+  "revision": "2026-11-15 endpoint eligibility and complete-case revision",
+  "main_pages": 8,
+  "supplement_pages": 5,
+  "pdf_sha256": {
+    "RCVoA_Main_AuthorOrderConfirmed.pdf": "d2c364a40b0cfedcefda65de8e75d2a004a5c8790d98b85555123dd6080f305a",
+    "RCVoA_Supplement_AuthorOrderConfirmed.pdf": "f41942aba178fe08ca0fd53dfa8798dfa7c2b87005b5ca2d056ccec0beaa8a1a"
+  },
+  "sources": [
+    {
+      "file": "RCVoA_Reproducibility.zip",
+      "sha256": "d0871b71679791af5ee0d40110261e80ca471c2a1e5284051727764c92a8fdec",
+      "bytes": 25390753
+    },
+    {
+      "file": "RCVoA_Source_Data.zip",
+      "sha256": "75715f66f89ad0264f6561553f4a8153a7027102ddb90a0e12ccfb6c765224af",
+      "bytes": 11041227
+    },
+    {
+      "file": "Quota_Diagnostic_Replay.zip",
+      "sha256": "31e0f2323dc6f5ffc15fc8a9940ac08168cdb52546c6afde9bd80e6179b2a475",
+      "bytes": 9379117
+    }
+  ]
+}

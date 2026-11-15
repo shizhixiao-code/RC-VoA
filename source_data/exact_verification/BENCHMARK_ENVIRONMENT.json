@@ -1,0 +1,7 @@
+{
+  "cpu": "Intel(R) Core(TM) Ultra 9 185H",
+  "physical_cores": 16,
+  "logical_processors": 22,
+  "benchmark_policy": "One Python process, sequential method replay, no simultaneous experiment process",
+  "dataset_stage": "Frozen Figure 4, 20 percent cap, free quota"
+}

@@ -1,0 +1,54 @@
+Exact-Completion MILP：独立实验结果
+日期：2026-11-07（Asia/Shanghai）
+范围：仅实验；论文、原 Figure 4、原始输入均未修改。
+
+主要发现：需检索的4,100次infeasible判定，两种方法的最早停止组完全一致。
+Repaired feasible平均查询比例99.984012%→99.626972%，节省0.357040个百分点（5.472条记录/次）；
+419/1,400个顺序提前停止，最大单次节省103条（6.706个百分点、8个组）。
+同层在线均值0.023571秒→1.629214秒；计算更慢，但绝对耗时是秒级，实际取舍取决于诊断检索成本。
+这些结果仅说明所测固定顺序下的保守性，不证明全局最优查询策略。
+
+完整配对：100 primary + 100 repaired，各100个原有 outcome-blind group orders，共20,000次。
+20% imaging cap、free quota、同一 complete criterion、已知 eligibility、无 outcome totals。
+两阶段各72个同一配置经共同 decision-only pre-screen 以零查询排除，以下不混入这72个配置。
+
+查询比例：先在各表内除以 eligible endpoints，再等权平均；括号为跨100个配对顺序的P10–P90（非置信区间）。
+Primary infeasible (n=27): RC 25.841482% (16.358031–35.254740); Exact 25.841482% (16.358031–35.254740); Full 100%; gain 0.000000 percentage points; 0/2700 orders earlier; mean 0.0000 fewer endpoints.
+Primary feasible (n=1): RC 99.972851% (100.000000–100.000000); Exact 99.933420% (99.870718–100.000000); Full 100%; gain 0.039431 percentage points; 5/100 orders earlier; mean 0.6100 fewer endpoints.
+Repaired infeasible (n=14): RC 32.813956% (18.827267–47.714290); Exact 32.813956% (18.827267–47.714290); Full 100%; gain 0.000000 percentage points; 0/1400 orders earlier; mean 0.0000 fewer endpoints.
+Repaired feasible (n=14): RC 99.984012% (99.944196–100.000000); Exact 99.626972% (99.158463–99.945888); Full 100%; gain 0.357040 percentage points; 419/1400 orders earlier; mean 5.4721 fewer endpoints.
+
+实际逐组在线计算时间（不含真实病理检索延迟）：
+Primary infeasible: 270 table–order runs; mean RC 0.006615s, Exact 0.387857s, pre-screen+full 0.001092s; Exact run P10–P90 0.022760–1.007514s.
+Primary feasible: 10 table–order runs; mean RC 0.022821s, Exact 1.733476s, pre-screen+full 0.000962s; Exact run P10–P90 1.448798–1.960575s.
+Repaired infeasible: 140 table–order runs; mean RC 0.008476s, Exact 0.428721s, pre-screen+full 0.001091s; Exact run P10–P90 0.027997–0.969399s.
+Repaired feasible: 140 table–order runs; mean RC 0.023571s, Exact 1.629214s, pre-screen+full 0.001038s; Exact run P10–P90 1.062113–2.236728s.
+在线采样预设为全部56个需查询配置的原始顺序 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]；未用二分搜索或跨前缀缓存。
+在线时间包含 ledger 累加、模型构造和求解；不含磁盘载入、Python 启动和真实诊断获取。
+Pre-screen + full 的时间只测本地模拟累加和最后一次计数判定，因此不代表实际检索服务时间。
+不同方法在同一进程逐一运行；当前通用实现未经独立性能调优，时间依赖本机和求解器。
+
+一致性：20000/20,000；本次运行 UNKNOWN/timeout = 0。
+独立验证：12504种补全、2500个逐margin检查、5158个literal allocation穷举。
+最早性证据：5600个 stop-1 前缀均保存一份可行补全和一份不可行补全；独立分配MILP共10232次，全部一致。
+Repaired feasible必要下界：99.305091%；Exact：99.626972%；1254/1400达到该下界。
+
+实现与适用边界：
+1. x[j,c]为7类合法诊断、8个(B,Dpair,R)组合的非负整数计数，x>=seen且每列总和固定为seen+unresolved。
+   同一组合内记录的系数完全相同，任一整数计数都能分配给未查询的个体，故聚合不缩小补全空间。
+   group只限制哪些记录一起揭示，不要求同组记录诊断相同。Excluded不是可选的未知诊断。
+2. 可行补全采用全部margin同时成立的整数epigraph模型；将deficit/max变量取最小精确值只会改善各margin，故存在性等价。
+3. 不可行补全逐margin搜索；ceil由0 <= d*y-num <= d-1精确表示，max使用有界binary disjunction，整数负margin写为<=-1。
+4. 求解器仅status=2视为UNSAT，status=0的可行解还需逐项整数重验；time/node limit、错误或未知均为UNRESOLVED。
+   本次单个MILP时限10s，gap=0；binary offline search遇未知会中止而不声称最早性。在线模式遇未知继续检索。
+5. 停止点采用离线二分查找并验证 stop-1 的双补全证据；离线缓存/二分耗时不作为部署时间。
+6. 只覆盖Figure 4的at-most-cap/free-quota，不自动推广到固定非零quota或exact-volume扩展；也不声称全局最优查询顺序。
+7. 配置共享病例、模型和校准，不是独立临床样本；未对order variation做显著性/临床收益推断。
+
+运行环境：Python 3.13.14，NumPy 2.5.1，SciPy 1.18.0，HiGHS 1.12.0；CPU：Intel(R) Core(TM) Ultra 9 185H。
+一个Python进程，方法依次执行；HiGHS线程数沿用默认值，未强制限制为单线程。
+SciPy状态定义：https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.milp.html
+复现顺序：prepare.py → validate.py → run_experiment.py pilot → run_experiment.py full →
+          audit_boundaries.py → run_experiment.py online --orders 10 → summarize.py
+prepare.py需要工作区原归档；其余脚本使用本目录已封存inputs。
+详情：summary.csv、configuration_summary.csv、full_results.csv、online_results.csv、offline/*_boundary_witnesses.json。

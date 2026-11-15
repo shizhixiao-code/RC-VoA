@@ -1,0 +1,169 @@
+{
+  "suite": "standard",
+  "started_utc": "20261115T105336Z_2b5179",
+  "status": "PASS",
+  "release_files_verified": 1664,
+  "python": "3.13.14",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "steps": [
+    {
+      "cwd": "core",
+      "command": [
+        "reproduce.py",
+        "--example"
+      ],
+      "exit_code": 0,
+      "seconds": 1.255,
+      "log": "logs\\01_reproduce.txt"
+    },
+    {
+      "cwd": "core",
+      "command": [
+        "replay_verification.py"
+      ],
+      "exit_code": 0,
+      "seconds": 1.14,
+      "log": "logs\\02_replay_verification.txt"
+    },
+    {
+      "cwd": "source_data",
+      "command": [
+        "check_source_data.py"
+      ],
+      "exit_code": 0,
+      "seconds": 2.769,
+      "log": "logs\\03_check_source_data.txt"
+    },
+    {
+      "cwd": "core\\label_sensitivity",
+      "command": [
+        "check_table.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.158,
+      "log": "logs\\04_check_table.txt"
+    },
+    {
+      "cwd": "core\\threshold_transport",
+      "command": [
+        "check_transport_data.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.381,
+      "log": "logs\\05_check_transport_data.txt"
+    },
+    {
+      "cwd": "release/scripts",
+      "command": [
+        "summarize_endpoints.py",
+        "--data-dir",
+        "<REPOSITORY>\\endpoint_sensitivity",
+        "--output-dir",
+        "<RUN_DIR>\\endpoint_tables"
+      ],
+      "exit_code": 0,
+      "seconds": 0.147,
+      "log": "logs\\06_summarize_endpoints.txt"
+    },
+    {
+      "cwd": "core",
+      "command": [
+        "reproduce.py",
+        "--all",
+        "--check"
+      ],
+      "exit_code": 0,
+      "seconds": 8.093,
+      "log": "logs\\07_reproduce.txt"
+    },
+    {
+      "cwd": "core\\target_sensitivity",
+      "command": [
+        "analyze_targets.py"
+      ],
+      "exit_code": 0,
+      "seconds": 4.402,
+      "log": "logs\\08_analyze_targets.txt"
+    },
+    {
+      "cwd": "core",
+      "command": [
+        "check_target_data.py"
+      ],
+      "exit_code": 0,
+      "seconds": 0.15,
+      "log": "logs\\09_check_target_data.txt"
+    },
+    {
+      "cwd": "quota",
+      "command": [
+        "run.py",
+        "--replay"
+      ],
+      "exit_code": 0,
+      "seconds": 9.33,
+      "log": "logs\\10_run.txt"
+    },
+    {
+      "cwd": "quota",
+      "command": [
+        "check_prefix.py"
+      ],
+      "exit_code": 0,
+      "seconds": 5.462,
+      "log": "logs\\11_check_prefix.txt"
+    },
+    {
+      "cwd": "endpoint_sensitivity\\code",
+      "command": [
+        "run_analysis.py"
+      ],
+      "exit_code": 0,
+      "seconds": 6.951,
+      "log": "logs\\12_run_analysis.txt"
+    },
+    {
+      "cwd": "endpoint_sensitivity\\code",
+      "command": [
+        "check_changed_case.py"
+      ],
+      "exit_code": 0,
+      "seconds": 1.061,
+      "log": "logs\\13_check_changed_case.txt"
+    },
+    {
+      "cwd": "release/scripts",
+      "command": [
+        "summarize_endpoints.py",
+        "--data-dir",
+        "<RUN_DIR>\\endpoint_sensitivity",
+        "--output-dir",
+        "<RUN_DIR>\\endpoint_tables"
+      ],
+      "exit_code": 0,
+      "seconds": 0.16,
+      "log": "logs\\14_summarize_endpoints.txt"
+    },
+    {
+      "cwd": "core\\exact_completion",
+      "command": [
+        "validate.py"
+      ],
+      "exit_code": 0,
+      "seconds": 19.838,
+      "log": "logs\\15_validate.txt"
+    },
+    {
+      "cwd": "core\\exact_completion",
+      "command": [
+        "audit_boundaries_portable.py"
+      ],
+      "exit_code": 0,
+      "seconds": 27.955,
+      "log": "logs\\16_audit_boundaries_portable.txt"
+    }
+  ],
+  "numpy": "2.5.1",
+  "pandas": "3.0.5",
+  "scipy": "1.18.0"
+}

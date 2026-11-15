@@ -1,0 +1,73 @@
+backbone,score,point,threshold,stratum,rate,n,required,individual_cut,calibration_status,detected,binding
+efficientnet_b0,p1,S,0.16565392579903732,All cancer,90,3449,3105,0.5614313974981484,nonzero_miss_allowance,3427,False
+efficientnet_b0,p1,S,0.16565392579903732,MEL,95,441,419,0.16565392579903732,nonzero_miss_allowance,419,True
+efficientnet_b0,p1,S,0.16565392579903732,SCCKA,95,311,296,0.6265292104658491,nonzero_miss_allowance,311,False
+efficientnet_b0,p1,S,0.16565392579903732,BCC,90,2509,2259,0.7160209291521904,nonzero_miss_allowance,2509,False
+efficientnet_b0,p1,S,0.16565392579903732,AKIEC,90,179,162,0.6611374118047246,nonzero_miss_allowance,179,False
+efficientnet_b0,p1,P,0.5614313974981484,All cancer,90,3449,3105,0.5614313974981484,nonzero_miss_allowance,3105,True
+efficientnet_b0,p12_L1,S,0.20306183776115044,All cancer,90,3449,3105,0.6012735773908922,nonzero_miss_allowance,3427,False
+efficientnet_b0,p12_L1,S,0.20306183776115044,MEL,95,441,419,0.20306183776115044,nonzero_miss_allowance,419,True
+efficientnet_b0,p12_L1,S,0.20306183776115044,SCCKA,95,311,296,0.5971755331217472,nonzero_miss_allowance,311,False
+efficientnet_b0,p12_L1,S,0.20306183776115044,BCC,90,2509,2259,0.7427533638240913,nonzero_miss_allowance,2509,False
+efficientnet_b0,p12_L1,S,0.20306183776115044,AKIEC,90,179,162,0.6192946179185596,nonzero_miss_allowance,179,False
+efficientnet_b0,p12_L1,P,0.6012735773908922,All cancer,90,3449,3105,0.6012735773908922,nonzero_miss_allowance,3105,True
+efficientnet_b0,p12_L2,S,0.15922159698193888,All cancer,90,3449,3105,0.5701116141999618,nonzero_miss_allowance,3426,False
+efficientnet_b0,p12_L2,S,0.15922159698193888,MEL,95,441,419,0.15922159698193888,nonzero_miss_allowance,419,True
+efficientnet_b0,p12_L2,S,0.15922159698193888,SCCKA,95,311,296,0.565420388953088,nonzero_miss_allowance,311,False
+efficientnet_b0,p12_L2,S,0.15922159698193888,BCC,90,2509,2259,0.7479798448193199,nonzero_miss_allowance,2508,False
+efficientnet_b0,p12_L2,S,0.15922159698193888,AKIEC,90,179,162,0.6247836411045318,nonzero_miss_allowance,179,False
+efficientnet_b0,p12_L2,P,0.5701116141999618,All cancer,90,3449,3105,0.5701116141999618,nonzero_miss_allowance,3105,True
+efficientnet_b0,p12_L3,S,0.15871885630830898,All cancer,90,3449,3105,0.5933946986712441,nonzero_miss_allowance,3427,False
+efficientnet_b0,p12_L3,S,0.15871885630830898,MEL,95,441,419,0.15871885630830898,nonzero_miss_allowance,419,True
+efficientnet_b0,p12_L3,S,0.15871885630830898,SCCKA,95,311,296,0.5717416339657957,nonzero_miss_allowance,311,False
+efficientnet_b0,p12_L3,S,0.15871885630830898,BCC,90,2509,2259,0.7487727453191076,nonzero_miss_allowance,2509,False
+efficientnet_b0,p12_L3,S,0.15871885630830898,AKIEC,90,179,162,0.6203724545325491,nonzero_miss_allowance,179,False
+efficientnet_b0,p12_L3,P,0.5933946986712441,All cancer,90,3449,3105,0.5933946986712441,nonzero_miss_allowance,3105,True
+convnext_tiny,p1,S,0.15149825904549002,All cancer,90,3449,3105,0.5854848250137082,nonzero_miss_allowance,3426,False
+convnext_tiny,p1,S,0.15149825904549002,MEL,95,441,419,0.15149825904549002,nonzero_miss_allowance,419,True
+convnext_tiny,p1,S,0.15149825904549002,SCCKA,95,311,296,0.5631941312051848,nonzero_miss_allowance,311,False
+convnext_tiny,p1,S,0.15149825904549002,BCC,90,2509,2259,0.761269326996818,nonzero_miss_allowance,2508,False
+convnext_tiny,p1,S,0.15149825904549002,AKIEC,90,179,162,0.6668451206301063,nonzero_miss_allowance,179,False
+convnext_tiny,p1,P,0.5854848250137082,All cancer,90,3449,3105,0.5854848250137082,nonzero_miss_allowance,3105,True
+convnext_tiny,p12_L1,S,0.16556146601670765,All cancer,90,3449,3105,0.6106849022525009,nonzero_miss_allowance,3427,False
+convnext_tiny,p12_L1,S,0.16556146601670765,MEL,95,441,419,0.16556146601670765,nonzero_miss_allowance,419,True
+convnext_tiny,p12_L1,S,0.16556146601670765,SCCKA,95,311,296,0.5781509520934421,nonzero_miss_allowance,311,False
+convnext_tiny,p12_L1,S,0.16556146601670765,BCC,90,2509,2259,0.7859359736259788,nonzero_miss_allowance,2509,False
+convnext_tiny,p12_L1,S,0.16556146601670765,AKIEC,90,179,162,0.601433637322845,nonzero_miss_allowance,179,False
+convnext_tiny,p12_L1,P,0.6106849022525009,All cancer,90,3449,3105,0.6106849022525009,nonzero_miss_allowance,3105,True
+convnext_tiny,p12_L2,S,0.12969042110357823,All cancer,90,3449,3105,0.6064198451207768,nonzero_miss_allowance,3427,False
+convnext_tiny,p12_L2,S,0.12969042110357823,MEL,95,441,419,0.12969042110357823,nonzero_miss_allowance,419,True
+convnext_tiny,p12_L2,S,0.12969042110357823,SCCKA,95,311,296,0.5872240063113371,nonzero_miss_allowance,311,False
+convnext_tiny,p12_L2,S,0.12969042110357823,BCC,90,2509,2259,0.8052398224560097,nonzero_miss_allowance,2509,False
+convnext_tiny,p12_L2,S,0.12969042110357823,AKIEC,90,179,162,0.6195326785183733,nonzero_miss_allowance,179,False
+convnext_tiny,p12_L2,P,0.6064198451207768,All cancer,90,3449,3105,0.6064198451207768,nonzero_miss_allowance,3105,True
+convnext_tiny,p12_L3,S,0.1315222827619573,All cancer,90,3449,3105,0.5981003279256971,nonzero_miss_allowance,3426,False
+convnext_tiny,p12_L3,S,0.1315222827619573,MEL,95,441,419,0.1315222827619573,nonzero_miss_allowance,419,True
+convnext_tiny,p12_L3,S,0.1315222827619573,SCCKA,95,311,296,0.5779066779846709,nonzero_miss_allowance,311,False
+convnext_tiny,p12_L3,S,0.1315222827619573,BCC,90,2509,2259,0.7973957138133291,nonzero_miss_allowance,2508,False
+convnext_tiny,p12_L3,S,0.1315222827619573,AKIEC,90,179,162,0.6002511939813181,nonzero_miss_allowance,179,False
+convnext_tiny,p12_L3,P,0.5981003279256971,All cancer,90,3449,3105,0.5981003279256971,nonzero_miss_allowance,3105,True
+deit3_base_patch16_224,p1,S,0.1386280611559666,All cancer,90,3449,3105,0.5877883458487704,nonzero_miss_allowance,3426,False
+deit3_base_patch16_224,p1,S,0.1386280611559666,MEL,95,441,419,0.1386280611559666,nonzero_miss_allowance,419,True
+deit3_base_patch16_224,p1,S,0.1386280611559666,SCCKA,95,311,296,0.6427372245306414,nonzero_miss_allowance,311,False
+deit3_base_patch16_224,p1,S,0.1386280611559666,BCC,90,2509,2259,0.7709039572658276,nonzero_miss_allowance,2508,False
+deit3_base_patch16_224,p1,S,0.1386280611559666,AKIEC,90,179,162,0.7162005431768792,nonzero_miss_allowance,179,False
+deit3_base_patch16_224,p1,P,0.5877883458487704,All cancer,90,3449,3105,0.5877883458487704,nonzero_miss_allowance,3105,True
+deit3_base_patch16_224,p12_L1,S,0.17083567140009168,All cancer,90,3449,3105,0.5991877472128349,nonzero_miss_allowance,3427,False
+deit3_base_patch16_224,p12_L1,S,0.17083567140009168,MEL,95,441,419,0.17083567140009168,nonzero_miss_allowance,419,True
+deit3_base_patch16_224,p12_L1,S,0.17083567140009168,SCCKA,95,311,296,0.5795695163647521,nonzero_miss_allowance,311,False
+deit3_base_patch16_224,p12_L1,S,0.17083567140009168,BCC,90,2509,2259,0.7910803209126038,nonzero_miss_allowance,2509,False
+deit3_base_patch16_224,p12_L1,S,0.17083567140009168,AKIEC,90,179,162,0.6281954297207695,nonzero_miss_allowance,179,False
+deit3_base_patch16_224,p12_L1,P,0.5991877472128349,All cancer,90,3449,3105,0.5991877472128349,nonzero_miss_allowance,3105,True
+deit3_base_patch16_224,p12_L2,S,0.1260619292817161,All cancer,90,3449,3105,0.597998080052476,nonzero_miss_allowance,3426,False
+deit3_base_patch16_224,p12_L2,S,0.1260619292817161,MEL,95,441,419,0.1260619292817161,nonzero_miss_allowance,419,True
+deit3_base_patch16_224,p12_L2,S,0.1260619292817161,SCCKA,95,311,296,0.6044294224112882,nonzero_miss_allowance,311,False
+deit3_base_patch16_224,p12_L2,S,0.1260619292817161,BCC,90,2509,2259,0.8063032961459541,nonzero_miss_allowance,2508,False
+deit3_base_patch16_224,p12_L2,S,0.1260619292817161,AKIEC,90,179,162,0.614636969023623,nonzero_miss_allowance,179,False
+deit3_base_patch16_224,p12_L2,P,0.597998080052476,All cancer,90,3449,3105,0.597998080052476,nonzero_miss_allowance,3105,True
+deit3_base_patch16_224,p12_L3,S,0.11228056910996408,All cancer,90,3449,3105,0.5880187890064905,nonzero_miss_allowance,3426,False
+deit3_base_patch16_224,p12_L3,S,0.11228056910996408,MEL,95,441,419,0.11228056910996408,nonzero_miss_allowance,419,True
+deit3_base_patch16_224,p12_L3,S,0.11228056910996408,SCCKA,95,311,296,0.47772431739673216,nonzero_miss_allowance,311,False
+deit3_base_patch16_224,p12_L3,S,0.11228056910996408,BCC,90,2509,2259,0.8014276375474464,nonzero_miss_allowance,2509,False
+deit3_base_patch16_224,p12_L3,S,0.11228056910996408,AKIEC,90,179,162,0.5695692104626671,nonzero_miss_allowance,178,False
+deit3_base_patch16_224,p12_L3,P,0.5880187890064905,All cancer,90,3449,3105,0.5880187890064905,nonzero_miss_allowance,3105,True

@@ -1,0 +1,52 @@
+cohort,provider_diagnosis,reference_endpoint,reference_subtype,records,AK_alternative_affected,complete_case_removed
+MRA,benign-dermatofibroma,0,Noncancer,15,False,False
+MRA,benign-fibrous papule,0,Noncancer,5,False,False
+MRA,benign-hemangioma,0,Noncancer,9,False,False
+MRA,benign-melanocytic nevus,0,Noncancer,177,False,False
+MRA,benign-other,0,Noncancer,128,False,False
+MRA,benign-seborrheic keratosis,0,Noncancer,77,False,False
+MRA,malignant- ak,-1,Endpoint-excluded,51,True,True
+MRA,malignant- bcc,1,BCC,186,False,False
+MRA,malignant- melanoma,1,Melanoma,70,False,False
+MRA,malignant- other,1,Provider-designated other malignancy,4,False,False
+MRA,malignant- scc,1,Invasive SCC,64,False,False
+MRA,malignant- sccis,1,SCCIS,55,False,False
+MRA,"melanocytic tumor, possible re-excision (severe, spitz, aimp)",-1,Endpoint-excluded,2,False,True
+MRA,"other- melanocytic lesion, possible re-excision (severe, spitz, aimp)",-1,Endpoint-excluded,35,False,True
+MRA,"other- non-neoplastic, inflammatory, infectious",0,Noncancer,13,False,False
+HIBA,actinic keratosis,-1,Endpoint-excluded,15,True,True
+HIBA,basal cell carcinoma,1,BCC,101,False,False
+HIBA,dermatofibroma,0,Noncancer,20,False,False
+HIBA,lichenoid keratosis,0,Noncancer,1,False,False
+HIBA,melanoma,1,Melanoma,48,False,False
+HIBA,nevus,0,Noncancer,44,False,False
+HIBA,seborrheic keratosis,0,Noncancer,19,False,False
+HIBA,solar lentigo,0,Noncancer,3,False,False
+HIBA,squamous cell carcinoma,1,SCC NOS,40,False,False
+HIBA,vascular lesion,0,Noncancer,7,False,False
+UQ,Other,-1,Endpoint-excluded,1,False,True
+UQ,actinic keratosis,-1,Endpoint-excluded,16,True,True
+UQ,angioma,0,Noncancer,1,False,False
+UQ,atypical melanocytic proliferation,-1,Endpoint-excluded,64,False,True
+UQ,basal cell carcinoma,1,BCC,47,False,False
+UQ,benign,0,Noncancer,7476,False,False
+UQ,dermatofibroma,0,Noncancer,4,False,False
+UQ,lentigo NOS,0,Noncancer,1,False,False
+UQ,lichenoid keratosis,0,Noncancer,6,False,False
+UQ,melanoma,1,Melanoma,16,False,False
+UQ,nevus,0,Noncancer,50,False,False
+UQ,pigmented benign keratosis,0,Noncancer,2,False,False
+UQ,scar,0,Noncancer,4,False,False
+UQ,seborrheic keratosis,0,Noncancer,28,False,False
+UQ,solar lentigo,0,Noncancer,8,False,False
+UQ,squamous cell carcinoma,1,SCC NOS,32,False,False
+MCR-SL,AK,-1,Endpoint-excluded,10,True,True
+MCR-SL,ANG,0,Noncancer,4,False,False
+MCR-SL,ATY,0,Noncancer,8,False,False
+MCR-SL,BCC,1,BCC,29,False,False
+MCR-SL,DF,0,Noncancer,2,False,False
+MCR-SL,MEL,1,Melanoma,8,False,False
+MCR-SL,NEV,0,Noncancer,80,False,False
+MCR-SL,SCC,1,SCC NOS,4,False,False
+MCR-SL,SK,0,Noncancer,73,False,False
+MCR-SL,UNK,-1,Endpoint-excluded,5,False,True

@@ -1,0 +1,4486 @@
+[
+  {
+    "table_id": "MRA_efficientnet_b0_L1",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 42,
+    "r": 90,
+    "C_minus": 0,
+    "B_plus": 248,
+    "minimum_images": 90,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      206,
+      194,
+      88
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L2",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 42,
+    "r": 90,
+    "C_minus": 0,
+    "B_plus": 228,
+    "minimum_images": 90,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      186,
+      171,
+      88
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L3",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 42,
+    "r": 90,
+    "C_minus": 0,
+    "B_plus": 250,
+    "minimum_images": 90,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      208,
+      196,
+      88
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L1",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 43,
+    "r": 90,
+    "C_minus": 0,
+    "B_plus": 198,
+    "minimum_images": 90,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      155,
+      134,
+      88
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L2",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 43,
+    "r": 90,
+    "C_minus": 0,
+    "B_plus": 186,
+    "minimum_images": 90,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      143,
+      120,
+      88
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L3",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 43,
+    "r": 90,
+    "C_minus": 0,
+    "B_plus": 204,
+    "minimum_images": 90,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      161,
+      141,
+      88
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L1",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 42,
+    "r": 90,
+    "C_minus": 0,
+    "B_plus": 220,
+    "minimum_images": 90,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      178,
+      160,
+      88
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L2",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 42,
+    "r": 90,
+    "C_minus": 0,
+    "B_plus": 217,
+    "minimum_images": 90,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      175,
+      157,
+      88
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L3",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 42,
+    "r": 90,
+    "C_minus": 0,
+    "B_plus": 219,
+    "minimum_images": 90,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      177,
+      160,
+      88
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L1",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 9,
+    "r": 30,
+    "C_minus": 0,
+    "B_plus": 66,
+    "minimum_images": 30,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      57,
+      44,
+      29
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L2",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 9,
+    "r": 30,
+    "C_minus": 0,
+    "B_plus": 63,
+    "minimum_images": 30,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      54,
+      40,
+      29
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L3",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 9,
+    "r": 30,
+    "C_minus": 0,
+    "B_plus": 65,
+    "minimum_images": 30,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      56,
+      43,
+      29
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L1",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 9,
+    "r": 30,
+    "C_minus": 0,
+    "B_plus": 63,
+    "minimum_images": 30,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      54,
+      35,
+      29
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L2",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 9,
+    "r": 30,
+    "C_minus": 0,
+    "B_plus": 64,
+    "minimum_images": 30,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      55,
+      35,
+      29
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L3",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 9,
+    "r": 30,
+    "C_minus": 0,
+    "B_plus": 63,
+    "minimum_images": 30,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      54,
+      35,
+      29
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L1",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 9,
+    "r": 30,
+    "C_minus": 0,
+    "B_plus": 68,
+    "minimum_images": 30,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      59,
+      40,
+      29
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L2",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 9,
+    "r": 30,
+    "C_minus": 0,
+    "B_plus": 66,
+    "minimum_images": 30,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      57,
+      37,
+      29
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L3",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 9,
+    "r": 30,
+    "C_minus": 0,
+    "B_plus": 68,
+    "minimum_images": 30,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      59,
+      41,
+      29
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L1",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 758,
+    "r": 776,
+    "C_minus": 0,
+    "B_plus": 6045,
+    "minimum_images": 776,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      5287,
+      5327,
+      775
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L2",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 758,
+    "r": 776,
+    "C_minus": 0,
+    "B_plus": 3885,
+    "minimum_images": 776,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      3127,
+      3151,
+      775
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L3",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 758,
+    "r": 776,
+    "C_minus": 0,
+    "B_plus": 6109,
+    "minimum_images": 776,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      5351,
+      5390,
+      775
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L1",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 756,
+    "r": 776,
+    "C_minus": 0,
+    "B_plus": 6830,
+    "minimum_images": 776,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      6074,
+      6123,
+      775
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L2",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 756,
+    "r": 776,
+    "C_minus": 0,
+    "B_plus": 6778,
+    "minimum_images": 776,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      6022,
+      6069,
+      775
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L3",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 756,
+    "r": 776,
+    "C_minus": 0,
+    "B_plus": 6883,
+    "minimum_images": 776,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      6127,
+      6176,
+      775
+    ]
+  },
+  {
+    "table_id": "UQ_deit3_base_patch16_224_L1",
+    "family": "source_SP",
+    "t_star": 1,
+    "m": 716,
+    "r": 777,
+    "C_minus": 0,
+    "B_plus": 6178,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      -1,
+      -1,
+      5462,
+      5459,
+      773
+    ]
+  },
+  {
+    "table_id": "UQ_deit3_base_patch16_224_L2",
+    "family": "source_SP",
+    "t_star": 1,
+    "m": 716,
+    "r": 777,
+    "C_minus": 0,
+    "B_plus": 6063,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      -1,
+      -1,
+      5347,
+      5346,
+      773
+    ]
+  },
+  {
+    "table_id": "UQ_deit3_base_patch16_224_L3",
+    "family": "source_SP",
+    "t_star": 1,
+    "m": 716,
+    "r": 777,
+    "C_minus": 0,
+    "B_plus": 6253,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      -1,
+      -1,
+      5537,
+      5537,
+      773
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L1",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 16,
+    "r": 23,
+    "C_minus": 0,
+    "B_plus": 142,
+    "minimum_images": 23,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      126,
+      130,
+      21
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L2",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 16,
+    "r": 23,
+    "C_minus": 0,
+    "B_plus": 133,
+    "minimum_images": 23,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      117,
+      119,
+      21
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L3",
+    "family": "source_SP",
+    "t_star": 0,
+    "m": 16,
+    "r": 23,
+    "C_minus": 0,
+    "B_plus": 142,
+    "minimum_images": 23,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      126,
+      130,
+      21
+    ]
+  },
+  {
+    "table_id": "MCR-SL_convnext_tiny_L1",
+    "family": "source_SP",
+    "t_star": 2,
+    "m": 14,
+    "r": 25,
+    "C_minus": 0,
+    "B_plus": 127,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      -2,
+      -2,
+      113,
+      111,
+      17
+    ]
+  },
+  {
+    "table_id": "MCR-SL_convnext_tiny_L2",
+    "family": "source_SP",
+    "t_star": 2,
+    "m": 14,
+    "r": 25,
+    "C_minus": 0,
+    "B_plus": 125,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      -2,
+      -2,
+      111,
+      109,
+      17
+    ]
+  },
+  {
+    "table_id": "MCR-SL_convnext_tiny_L3",
+    "family": "source_SP",
+    "t_star": 2,
+    "m": 14,
+    "r": 25,
+    "C_minus": 0,
+    "B_plus": 127,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      -2,
+      -2,
+      113,
+      111,
+      17
+    ]
+  },
+  {
+    "table_id": "MCR-SL_deit3_base_patch16_224_L1",
+    "family": "source_SP",
+    "t_star": 1,
+    "m": 13,
+    "r": 24,
+    "C_minus": 0,
+    "B_plus": 119,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      -1,
+      -1,
+      106,
+      104,
+      19
+    ]
+  },
+  {
+    "table_id": "MCR-SL_deit3_base_patch16_224_L2",
+    "family": "source_SP",
+    "t_star": 1,
+    "m": 13,
+    "r": 24,
+    "C_minus": 0,
+    "B_plus": 119,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      -1,
+      -1,
+      106,
+      104,
+      19
+    ]
+  },
+  {
+    "table_id": "MCR-SL_deit3_base_patch16_224_L3",
+    "family": "source_SP",
+    "t_star": 1,
+    "m": 13,
+    "r": 24,
+    "C_minus": 0,
+    "B_plus": 120,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      -1,
+      -1,
+      107,
+      105,
+      19
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b1_frozen30",
+    "family": "primary",
+    "t_star": 38,
+    "m": 2,
+    "r": 56,
+    "C_minus": 5,
+    "B_plus": 1,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -33,
+      -12,
+      -33,
+      -1,
+      -55,
+      -59
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b2_frozen30",
+    "family": "primary",
+    "t_star": 52,
+    "m": 2,
+    "r": 70,
+    "C_minus": 3,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -49,
+      -20,
+      -49,
+      4,
+      -63,
+      -87
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b3_frozen30",
+    "family": "primary",
+    "t_star": 38,
+    "m": 2,
+    "r": 56,
+    "C_minus": 10,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -28,
+      -13,
+      -28,
+      4,
+      -48,
+      -58
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b4_frozen30",
+    "family": "primary",
+    "t_star": 40,
+    "m": 2,
+    "r": 58,
+    "C_minus": 4,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -36,
+      -12,
+      -36,
+      5,
+      -51,
+      -63
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b5_frozen30",
+    "family": "primary",
+    "t_star": 49,
+    "m": 2,
+    "r": 67,
+    "C_minus": 5,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -44,
+      -20,
+      -44,
+      1,
+      -64,
+      -81
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b1_frozen50",
+    "family": "primary",
+    "t_star": 23,
+    "m": 3,
+    "r": 41,
+    "C_minus": 5,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -18,
+      -5,
+      -18,
+      3,
+      -35,
+      -29
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b2_frozen50",
+    "family": "primary",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 10,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -22,
+      -9,
+      -22,
+      3,
+      -43,
+      -47
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b3_frozen50",
+    "family": "primary",
+    "t_star": 20,
+    "m": 4,
+    "r": 38,
+    "C_minus": 2,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -18,
+      -7,
+      -18,
+      5,
+      -29,
+      -22
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b4_frozen50",
+    "family": "primary",
+    "t_star": 24,
+    "m": 4,
+    "r": 42,
+    "C_minus": 4,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -20,
+      -7,
+      -20,
+      4,
+      -32,
+      -31
+    ]
+  },
+  {
+    "table_id": "MRA_headonly_b5_frozen50",
+    "family": "primary",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 14,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -18,
+      -6,
+      -18,
+      5,
+      -42,
+      -47
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b1_frozen30",
+    "family": "primary",
+    "t_star": 38,
+    "m": 2,
+    "r": 56,
+    "C_minus": 6,
+    "B_plus": 1,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -32,
+      -11,
+      -32,
+      -1,
+      -55,
+      -59
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b2_frozen30",
+    "family": "primary",
+    "t_star": 52,
+    "m": 2,
+    "r": 70,
+    "C_minus": 4,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -48,
+      -20,
+      -48,
+      4,
+      -63,
+      -87
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b3_frozen30",
+    "family": "primary",
+    "t_star": 38,
+    "m": 2,
+    "r": 56,
+    "C_minus": 9,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -29,
+      -14,
+      -29,
+      4,
+      -48,
+      -58
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b4_frozen30",
+    "family": "primary",
+    "t_star": 40,
+    "m": 2,
+    "r": 58,
+    "C_minus": 4,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -36,
+      -12,
+      -36,
+      5,
+      -51,
+      -63
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b5_frozen30",
+    "family": "primary",
+    "t_star": 49,
+    "m": 2,
+    "r": 67,
+    "C_minus": 5,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -44,
+      -20,
+      -44,
+      1,
+      -64,
+      -81
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b1_frozen50",
+    "family": "primary",
+    "t_star": 23,
+    "m": 3,
+    "r": 41,
+    "C_minus": 5,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -18,
+      -5,
+      -18,
+      3,
+      -34,
+      -29
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b2_frozen50",
+    "family": "primary",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 10,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -22,
+      -9,
+      -22,
+      4,
+      -42,
+      -47
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b3_frozen50",
+    "family": "primary",
+    "t_star": 20,
+    "m": 4,
+    "r": 38,
+    "C_minus": 2,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -18,
+      -7,
+      -18,
+      5,
+      -29,
+      -22
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b4_frozen50",
+    "family": "primary",
+    "t_star": 24,
+    "m": 4,
+    "r": 42,
+    "C_minus": 4,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -20,
+      -7,
+      -20,
+      3,
+      -33,
+      -31
+    ]
+  },
+  {
+    "table_id": "MRA_laststage_b5_frozen50",
+    "family": "primary",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 15,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -17,
+      -6,
+      -17,
+      5,
+      -42,
+      -47
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b1_frozen30",
+    "family": "primary",
+    "t_star": 41,
+    "m": 2,
+    "r": 59,
+    "C_minus": 13,
+    "B_plus": 5,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -28,
+      -10,
+      -28,
+      3,
+      -52,
+      -65
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b2_frozen30",
+    "family": "primary",
+    "t_star": 53,
+    "m": 2,
+    "r": 71,
+    "C_minus": 12,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -41,
+      -15,
+      -41,
+      1,
+      -68,
+      -89
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b3_frozen30",
+    "family": "primary",
+    "t_star": 34,
+    "m": 2,
+    "r": 52,
+    "C_minus": 6,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -28,
+      -10,
+      -28,
+      4,
+      -44,
+      -50
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b4_frozen30",
+    "family": "primary",
+    "t_star": 37,
+    "m": 2,
+    "r": 55,
+    "C_minus": 1,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -36,
+      -14,
+      -36,
+      7,
+      -45,
+      -57
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b5_frozen30",
+    "family": "primary",
+    "t_star": 47,
+    "m": 2,
+    "r": 65,
+    "C_minus": 6,
+    "B_plus": 5,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -41,
+      -20,
+      -41,
+      3,
+      -59,
+      -77
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b1_frozen50",
+    "family": "primary",
+    "t_star": 25,
+    "m": 4,
+    "r": 43,
+    "C_minus": 10,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -15,
+      -4,
+      -15,
+      5,
+      -34,
+      -33
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b2_frozen50",
+    "family": "primary",
+    "t_star": 31,
+    "m": 3,
+    "r": 49,
+    "C_minus": 10,
+    "B_plus": 5,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -21,
+      -7,
+      -21,
+      2,
+      -43,
+      -45
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b3_frozen50",
+    "family": "primary",
+    "t_star": 20,
+    "m": 4,
+    "r": 38,
+    "C_minus": 5,
+    "B_plus": 15,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -15,
+      -7,
+      -15,
+      11,
+      -22,
+      -22
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b4_frozen50",
+    "family": "primary",
+    "t_star": 23,
+    "m": 4,
+    "r": 41,
+    "C_minus": 2,
+    "B_plus": 11,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -21,
+      -7,
+      -21,
+      7,
+      -29,
+      -29
+    ]
+  },
+  {
+    "table_id": "MRA_multiscale_b5_frozen50",
+    "family": "primary",
+    "t_star": 24,
+    "m": 3,
+    "r": 42,
+    "C_minus": 7,
+    "B_plus": 2,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -17,
+      -6,
+      -17,
+      -1,
+      -40,
+      -31
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b1_frozen30",
+    "family": "primary",
+    "t_star": 43,
+    "m": 2,
+    "r": 61,
+    "C_minus": 12,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -31,
+      -12,
+      -31,
+      4,
+      -55,
+      -69
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b2_frozen30",
+    "family": "primary",
+    "t_star": 51,
+    "m": 1,
+    "r": 69,
+    "C_minus": 6,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -45,
+      -20,
+      -45,
+      2,
+      -65,
+      -85
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b3_frozen30",
+    "family": "primary",
+    "t_star": 37,
+    "m": 2,
+    "r": 55,
+    "C_minus": 9,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -28,
+      -14,
+      -28,
+      4,
+      -48,
+      -56
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b4_frozen30",
+    "family": "primary",
+    "t_star": 35,
+    "m": 2,
+    "r": 53,
+    "C_minus": 1,
+    "B_plus": 10,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -34,
+      -11,
+      -34,
+      8,
+      -40,
+      -53
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b5_frozen30",
+    "family": "primary",
+    "t_star": 54,
+    "m": 2,
+    "r": 72,
+    "C_minus": 7,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -47,
+      -22,
+      -47,
+      6,
+      -60,
+      -91
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b1_frozen50",
+    "family": "primary",
+    "t_star": 26,
+    "m": 4,
+    "r": 44,
+    "C_minus": 8,
+    "B_plus": 10,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -18,
+      -6,
+      -18,
+      6,
+      -34,
+      -35
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b2_frozen50",
+    "family": "primary",
+    "t_star": 33,
+    "m": 3,
+    "r": 51,
+    "C_minus": 16,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -17,
+      -6,
+      -17,
+      0,
+      -47,
+      -49
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b3_frozen50",
+    "family": "primary",
+    "t_star": 20,
+    "m": 4,
+    "r": 38,
+    "C_minus": 3,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -17,
+      -7,
+      -17,
+      5,
+      -29,
+      -22
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b4_frozen50",
+    "family": "primary",
+    "t_star": 22,
+    "m": 4,
+    "r": 40,
+    "C_minus": 7,
+    "B_plus": 12,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -15,
+      -4,
+      -15,
+      8,
+      -26,
+      -27
+    ]
+  },
+  {
+    "table_id": "MRA_localheads_b5_frozen50",
+    "family": "primary",
+    "t_star": 34,
+    "m": 4,
+    "r": 52,
+    "C_minus": 8,
+    "B_plus": 13,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -26,
+      -9,
+      -26,
+      9,
+      -38,
+      -51
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b1_frozen30",
+    "family": "primary",
+    "t_star": 39,
+    "m": 2,
+    "r": 57,
+    "C_minus": 10,
+    "B_plus": 4,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -29,
+      -11,
+      -29,
+      2,
+      -53,
+      -61
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b2_frozen30",
+    "family": "primary",
+    "t_star": 51,
+    "m": 1,
+    "r": 69,
+    "C_minus": 4,
+    "B_plus": 4,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -47,
+      -20,
+      -47,
+      3,
+      -63,
+      -85
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b3_frozen30",
+    "family": "primary",
+    "t_star": 35,
+    "m": 2,
+    "r": 53,
+    "C_minus": 5,
+    "B_plus": 4,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -30,
+      -14,
+      -30,
+      2,
+      -49,
+      -52
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b4_frozen30",
+    "family": "primary",
+    "t_star": 37,
+    "m": 2,
+    "r": 55,
+    "C_minus": 1,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -36,
+      -12,
+      -36,
+      7,
+      -45,
+      -57
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b5_frozen30",
+    "family": "primary",
+    "t_star": 54,
+    "m": 2,
+    "r": 72,
+    "C_minus": 8,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -46,
+      -22,
+      -46,
+      5,
+      -64,
+      -91
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b1_frozen50",
+    "family": "primary",
+    "t_star": 25,
+    "m": 3,
+    "r": 43,
+    "C_minus": 8,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -17,
+      -6,
+      -17,
+      3,
+      -36,
+      -33
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b2_frozen50",
+    "family": "primary",
+    "t_star": 33,
+    "m": 3,
+    "r": 51,
+    "C_minus": 13,
+    "B_plus": 4,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -20,
+      -6,
+      -20,
+      1,
+      -45,
+      -49
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b3_frozen50",
+    "family": "primary",
+    "t_star": 21,
+    "m": 4,
+    "r": 39,
+    "C_minus": 2,
+    "B_plus": 5,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -19,
+      -7,
+      -19,
+      1,
+      -34,
+      -24
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b4_frozen50",
+    "family": "primary",
+    "t_star": 21,
+    "m": 4,
+    "r": 39,
+    "C_minus": 2,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -19,
+      -7,
+      -19,
+      4,
+      -30,
+      -25
+    ]
+  },
+  {
+    "table_id": "MRA_localfeatures_b5_frozen50",
+    "family": "primary",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 9,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -23,
+      -6,
+      -23,
+      6,
+      -40,
+      -47
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b1_frozen30",
+    "family": "primary",
+    "t_star": 8,
+    "m": 45,
+    "r": 164,
+    "C_minus": 3,
+    "B_plus": 176,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -5,
+      -3,
+      -5,
+      131,
+      13,
+      138
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b2_frozen30",
+    "family": "primary",
+    "t_star": 8,
+    "m": 46,
+    "r": 165,
+    "C_minus": 5,
+    "B_plus": 121,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -3,
+      -2,
+      -3,
+      75,
+      -41,
+      139
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b3_frozen30",
+    "family": "primary",
+    "t_star": 13,
+    "m": 45,
+    "r": 169,
+    "C_minus": 8,
+    "B_plus": 143,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -5,
+      -3,
+      -5,
+      98,
+      -25,
+      129
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b4_frozen30",
+    "family": "primary",
+    "t_star": 7,
+    "m": 46,
+    "r": 161,
+    "C_minus": 4,
+    "B_plus": 141,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -3,
+      -2,
+      -3,
+      95,
+      -20,
+      139
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b5_frozen30",
+    "family": "primary",
+    "t_star": 6,
+    "m": 45,
+    "r": 161,
+    "C_minus": 2,
+    "B_plus": 157,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      112,
+      -4,
+      142
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b1_frozen50",
+    "family": "primary",
+    "t_star": 4,
+    "m": 76,
+    "r": 160,
+    "C_minus": 3,
+    "B_plus": 212,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      136,
+      55,
+      146
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b2_frozen50",
+    "family": "primary",
+    "t_star": 6,
+    "m": 76,
+    "r": 163,
+    "C_minus": 5,
+    "B_plus": 141,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      65,
+      -20,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b3_frozen50",
+    "family": "primary",
+    "t_star": 6,
+    "m": 75,
+    "r": 162,
+    "C_minus": 5,
+    "B_plus": 171,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      96,
+      10,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b4_frozen50",
+    "family": "primary",
+    "t_star": 5,
+    "m": 75,
+    "r": 159,
+    "C_minus": 4,
+    "B_plus": 144,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      69,
+      -14,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_headonly_b5_frozen50",
+    "family": "primary",
+    "t_star": 5,
+    "m": 76,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 139,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      63,
+      -20,
+      144
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b1_frozen30",
+    "family": "primary",
+    "t_star": 8,
+    "m": 45,
+    "r": 164,
+    "C_minus": 3,
+    "B_plus": 180,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -5,
+      -3,
+      -5,
+      135,
+      17,
+      138
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b2_frozen30",
+    "family": "primary",
+    "t_star": 8,
+    "m": 46,
+    "r": 165,
+    "C_minus": 5,
+    "B_plus": 126,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -3,
+      -2,
+      -3,
+      80,
+      -36,
+      139
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b3_frozen30",
+    "family": "primary",
+    "t_star": 13,
+    "m": 45,
+    "r": 169,
+    "C_minus": 8,
+    "B_plus": 147,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -5,
+      -3,
+      -5,
+      102,
+      -21,
+      129
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b4_frozen30",
+    "family": "primary",
+    "t_star": 7,
+    "m": 46,
+    "r": 161,
+    "C_minus": 4,
+    "B_plus": 138,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -3,
+      -2,
+      -3,
+      92,
+      -23,
+      139
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b5_frozen30",
+    "family": "primary",
+    "t_star": 6,
+    "m": 45,
+    "r": 161,
+    "C_minus": 2,
+    "B_plus": 152,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      107,
+      -9,
+      142
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b1_frozen50",
+    "family": "primary",
+    "t_star": 4,
+    "m": 76,
+    "r": 160,
+    "C_minus": 3,
+    "B_plus": 215,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      139,
+      58,
+      146
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b2_frozen50",
+    "family": "primary",
+    "t_star": 6,
+    "m": 76,
+    "r": 163,
+    "C_minus": 5,
+    "B_plus": 148,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      72,
+      -13,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b3_frozen50",
+    "family": "primary",
+    "t_star": 6,
+    "m": 75,
+    "r": 162,
+    "C_minus": 5,
+    "B_plus": 179,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      104,
+      18,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b4_frozen50",
+    "family": "primary",
+    "t_star": 5,
+    "m": 75,
+    "r": 159,
+    "C_minus": 4,
+    "B_plus": 149,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      74,
+      -9,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_laststage_b5_frozen50",
+    "family": "primary",
+    "t_star": 5,
+    "m": 76,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 140,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      64,
+      -19,
+      144
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b1_frozen30",
+    "family": "primary",
+    "t_star": 8,
+    "m": 45,
+    "r": 164,
+    "C_minus": 3,
+    "B_plus": 153,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -5,
+      -3,
+      -5,
+      108,
+      -11,
+      138
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b2_frozen30",
+    "family": "primary",
+    "t_star": 8,
+    "m": 46,
+    "r": 165,
+    "C_minus": 6,
+    "B_plus": 123,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -2,
+      -1,
+      -2,
+      77,
+      -41,
+      139
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b3_frozen30",
+    "family": "primary",
+    "t_star": 13,
+    "m": 45,
+    "r": 169,
+    "C_minus": 7,
+    "B_plus": 134,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -6,
+      -2,
+      -6,
+      89,
+      -34,
+      129
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b4_frozen30",
+    "family": "primary",
+    "t_star": 7,
+    "m": 46,
+    "r": 161,
+    "C_minus": 4,
+    "B_plus": 142,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -3,
+      -1,
+      -3,
+      96,
+      -19,
+      139
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b5_frozen30",
+    "family": "primary",
+    "t_star": 6,
+    "m": 45,
+    "r": 161,
+    "C_minus": 2,
+    "B_plus": 165,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      120,
+      4,
+      142
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b1_frozen50",
+    "family": "primary",
+    "t_star": 4,
+    "m": 76,
+    "r": 160,
+    "C_minus": 3,
+    "B_plus": 188,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      112,
+      30,
+      146
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b2_frozen50",
+    "family": "primary",
+    "t_star": 6,
+    "m": 76,
+    "r": 163,
+    "C_minus": 5,
+    "B_plus": 128,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      52,
+      -35,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b3_frozen50",
+    "family": "primary",
+    "t_star": 6,
+    "m": 75,
+    "r": 162,
+    "C_minus": 6,
+    "B_plus": 164,
+    "minimum_images": 168,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      89,
+      4,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b4_frozen50",
+    "family": "primary",
+    "t_star": 5,
+    "m": 75,
+    "r": 159,
+    "C_minus": 4,
+    "B_plus": 132,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      57,
+      -26,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b5_frozen50",
+    "family": "primary",
+    "t_star": 5,
+    "m": 76,
+    "r": 160,
+    "C_minus": 3,
+    "B_plus": 145,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -2,
+      -1,
+      -2,
+      69,
+      -14,
+      144
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b1_frozen30",
+    "family": "primary",
+    "t_star": 13,
+    "m": 46,
+    "r": 169,
+    "C_minus": 3,
+    "B_plus": 187,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -10,
+      -6,
+      -10,
+      141,
+      18,
+      128
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b2_frozen30",
+    "family": "primary",
+    "t_star": 6,
+    "m": 46,
+    "r": 163,
+    "C_minus": 2,
+    "B_plus": 86,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      40,
+      -77,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b3_frozen30",
+    "family": "primary",
+    "t_star": 10,
+    "m": 45,
+    "r": 166,
+    "C_minus": 6,
+    "B_plus": 114,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      69,
+      -51,
+      135
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b4_frozen30",
+    "family": "primary",
+    "t_star": 9,
+    "m": 46,
+    "r": 163,
+    "C_minus": 5,
+    "B_plus": 167,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      121,
+      5,
+      135
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b5_frozen30",
+    "family": "primary",
+    "t_star": 8,
+    "m": 45,
+    "r": 163,
+    "C_minus": 4,
+    "B_plus": 222,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      177,
+      61,
+      138
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b1_frozen50",
+    "family": "primary",
+    "t_star": 7,
+    "m": 76,
+    "r": 163,
+    "C_minus": 3,
+    "B_plus": 196,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      120,
+      35,
+      140
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b2_frozen50",
+    "family": "primary",
+    "t_star": 4,
+    "m": 76,
+    "r": 161,
+    "C_minus": 3,
+    "B_plus": 78,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      2,
+      -82,
+      147
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b3_frozen50",
+    "family": "primary",
+    "t_star": 4,
+    "m": 75,
+    "r": 160,
+    "C_minus": 1,
+    "B_plus": 158,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -3,
+      -2,
+      -3,
+      83,
+      0,
+      147
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b4_frozen50",
+    "family": "primary",
+    "t_star": 3,
+    "m": 75,
+    "r": 157,
+    "C_minus": 0,
+    "B_plus": 174,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -3,
+      -1,
+      -3,
+      99,
+      19,
+      147
+    ]
+  },
+  {
+    "table_id": "UQ_localheads_b5_frozen50",
+    "family": "primary",
+    "t_star": 4,
+    "m": 76,
+    "r": 159,
+    "C_minus": 3,
+    "B_plus": 260,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      184,
+      102,
+      146
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b1_frozen30",
+    "family": "primary",
+    "t_star": 11,
+    "m": 46,
+    "r": 167,
+    "C_minus": 2,
+    "B_plus": 212,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -9,
+      -5,
+      -9,
+      166,
+      45,
+      132
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b2_frozen30",
+    "family": "primary",
+    "t_star": 6,
+    "m": 46,
+    "r": 163,
+    "C_minus": 3,
+    "B_plus": 89,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -3,
+      -2,
+      -3,
+      43,
+      -73,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b3_frozen30",
+    "family": "primary",
+    "t_star": 7,
+    "m": 44,
+    "r": 163,
+    "C_minus": 3,
+    "B_plus": 111,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      67,
+      -51,
+      141
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b4_frozen30",
+    "family": "primary",
+    "t_star": 5,
+    "m": 45,
+    "r": 159,
+    "C_minus": 0,
+    "B_plus": 132,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -5,
+      -2,
+      -5,
+      87,
+      -26,
+      143
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b5_frozen30",
+    "family": "primary",
+    "t_star": 5,
+    "m": 45,
+    "r": 160,
+    "C_minus": 2,
+    "B_plus": 214,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -3,
+      -1,
+      -3,
+      169,
+      54,
+      144
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b1_frozen50",
+    "family": "primary",
+    "t_star": 8,
+    "m": 76,
+    "r": 164,
+    "C_minus": 4,
+    "B_plus": 199,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -4,
+      -2,
+      -4,
+      123,
+      35,
+      138
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b2_frozen50",
+    "family": "primary",
+    "t_star": 4,
+    "m": 76,
+    "r": 161,
+    "C_minus": 3,
+    "B_plus": 96,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      20,
+      -63,
+      147
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b3_frozen50",
+    "family": "primary",
+    "t_star": 5,
+    "m": 75,
+    "r": 161,
+    "C_minus": 3,
+    "B_plus": 140,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -2,
+      -2,
+      -2,
+      65,
+      -20,
+      145
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b4_frozen50",
+    "family": "primary",
+    "t_star": 4,
+    "m": 75,
+    "r": 158,
+    "C_minus": 2,
+    "B_plus": 156,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -2,
+      -1,
+      -2,
+      81,
+      0,
+      145
+    ]
+  },
+  {
+    "table_id": "UQ_localfeatures_b5_frozen50",
+    "family": "primary",
+    "t_star": 3,
+    "m": 76,
+    "r": 158,
+    "C_minus": 2,
+    "B_plus": 257,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      181,
+      100,
+      148
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b1_q30",
+    "family": "repaired",
+    "t_star": 38,
+    "m": 2,
+    "r": 56,
+    "C_minus": 37,
+    "B_plus": 1,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      -1,
+      -55,
+      -59
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b1_q50",
+    "family": "repaired",
+    "t_star": 23,
+    "m": 3,
+    "r": 41,
+    "C_minus": 22,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      3,
+      -35,
+      -29
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b2_q30",
+    "family": "repaired",
+    "t_star": 52,
+    "m": 2,
+    "r": 70,
+    "C_minus": 52,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      4,
+      -63,
+      -87
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b2_q50",
+    "family": "repaired",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 32,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      3,
+      -43,
+      -47
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b3_q30",
+    "family": "repaired",
+    "t_star": 38,
+    "m": 2,
+    "r": 56,
+    "C_minus": 38,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      4,
+      -48,
+      -58
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b3_q50",
+    "family": "repaired",
+    "t_star": 20,
+    "m": 4,
+    "r": 38,
+    "C_minus": 20,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      5,
+      -29,
+      -22
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b4_q30",
+    "family": "repaired",
+    "t_star": 40,
+    "m": 2,
+    "r": 58,
+    "C_minus": 39,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      5,
+      -51,
+      -63
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b4_q50",
+    "family": "repaired",
+    "t_star": 24,
+    "m": 4,
+    "r": 42,
+    "C_minus": 23,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      4,
+      -32,
+      -31
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b5_q30",
+    "family": "repaired",
+    "t_star": 49,
+    "m": 2,
+    "r": 67,
+    "C_minus": 49,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      1,
+      -64,
+      -81
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_headonly_b5_q50",
+    "family": "repaired",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 32,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      5,
+      -42,
+      -47
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b1_q30",
+    "family": "repaired",
+    "t_star": 38,
+    "m": 2,
+    "r": 56,
+    "C_minus": 37,
+    "B_plus": 1,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      -1,
+      -55,
+      -59
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b1_q50",
+    "family": "repaired",
+    "t_star": 23,
+    "m": 3,
+    "r": 41,
+    "C_minus": 22,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      3,
+      -34,
+      -29
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b2_q30",
+    "family": "repaired",
+    "t_star": 52,
+    "m": 2,
+    "r": 70,
+    "C_minus": 52,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      4,
+      -63,
+      -87
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b2_q50",
+    "family": "repaired",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 32,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      4,
+      -42,
+      -47
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b3_q30",
+    "family": "repaired",
+    "t_star": 38,
+    "m": 2,
+    "r": 56,
+    "C_minus": 38,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      4,
+      -48,
+      -58
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b3_q50",
+    "family": "repaired",
+    "t_star": 20,
+    "m": 4,
+    "r": 38,
+    "C_minus": 20,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      5,
+      -29,
+      -22
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b4_q30",
+    "family": "repaired",
+    "t_star": 40,
+    "m": 2,
+    "r": 58,
+    "C_minus": 39,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      5,
+      -51,
+      -63
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b4_q50",
+    "family": "repaired",
+    "t_star": 24,
+    "m": 4,
+    "r": 42,
+    "C_minus": 23,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      3,
+      -33,
+      -31
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b5_q30",
+    "family": "repaired",
+    "t_star": 49,
+    "m": 2,
+    "r": 67,
+    "C_minus": 49,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      1,
+      -64,
+      -81
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_laststage_b5_q50",
+    "family": "repaired",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 32,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      5,
+      -42,
+      -47
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b1_q30",
+    "family": "repaired",
+    "t_star": 41,
+    "m": 2,
+    "r": 59,
+    "C_minus": 41,
+    "B_plus": 5,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      3,
+      -52,
+      -65
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b1_q50",
+    "family": "repaired",
+    "t_star": 25,
+    "m": 4,
+    "r": 43,
+    "C_minus": 25,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      5,
+      -34,
+      -33
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b2_q30",
+    "family": "repaired",
+    "t_star": 53,
+    "m": 2,
+    "r": 71,
+    "C_minus": 52,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      1,
+      -68,
+      -89
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b2_q50",
+    "family": "repaired",
+    "t_star": 31,
+    "m": 3,
+    "r": 49,
+    "C_minus": 30,
+    "B_plus": 5,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      2,
+      -43,
+      -45
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b3_q30",
+    "family": "repaired",
+    "t_star": 34,
+    "m": 2,
+    "r": 52,
+    "C_minus": 34,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      4,
+      -44,
+      -50
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b3_q50",
+    "family": "repaired",
+    "t_star": 20,
+    "m": 4,
+    "r": 38,
+    "C_minus": 20,
+    "B_plus": 15,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      11,
+      -22,
+      -22
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b4_q30",
+    "family": "repaired",
+    "t_star": 37,
+    "m": 2,
+    "r": 55,
+    "C_minus": 37,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      7,
+      -45,
+      -57
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b4_q50",
+    "family": "repaired",
+    "t_star": 23,
+    "m": 4,
+    "r": 41,
+    "C_minus": 23,
+    "B_plus": 11,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      7,
+      -29,
+      -29
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b5_q30",
+    "family": "repaired",
+    "t_star": 47,
+    "m": 2,
+    "r": 65,
+    "C_minus": 45,
+    "B_plus": 5,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -2,
+      -2,
+      -2,
+      3,
+      -59,
+      -77
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_multiscale_b5_q50",
+    "family": "repaired",
+    "t_star": 24,
+    "m": 3,
+    "r": 42,
+    "C_minus": 22,
+    "B_plus": 2,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -2,
+      -2,
+      -2,
+      -1,
+      -40,
+      -31
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b1_q30",
+    "family": "repaired",
+    "t_star": 43,
+    "m": 2,
+    "r": 61,
+    "C_minus": 42,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      4,
+      -55,
+      -69
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b1_q50",
+    "family": "repaired",
+    "t_star": 26,
+    "m": 4,
+    "r": 44,
+    "C_minus": 25,
+    "B_plus": 10,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      6,
+      -34,
+      -35
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b2_q30",
+    "family": "repaired",
+    "t_star": 51,
+    "m": 1,
+    "r": 69,
+    "C_minus": 51,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      2,
+      -65,
+      -85
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b2_q50",
+    "family": "repaired",
+    "t_star": 33,
+    "m": 3,
+    "r": 51,
+    "C_minus": 33,
+    "B_plus": 3,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      0,
+      -47,
+      -49
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b3_q30",
+    "family": "repaired",
+    "t_star": 37,
+    "m": 2,
+    "r": 55,
+    "C_minus": 37,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      4,
+      -48,
+      -56
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b3_q50",
+    "family": "repaired",
+    "t_star": 20,
+    "m": 4,
+    "r": 38,
+    "C_minus": 20,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      5,
+      -29,
+      -22
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b4_q30",
+    "family": "repaired",
+    "t_star": 35,
+    "m": 2,
+    "r": 53,
+    "C_minus": 35,
+    "B_plus": 10,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      8,
+      -40,
+      -53
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b4_q50",
+    "family": "repaired",
+    "t_star": 22,
+    "m": 4,
+    "r": 40,
+    "C_minus": 22,
+    "B_plus": 12,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      8,
+      -26,
+      -27
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b5_q30",
+    "family": "repaired",
+    "t_star": 54,
+    "m": 2,
+    "r": 72,
+    "C_minus": 53,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      6,
+      -60,
+      -91
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localheads_b5_q50",
+    "family": "repaired",
+    "t_star": 34,
+    "m": 4,
+    "r": 52,
+    "C_minus": 33,
+    "B_plus": 13,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      9,
+      -38,
+      -51
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b1_q30",
+    "family": "repaired",
+    "t_star": 39,
+    "m": 2,
+    "r": 57,
+    "C_minus": 38,
+    "B_plus": 4,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      2,
+      -53,
+      -61
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b1_q50",
+    "family": "repaired",
+    "t_star": 25,
+    "m": 3,
+    "r": 43,
+    "C_minus": 24,
+    "B_plus": 6,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      3,
+      -36,
+      -33
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b2_q30",
+    "family": "repaired",
+    "t_star": 51,
+    "m": 1,
+    "r": 69,
+    "C_minus": 51,
+    "B_plus": 4,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      3,
+      -63,
+      -85
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b2_q50",
+    "family": "repaired",
+    "t_star": 33,
+    "m": 3,
+    "r": 51,
+    "C_minus": 33,
+    "B_plus": 4,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      1,
+      -45,
+      -49
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b3_q30",
+    "family": "repaired",
+    "t_star": 35,
+    "m": 2,
+    "r": 53,
+    "C_minus": 35,
+    "B_plus": 4,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      2,
+      -49,
+      -52
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b3_q50",
+    "family": "repaired",
+    "t_star": 21,
+    "m": 4,
+    "r": 39,
+    "C_minus": 21,
+    "B_plus": 5,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      1,
+      -34,
+      -24
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b4_q30",
+    "family": "repaired",
+    "t_star": 37,
+    "m": 2,
+    "r": 55,
+    "C_minus": 36,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      7,
+      -45,
+      -57
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b4_q50",
+    "family": "repaired",
+    "t_star": 21,
+    "m": 4,
+    "r": 39,
+    "C_minus": 20,
+    "B_plus": 8,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      4,
+      -30,
+      -25
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b5_q30",
+    "family": "repaired",
+    "t_star": 54,
+    "m": 2,
+    "r": 72,
+    "C_minus": 53,
+    "B_plus": 7,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      5,
+      -64,
+      -91
+    ]
+  },
+  {
+    "table_id": "Repaired_MRA_localfeatures_b5_q50",
+    "family": "repaired",
+    "t_star": 32,
+    "m": 3,
+    "r": 50,
+    "C_minus": 31,
+    "B_plus": 9,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      6,
+      -40,
+      -47
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q30",
+    "family": "repaired",
+    "t_star": 8,
+    "m": 45,
+    "r": 164,
+    "C_minus": 8,
+    "B_plus": 176,
+    "minimum_images": 172,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      131,
+      13,
+      138
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q50",
+    "family": "repaired",
+    "t_star": 4,
+    "m": 76,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 212,
+    "minimum_images": 164,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      136,
+      55,
+      146
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b2_q30",
+    "family": "repaired",
+    "t_star": 8,
+    "m": 46,
+    "r": 165,
+    "C_minus": 7,
+    "B_plus": 121,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      75,
+      -41,
+      139
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b2_q50",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 76,
+    "r": 163,
+    "C_minus": 5,
+    "B_plus": 141,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      65,
+      -20,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q30",
+    "family": "repaired",
+    "t_star": 13,
+    "m": 45,
+    "r": 169,
+    "C_minus": 13,
+    "B_plus": 143,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      98,
+      -25,
+      129
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q50",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 75,
+    "r": 162,
+    "C_minus": 6,
+    "B_plus": 171,
+    "minimum_images": 168,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      96,
+      10,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b4_q30",
+    "family": "repaired",
+    "t_star": 7,
+    "m": 46,
+    "r": 161,
+    "C_minus": 7,
+    "B_plus": 141,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      95,
+      -20,
+      139
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b4_q50",
+    "family": "repaired",
+    "t_star": 5,
+    "m": 75,
+    "r": 159,
+    "C_minus": 5,
+    "B_plus": 144,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      69,
+      -14,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b5_q30",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 45,
+    "r": 161,
+    "C_minus": 5,
+    "B_plus": 157,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      112,
+      -4,
+      142
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b5_q50",
+    "family": "repaired",
+    "t_star": 5,
+    "m": 76,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 139,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      63,
+      -20,
+      144
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q30",
+    "family": "repaired",
+    "t_star": 8,
+    "m": 45,
+    "r": 164,
+    "C_minus": 8,
+    "B_plus": 180,
+    "minimum_images": 172,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      135,
+      17,
+      138
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q50",
+    "family": "repaired",
+    "t_star": 4,
+    "m": 76,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 215,
+    "minimum_images": 164,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      139,
+      58,
+      146
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b2_q30",
+    "family": "repaired",
+    "t_star": 8,
+    "m": 46,
+    "r": 165,
+    "C_minus": 7,
+    "B_plus": 126,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      80,
+      -36,
+      139
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b2_q50",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 76,
+    "r": 163,
+    "C_minus": 5,
+    "B_plus": 148,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      72,
+      -13,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q30",
+    "family": "repaired",
+    "t_star": 13,
+    "m": 45,
+    "r": 169,
+    "C_minus": 13,
+    "B_plus": 147,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      102,
+      -21,
+      129
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q50",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 75,
+    "r": 162,
+    "C_minus": 6,
+    "B_plus": 179,
+    "minimum_images": 168,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      104,
+      18,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b4_q30",
+    "family": "repaired",
+    "t_star": 7,
+    "m": 46,
+    "r": 161,
+    "C_minus": 7,
+    "B_plus": 138,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      92,
+      -23,
+      139
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b4_q50",
+    "family": "repaired",
+    "t_star": 5,
+    "m": 75,
+    "r": 159,
+    "C_minus": 5,
+    "B_plus": 149,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      74,
+      -9,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b5_q30",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 45,
+    "r": 161,
+    "C_minus": 5,
+    "B_plus": 152,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      107,
+      -9,
+      142
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b5_q50",
+    "family": "repaired",
+    "t_star": 5,
+    "m": 76,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 140,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      64,
+      -19,
+      144
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q30",
+    "family": "repaired",
+    "t_star": 8,
+    "m": 45,
+    "r": 164,
+    "C_minus": 8,
+    "B_plus": 153,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      108,
+      -11,
+      138
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q50",
+    "family": "repaired",
+    "t_star": 4,
+    "m": 76,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 188,
+    "minimum_images": 164,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      112,
+      30,
+      146
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b2_q30",
+    "family": "repaired",
+    "t_star": 8,
+    "m": 46,
+    "r": 165,
+    "C_minus": 7,
+    "B_plus": 123,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      77,
+      -41,
+      139
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b2_q50",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 76,
+    "r": 163,
+    "C_minus": 5,
+    "B_plus": 128,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      52,
+      -35,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b3_q30",
+    "family": "repaired",
+    "t_star": 13,
+    "m": 45,
+    "r": 169,
+    "C_minus": 12,
+    "B_plus": 134,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      89,
+      -34,
+      129
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b3_q50",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 75,
+    "r": 162,
+    "C_minus": 6,
+    "B_plus": 164,
+    "minimum_images": 168,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      89,
+      4,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b4_q30",
+    "family": "repaired",
+    "t_star": 7,
+    "m": 46,
+    "r": 161,
+    "C_minus": 6,
+    "B_plus": 142,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      96,
+      -19,
+      139
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b4_q50",
+    "family": "repaired",
+    "t_star": 5,
+    "m": 75,
+    "r": 159,
+    "C_minus": 4,
+    "B_plus": 132,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      57,
+      -26,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b5_q30",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 45,
+    "r": 161,
+    "C_minus": 5,
+    "B_plus": 165,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      120,
+      4,
+      142
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b5_q50",
+    "family": "repaired",
+    "t_star": 5,
+    "m": 76,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 145,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      69,
+      -14,
+      144
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q30",
+    "family": "repaired",
+    "t_star": 13,
+    "m": 46,
+    "r": 169,
+    "C_minus": 13,
+    "B_plus": 187,
+    "minimum_images": 182,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      141,
+      18,
+      128
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q50",
+    "family": "repaired",
+    "t_star": 7,
+    "m": 76,
+    "r": 163,
+    "C_minus": 7,
+    "B_plus": 196,
+    "minimum_images": 170,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      120,
+      35,
+      140
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b2_q30",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 46,
+    "r": 163,
+    "C_minus": 6,
+    "B_plus": 86,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      40,
+      -77,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b2_q50",
+    "family": "repaired",
+    "t_star": 4,
+    "m": 76,
+    "r": 161,
+    "C_minus": 4,
+    "B_plus": 78,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      2,
+      -82,
+      147
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q30",
+    "family": "repaired",
+    "t_star": 10,
+    "m": 45,
+    "r": 166,
+    "C_minus": 10,
+    "B_plus": 114,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      69,
+      -51,
+      135
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q50",
+    "family": "repaired",
+    "t_star": 4,
+    "m": 75,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 158,
+    "minimum_images": 164,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      83,
+      0,
+      147
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q30",
+    "family": "repaired",
+    "t_star": 9,
+    "m": 46,
+    "r": 163,
+    "C_minus": 9,
+    "B_plus": 167,
+    "minimum_images": 172,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      121,
+      5,
+      135
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q50",
+    "family": "repaired",
+    "t_star": 3,
+    "m": 75,
+    "r": 157,
+    "C_minus": 3,
+    "B_plus": 174,
+    "minimum_images": 160,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      99,
+      19,
+      147
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b5_q30",
+    "family": "repaired",
+    "t_star": 8,
+    "m": 45,
+    "r": 163,
+    "C_minus": 7,
+    "B_plus": 222,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      177,
+      61,
+      138
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b5_q50",
+    "family": "repaired",
+    "t_star": 4,
+    "m": 76,
+    "r": 159,
+    "C_minus": 3,
+    "B_plus": 260,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      184,
+      102,
+      146
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b1_q30",
+    "family": "repaired",
+    "t_star": 11,
+    "m": 46,
+    "r": 167,
+    "C_minus": 10,
+    "B_plus": 212,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      166,
+      45,
+      132
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b1_q50",
+    "family": "repaired",
+    "t_star": 8,
+    "m": 76,
+    "r": 164,
+    "C_minus": 7,
+    "B_plus": 199,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      123,
+      35,
+      138
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b2_q30",
+    "family": "repaired",
+    "t_star": 6,
+    "m": 46,
+    "r": 163,
+    "C_minus": 5,
+    "B_plus": 89,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      43,
+      -73,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b2_q50",
+    "family": "repaired",
+    "t_star": 4,
+    "m": 76,
+    "r": 161,
+    "C_minus": 3,
+    "B_plus": 96,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      -1,
+      -1,
+      20,
+      -63,
+      147
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b3_q30",
+    "family": "repaired",
+    "t_star": 7,
+    "m": 44,
+    "r": 163,
+    "C_minus": 7,
+    "B_plus": 111,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      67,
+      -51,
+      141
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b3_q50",
+    "family": "repaired",
+    "t_star": 5,
+    "m": 75,
+    "r": 161,
+    "C_minus": 5,
+    "B_plus": 140,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      65,
+      -20,
+      145
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q30",
+    "family": "repaired",
+    "t_star": 5,
+    "m": 45,
+    "r": 159,
+    "C_minus": 5,
+    "B_plus": 132,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      0,
+      0,
+      0,
+      87,
+      -26,
+      143
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q50",
+    "family": "repaired",
+    "t_star": 4,
+    "m": 75,
+    "r": 158,
+    "C_minus": 4,
+    "B_plus": 156,
+    "minimum_images": 162,
+    "feasible": true,
+    "margins": [
+      0,
+      0,
+      0,
+      81,
+      0,
+      145
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b5_q30",
+    "family": "repaired",
+    "t_star": 5,
+    "m": 45,
+    "r": 160,
+    "C_minus": 4,
+    "B_plus": 214,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      169,
+      54,
+      144
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b5_q50",
+    "family": "repaired",
+    "t_star": 3,
+    "m": 76,
+    "r": 158,
+    "C_minus": 2,
+    "B_plus": 257,
+    "minimum_images": -1,
+    "feasible": false,
+    "margins": [
+      -1,
+      0,
+      -1,
+      181,
+      100,
+      148
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+setting,imaging_pct,configurations,primary_feasible,repaired_feasible,observed_gain_pp
+reference,15,100,1,14,13
+reference,20,100,1,14,13
+AK_noncancer,15,100,1,14,13
+AK_noncancer,20,100,1,14,13
+endpoint_complete_case,15,100,1,13,12
+endpoint_complete_case,20,100,1,13,12

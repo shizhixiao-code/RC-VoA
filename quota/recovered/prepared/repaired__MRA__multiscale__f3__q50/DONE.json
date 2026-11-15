@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:44.090630+00:00",
+  "context": "repaired__MRA__multiscale__f3__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f3__q50_design_clinical.npz": "e5e79f95694a2bc853777dfbbeffb96407c2537a4987ab127f7032ee8f67b277",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f3__q50_calibration_clinical.npz": "5e24eb48bf92cfaa48c1aa92d98b091c78d6811df7d626f10f3af02eb28a0ba4",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f3__q50_evaluation_clinical.npz": "8991bd447be2807a55c63e619fa5346d0e448f55a743db8d2d9f13181e05f8c4",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f3__q50_design_outcomes.npz": "6f1a6639749f6a36bb3d24a01c04fe1fa9418398c3cb15252ddd387acf3bd835",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f3__q50_calibration_outcomes.npz": "f36dd05b56425efe09782a48d38a363c0f9cc0f31ef5df20adac4fae7af6862f",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f3.npz": "cbd31c2974b6c4aa585c7b241862186de6e36933cf0d56c98e85648cfef7c890"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "7f76eaef3abd6e0b8414d3d17f7e2456b82d21520bda3543969e545ab8c4941b",
+    "policy.json": "632c41c47a9c7fa72932b9a34b82fcd57da67194bf6eb2717ade7793d8e9c437",
+    "probabilities.npz": "20e114e5d0ad685da25a7b65c71bf8c6bc7ba5306f1e32c501fce71fa37ae348",
+    "selected_ids.csv": "5fd5a48ec850248d924a67f5b7c9f73ade1135d421c8b3fc109e1d8756659225",
+    "selection.npz": "98fa2c9468215398e84c41ec643204db25a3c338e91289c382014f7722464249",
+    "selector.joblib": "e32ae90d53228eebe95b3874d1200980bafd0e52a0609eff022f3e3744bdd274"
+  }
+}

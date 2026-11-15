@@ -1,0 +1,23 @@
+{
+  "analysis": "Exploratory one-factor target sensitivity on existing frozen tables",
+  "date": "2026-11-08",
+  "grid_status": "Written before running the new target profiles; added after review of the original results",
+  "tables": 236,
+  "families": {"source_SP": 36, "primary": 100, "repaired": 100},
+  "reference": {"imaging_pct": 20, "pooled_pct": 90, "subtype_delta_pp": 0, "fp_reduction_pct": 10, "flag_reduction_pp": 10, "absolute_cap_delta_pp": 0},
+  "profiles": [
+    {"name": "reference", "change": {}},
+    {"name": "pooled_85", "change": {"pooled_pct": 85}},
+    {"name": "subtypes_minus5", "change": {"subtype_delta_pp": -5}},
+    {"name": "fp_reduction_5", "change": {"fp_reduction_pct": 5}},
+    {"name": "flag_reduction_5", "change": {"flag_reduction_pp": 5}},
+    {"name": "absolute_cap_plus10", "change": {"absolute_cap_delta_pp": 10}},
+    {"name": "imaging_25", "change": {"imaging_pct": 25}}
+  ],
+  "fixed": ["cohort membership", "recorded labels and eligibility", "B, Dpair and R decisions", "original model fitting and calibration", "protection of each cancer detected by B or R"],
+  "allocation": "At most K images, free negative-pool quota; minimize image count subject to all specified requirements",
+  "absolute_cap_rule": "Increase each table's original cap by 10 percentage points, capped at 100; source S/P has no extra absolute cap",
+  "interpretation": "Exact descriptive counts within this dependent table grid; no population-rate inference or policy-success redefinition",
+  "validation": ["Recover all 236 original reference verdicts and minimum image counts", "Compare closed-form margins with independent allocation MILP for every table/profile", "Recheck every integer witness against direct inequalities", "Exhaustive subset enumeration for small synthetic tables", "Verify monotonicity under every relaxation"],
+  "solver_status": "Only proven optimal or proven infeasible results accepted; timeout or error aborts analysis"
+}

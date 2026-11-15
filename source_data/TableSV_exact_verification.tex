@@ -1,0 +1,16 @@
+\caption{Matched interval and exact verification}\label{tab:exactverification}\centering
+\footnotesize\setlength{\tabcolsep}{2pt}\renewcommand{\arraystretch}{1.0}
+\begin{tabular*}{\linewidth}{@{\extracolsep{\fill}}lrr@{}}\toprule
+Configuration ($n$)&RC-VoA&Exact MILP\\\midrule
+\multicolumn{3}{l}{\textit{Checked records, mean [P10--P90] (\%)}}\\
+Primary I (27)&25.84 [16.36--35.25]&25.84 [16.36--35.25]\\
+Primary F (1)&99.97 [100.00--100.00]&99.93 [99.87--100.00]\\
+Repaired I (14)&32.81 [18.83--47.71]&32.81 [18.83--47.71]\\
+Repaired F (14)&99.98 [99.94--100.00]&99.63 [99.16--99.95]\\\midrule
+\multicolumn{3}{l}{\textit{Mean sequential computation (s)}}\\
+Primary I&0.0066&0.3879\\
+Primary F&0.0228&1.7335\\
+Repaired I&0.0085&0.4287\\
+Repaired F&0.0236&1.6292\\\bottomrule
+\end{tabular*}
+\par\smallskip\parbox{\linewidth}{\footnotesize I/F: infeasible/feasible; $n$: configurations. Equal-table means and P10--P90 use 100 orders. Pre-screen + full checks 100\%; the common 72 pre-screened tables per stage use zero queries. Timing uses 560 sequential pairs with endpoints in memory; full-retrieval replay means are 0.00109/0.00096/0.00109/0.00104\,s in row order.}

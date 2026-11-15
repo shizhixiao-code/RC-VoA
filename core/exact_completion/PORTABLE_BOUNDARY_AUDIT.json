@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "full_tables": 200,
+  "opposite_completion_pairs": 5600,
+  "independently_solved_unique_witnesses": 5966,
+  "independently_solved_negative_stop_models": 4066,
+  "independent_milps": 10232,
+  "disagreement": 0,
+  "frozen_inputs_unchanged": true,
+  "wall_seconds": 19.227376299999378
+}

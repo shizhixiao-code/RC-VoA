@@ -1,0 +1,6036 @@
+[
+  {
+    "table_id": "MRA_efficientnet_b0_L1",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L2",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      57,
+      0,
+      33,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L3",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L1",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      64,
+      0,
+      26,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L2",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      66,
+      0,
+      24,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L3",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      63,
+      0,
+      27,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L1",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L2",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L3",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      59,
+      0,
+      31,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L1",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L2",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L3",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L1",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L2",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L3",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L1",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L2",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L3",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      27,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L1",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L2",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L3",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L1",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L2",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L3",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L1",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L2",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L3",
+    "profile": "reference",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b3_frozen50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q30",
+    "profile": "reference",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q30",
+    "profile": "reference",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      157,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b3_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q30",
+    "profile": "reference",
+    "selected_cell_counts": [
+      3,
+      0,
+      4,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      169,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      2,
+      0,
+      2,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      158,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q30",
+    "profile": "reference",
+    "selected_cell_counts": [
+      2,
+      2,
+      5,
+      0,
+      0,
+      0,
+      0,
+      162,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      155,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q50",
+    "profile": "reference",
+    "selected_cell_counts": [
+      1,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      156,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L1",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L2",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      57,
+      0,
+      33,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L3",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L1",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      64,
+      0,
+      26,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L2",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      66,
+      0,
+      24,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L3",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      63,
+      0,
+      27,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L1",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L2",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L3",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      59,
+      0,
+      31,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L1",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L2",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L3",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L1",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L2",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L3",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L1",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L2",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L3",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      27,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L1",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L2",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L3",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L1",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L2",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L3",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L1",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L2",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L3",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b3_frozen50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q30",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q30",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      157,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b3_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q30",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      3,
+      0,
+      4,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      169,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      2,
+      0,
+      2,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      158,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q30",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      2,
+      2,
+      5,
+      0,
+      0,
+      0,
+      0,
+      162,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      155,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q50",
+    "profile": "pooled_85",
+    "selected_cell_counts": [
+      1,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      156,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      57,
+      0,
+      33,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      64,
+      0,
+      26,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      66,
+      0,
+      24,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      63,
+      0,
+      27,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      59,
+      0,
+      31,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      27,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_deit3_base_patch16_224_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      718,
+      0,
+      0,
+      58,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_deit3_base_patch16_224_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      716,
+      0,
+      0,
+      60,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_deit3_base_patch16_224_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      716,
+      0,
+      0,
+      60,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L1",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L2",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L3",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b3_frozen50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q30",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q30",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      157,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b3_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q30",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      3,
+      0,
+      4,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      169,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      2,
+      0,
+      2,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      158,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q30",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      2,
+      2,
+      5,
+      0,
+      0,
+      0,
+      0,
+      162,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      155,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q50",
+    "profile": "subtypes_minus5",
+    "selected_cell_counts": [
+      1,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      156,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L1",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L2",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      57,
+      0,
+      33,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L3",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L1",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      64,
+      0,
+      26,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L2",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      66,
+      0,
+      24,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L3",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      63,
+      0,
+      27,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L1",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L2",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L3",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      59,
+      0,
+      31,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L1",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L2",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L3",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L1",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L2",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L3",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L1",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L2",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L3",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      27,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L1",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      718,
+      0,
+      58,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L2",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      734,
+      0,
+      42,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L3",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      719,
+      0,
+      57,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L1",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      707,
+      0,
+      69,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L2",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      709,
+      0,
+      67,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L3",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      707,
+      0,
+      69,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L1",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      0,
+      11,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L2",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      9,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L3",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      0,
+      11,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b3_frozen50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q30",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q30",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      157,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b3_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q30",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      3,
+      0,
+      4,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      169,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      2,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      158,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q30",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      2,
+      2,
+      5,
+      0,
+      0,
+      0,
+      0,
+      162,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      155,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q50",
+    "profile": "fp_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      156,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L1",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      42,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L2",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      42,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L3",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      42,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L1",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      43,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L2",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      43,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L3",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      43,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L1",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      42,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L2",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      42,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L3",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      42,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L1",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      6,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L2",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      6,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L3",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      9,
+      0,
+      6,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L1",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      13,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L2",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L3",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      13,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L1",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      13,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L2",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      14,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L3",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      12,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L1",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L2",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L3",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L1",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L2",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L3",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L1",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L2",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L3",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b3_frozen50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      81,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      85,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      78,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      3,
+      0,
+      3,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      90,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      82,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b4_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      1,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      84,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b4_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      81,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      85,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      78,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      3,
+      0,
+      3,
+      0,
+      7,
+      0,
+      0,
+      0,
+      0,
+      0,
+      90,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      82,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b4_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      1,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      84,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b4_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      81,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      86,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      79,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b3_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      81,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      3,
+      0,
+      4,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      91,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      2,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      81,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b2_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      3,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      85,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      3,
+      0,
+      3,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      87,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      80,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      2,
+      5,
+      0,
+      0,
+      0,
+      0,
+      85,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      78,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b3_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0,
+      0,
+      84,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b3_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      82,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q30",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      2,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      81,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q50",
+    "profile": "flag_reduction_5",
+    "selected_cell_counts": [
+      1,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      79,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L1",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L2",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      57,
+      0,
+      33,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L3",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L1",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      64,
+      0,
+      26,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L2",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      66,
+      0,
+      24,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L3",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      63,
+      0,
+      27,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L1",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L2",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L3",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      59,
+      0,
+      31,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L1",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L2",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L3",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L1",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L2",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L3",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L1",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L2",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L3",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      27,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L1",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L2",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L3",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L1",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L2",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L3",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L1",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L2",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L3",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b3_frozen50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q30",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q30",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      157,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b3_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q30",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      3,
+      0,
+      4,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      169,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      2,
+      0,
+      2,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      158,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q30",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      2,
+      2,
+      5,
+      0,
+      0,
+      0,
+      0,
+      162,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      155,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q50",
+    "profile": "absolute_cap_plus10",
+    "selected_cell_counts": [
+      1,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      156,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L1",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L2",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      57,
+      0,
+      33,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_efficientnet_b0_L3",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      54,
+      0,
+      36,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L1",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      64,
+      0,
+      26,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L2",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      66,
+      0,
+      24,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_convnext_tiny_L3",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      63,
+      0,
+      27,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L1",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L2",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      60,
+      0,
+      30,
+      0
+    ]
+  },
+  {
+    "table_id": "MRA_deit3_base_patch16_224_L3",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      59,
+      0,
+      31,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L1",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L2",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      23,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_efficientnet_b0_L3",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      22,
+      0,
+      8,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L1",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L2",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_convnext_tiny_L3",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L1",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      28,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L2",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      29,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "HIBA_deit3_base_patch16_224_L3",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      27,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L1",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L2",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_efficientnet_b0_L3",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      758,
+      0,
+      18,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L1",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L2",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_convnext_tiny_L3",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      756,
+      0,
+      20,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L1",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L2",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "MCR-SL_efficientnet_b0_L3",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      16,
+      0,
+      7,
+      0
+    ]
+  },
+  {
+    "table_id": "UQ_multiscale_b3_frozen50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q30",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b1_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_headonly_b3_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q30",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      2,
+      0,
+      1,
+      0,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      163,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b1_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      156,
+      0,
+      0,
+      0,
+      3,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_laststage_b3_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      160,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b1_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      157,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_multiscale_b3_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      1,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q30",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      3,
+      0,
+      4,
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      169,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b1_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      2,
+      0,
+      2,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2,
+      159,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b3_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      2,
+      0,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      158,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q30",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      2,
+      2,
+      5,
+      0,
+      0,
+      0,
+      0,
+      162,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localheads_b4_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      1,
+      0,
+      1,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      155,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  },
+  {
+    "table_id": "Repaired_UQ_localfeatures_b4_q50",
+    "profile": "imaging_25",
+    "selected_cell_counts": [
+      1,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      156,
+      0,
+      0,
+      0,
+      2,
+      0
+    ]
+  }
+]

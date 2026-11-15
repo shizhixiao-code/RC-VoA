@@ -1,0 +1,2802 @@
+[
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b1_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b1_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b1_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b1_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b1_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b1_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b1_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b1_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b1_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b1_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b1_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b1_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b1_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b1_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b1_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b1_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b1_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b1_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b1",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b1_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b1_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 1,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 178,
+        "groups": 121,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b2_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b2_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b2_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b2_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b2_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b2_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b2_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b2_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b2_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b2_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b2_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b2_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b2_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b2_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b2_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b2_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b2_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b2_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b2",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b2_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b2_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 2,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 178,
+        "groups": 108,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b3_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b3_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b3_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b3_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b3_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b3_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b3_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b3_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b3_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b3_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b3_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b3_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b3_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b3_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b3_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b3_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b3_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b3_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b3",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b3_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b3_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 3,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 180,
+        "groups": 132,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b4_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b4_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b4_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b4_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b4_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b4_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b4_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b4_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b4_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b4_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b4_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b4_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b4_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b4_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b4_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b4_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b4_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b4_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b4",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b4_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b4_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 4,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 178,
+        "groups": 129,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b5_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b5_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_headonly_b5_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_headonly_b5_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b5_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b5_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_laststage_b5_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_laststage_b5_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b5_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b5_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_multiscale_b5_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_multiscale_b5_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b5_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b5_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localheads_b5_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localheads_b5_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b5_q30",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b5_q30",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "MRA_b5",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_MRA_localfeatures_b5_q50",
+        "stage": "Primary",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_MRA_localfeatures_b5_q50",
+        "stage": "Repaired",
+        "cohort": "MRA",
+        "batch": 5,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 177,
+        "groups": 112,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b1_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b1_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b1_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b1_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b1_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b1_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b1_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b1_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b1_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b1_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b1_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b1_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b1_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b1_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b1_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b1_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b1_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b1_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b1",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b1_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b1_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 1,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1552,
+        "groups": 90,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b2_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b2_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b2_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b2_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b2_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b2_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b2_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b2_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b2_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b2_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b2_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b2_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b2_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b2_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b2_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b2_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b2_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b2_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b2",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b2_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b2_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 2,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1562,
+        "groups": 96,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b3_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b3_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b3_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b3_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b3_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b3_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b3_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b3_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b3_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b3_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b3_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": true
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b3_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b3_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b3_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b3_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b3_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b3_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b3_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b3",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b3_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b3_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 3,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1558,
+        "groups": 87,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b4_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b4_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b4_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b4_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b4_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b4_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b4_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b4_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b4_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b4_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b4_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b4_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b4_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b4_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b4_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b4_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b4_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b4_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b4",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b4_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b4_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 4,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1539,
+        "groups": 85,
+        "feasible": true
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 0,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b5_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b5_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "headonly",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 1,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_headonly_b5_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_headonly_b5_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "headonly",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 2,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b5_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b5_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "laststage",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 3,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_laststage_b5_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_laststage_b5_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "laststage",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 4,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b5_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b5_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "multiscale",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 5,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_multiscale_b5_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_multiscale_b5_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "multiscale",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 6,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b5_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b5_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "localheads",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 7,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localheads_b5_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localheads_b5_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "localheads",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 8,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b5_q30",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b5_q30",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "localfeatures",
+        "cap": 30,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  },
+  {
+    "stratum": "UQ_b5",
+    "configuration_index": 9,
+    "stages": [
+      {
+        "table_id": "Primary_UQ_localfeatures_b5_q50",
+        "stage": "Primary",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      },
+      {
+        "table_id": "Repaired_UQ_localfeatures_b5_q50",
+        "stage": "Repaired",
+        "cohort": "UQ",
+        "batch": 5,
+        "mode": "localfeatures",
+        "cap": 50,
+        "N": 1545,
+        "groups": 95,
+        "feasible": false
+      }
+    ]
+  }
+]

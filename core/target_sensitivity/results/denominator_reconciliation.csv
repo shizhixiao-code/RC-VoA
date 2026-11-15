@@ -1,0 +1,9 @@
+family,cohort,cap,tables,feasible
+primary,MRA,30,25,0
+primary,MRA,50,25,0
+primary,UQ,30,25,0
+primary,UQ,50,25,1
+repaired,MRA,30,25,0
+repaired,MRA,50,25,0
+repaired,UQ,30,25,4
+repaired,UQ,50,25,10

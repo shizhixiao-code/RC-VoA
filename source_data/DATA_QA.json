@@ -1,0 +1,20 @@
+{
+  "rows": 20000,
+  "panel_a_rows": 20000,
+  "panel_b_rows": 5600,
+  "zero_query_tables_per_stage": 72,
+  "orders_per_table": 100,
+  "configuration_counts": [
+    27,
+    14,
+    1,
+    14
+  ],
+  "dimensions_mm": [
+    182,
+    84
+  ],
+  "all_source_means_recalculated": true,
+  "uncertainty": "across-order P10-P90",
+  "graphic_source": "All frozen table-order pairs, no sampled orders"
+}

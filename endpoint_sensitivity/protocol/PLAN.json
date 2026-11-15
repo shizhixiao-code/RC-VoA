@@ -1,0 +1,74 @@
+{
+  "written_at_utc": "2026-11-09T06:46:56.000691+00:00",
+  "scope": "Exploratory frozen-output endpoint/exclusion sensitivity. Two settings selected after original-label inventory and before sensitivity result calculation. No model retraining, recalibration, manuscript edits or policy optimization.",
+  "reference": {
+    "source_SP_tables": 36,
+    "primary_tables": 100,
+    "repaired_tables": 100,
+    "budgets_pct": [
+      15,
+      20
+    ],
+    "source_SP_additional_budget_pct": [
+      10
+    ],
+    "floors_pct": {
+      "Melanoma": 95,
+      "Invasive SCC": 95,
+      "SCC NOS": 95,
+      "BCC": 90,
+      "SCCIS": 90
+    },
+    "pooled_pct": 90,
+    "FP_reduction_pct": 10,
+    "flag_reduction_pp": 10,
+    "absolute_caps": "source_SP=100%; primary/repaired original30/50%"
+  },
+  "settings": [
+    {
+      "id": "reference",
+      "rule": "Original labels and all resource records"
+    },
+    {
+      "id": "AK_noncancer",
+      "rule": "Only provider diagnoses malignant- ak / actinic keratosis / AK become binary endpoint 0 (non-cancer for this malignancy endpoint). All rows stay in resources; all other labels unchanged.",
+      "expected_affected_by_cohort": {
+        "MRA": 51,
+        "HIBA": 15,
+        "UQ": 16,
+        "MCR-SL": 10
+      },
+      "rationale": "AK is documented as precancerous by dermatology societies. Sensitivity to including known AK in the non-cancer denominator, not a claim that AK needs no clinical action."
+    },
+    {
+      "id": "endpoint_complete_case",
+      "rule": "Remove every reference y=-1 row from outcomes and the imaging/flag resource denominator. No relabeling of retained rows. Recompute counts, baseline flags/FP and integer image/flag capacities using retained N; original B/P/R decisions and fold membership retained.",
+      "expected_removed_by_cohort": {
+        "MRA": 88,
+        "HIBA": 15,
+        "UQ": 81,
+        "MCR-SL": 15
+      },
+      "rationale": "Explicit alternative to the current choice to retain endpoint-excluded lesions in resource budgets. This is a different observed analysis population, not a correction for missingness or dermoscopy selection bias."
+    }
+  ],
+  "reporting": [
+    "Cohort N, known endpoints, excluded, cancer/subtype counts, groups",
+    "Feasible n/36, n/100 at each budget; primary/repaired gain in pp",
+    "Repaired cap and cohort breakdown; table-level changes",
+    "Nonexclusive six-margin failure counts and exclusive support/capacity/feasible decomposition",
+    "C_minus and B_plus support, required rescues and minimum image counts"
+  ],
+  "validation": [
+    "Join all 9168 original field slices to frozen IDs/groups and reconcile original endpoint mapping",
+    "Reconstruct all236 count tables and reference verdicts",
+    "Independent allocation MILP for every table/setting/budget; integer witness checks for feasible cases",
+    "Check no label changes outside declared sets; fixed decisions and original delivery unchanged"
+  ],
+  "not_tested": [
+    "MILK training exclusions/retraining",
+    "Alternative pathological adjudication of ambiguous lesions",
+    "SCCIS to IEC mere renaming (same90%floor)",
+    "New acquisition-policy fitting, prospective efficacy, verification stopping-cost recomputation"
+  ]
+}

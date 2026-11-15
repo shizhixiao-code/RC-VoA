@@ -1,0 +1,1 @@
+{'status': 'PASS', 'independent_prefix_checks': 26025, 'fields': ['TP', 'FP', 'flags', 'lost', 'passes'], 'method': 'Cumulative transition changes and rational sensitivity comparisons; independent of direct selection-loop evaluator'}

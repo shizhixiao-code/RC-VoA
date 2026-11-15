@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:12:01.165898+00:00",
+  "context": "repaired__UQ__localfeatures__f3__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f3__q50_design_clinical.npz": "81c59ef5658650c9a048c5a6900a875b13fd621567fce73c89cfb3a6110c0f78",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f3__q50_calibration_clinical.npz": "d1792f6ad05e2b6ac9890fab26b3a9516c1ed4c249bc7d43003c95c60ee76e4b",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f3__q50_evaluation_clinical.npz": "75cd5c40cccaf3955ce32c2566ee9604e0eff09f484f3eda3650776b8c1e3a58",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f3__q50_design_outcomes.npz": "f542bd23b565d42130307723c66a8af67f1cf2e2516a42fb48b2f47296d80d0c",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__UQ__localfeatures__f3__q50_calibration_outcomes.npz": "e34359b78eac8a8dd73277ea4fbcecb478e10546a4885c7d711f4784a404a827",
+    "rcvoa_selector_rebuild_20261027\\data\\UQ_pca_f3.npz": "b498e1536497c8869e8cf77710938e5d7464dce8b5ebf05e535eae8033c1d930"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "37055ed217e841d1d2fc12bbfbd49e932ca31b302aeabe1849847a0626a34f54",
+    "policy.json": "fe5e3cecdc2974141bf452f73d390207c4b47a2abbaa955e6cc28e49cd2b265e",
+    "probabilities.npz": "19f41fa0d5ca76ca9a56595cb1a8856ffd66289591016492ca95dca6e5e62fab",
+    "selected_ids.csv": "e72027a94fb1f8fed6d7d64c1c943d534db6247f2f3c105524be567ae5cf8cf7",
+    "selection.npz": "5c13d638bd9bb79e8a4a82e8dc527d0eecb9308bedd8db5881d90915dc1bf651",
+    "selector.joblib": "6ae8f34b37205960a315712e7d160c649e21b8101d8554c409ab99bda7bdc674"
+  }
+}

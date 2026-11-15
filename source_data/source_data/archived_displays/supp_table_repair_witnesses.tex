@@ -1,0 +1,11 @@
+\begin{table*}[!t]
+\caption{Original nonzero-rescue witnesses at both imaging budgets}\label{tab:repairwitnessfull}
+\centering\small\renewcommand{\arraystretch}{1.04}\setlength{\tabcolsep}{3pt}
+\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}lrrrrll@{}}\toprule
+UQ batch / model & $(t^*,m)$ & $(C_-,B_+)$ & Min. $K$ & \shortstack{Valid $k$\\15\% / 20\%} & \shortstack{Oracle counts\\retained, rescued, lost} & \shortstack{Policy (rescued, lost)\\Prox; Risk}\\\midrule
+1 / Source heads & (4, 76) & (4, 212) & 164 & [4, 72] / [4, 150] & 21, 4, 0 & (2, 2); (0, 4)\\
+3 / Multiscale & (6, 75) & (6, 164) & 168 & [6, 71] / [6, 149] & 29, 6, 0 & (0, 7); (0, 6)\\
+4 / Local heads & (3, 75) & (3, 174) & 160 & [3, 66] / [3, 78] & 13, 3, 0 & (0, 3); (0, 3)\\
+\bottomrule\end{tabular*}
+\par\smallskip\parbox{\linewidth}{\footnotesize These prespecified illustrations use calibration-only repair and 50\% flag caps; $N=1552/1558/1539$. All three are feasible at both budgets, with exact volumes $K=232/233/230$ (15\%) and $310/311/307$ (20\%). $t^*$ includes mandatory source-S rescues. Retained/lost counts refer to the union of both baselines\textquotesingle{} cancers; rescued counts are gains over the current baseline. Oracle FP reductions are 157/160/155. Displayed policy rescue/loss counts hold at both budgets; neither policy passes. Full quota checks and policy identities are archived.}
+\end{table*}

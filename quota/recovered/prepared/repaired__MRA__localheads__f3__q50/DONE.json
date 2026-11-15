@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:57.315100+00:00",
+  "context": "repaired__MRA__localheads__f3__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f3__q50_design_clinical.npz": "75a8181e62e80dbd084b27263c48fad4657adafba4e24f5eb6c17c64cb2ac484",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f3__q50_calibration_clinical.npz": "3f377c4a14131a9cfd59e0fe7d9c96f5aef7e58607d02822cde7bdbb303b7dad",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f3__q50_evaluation_clinical.npz": "d899f8611fec787d93813047ced2f377906dc2c127744275e2f7b72413813ae3",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f3__q50_design_outcomes.npz": "d5af18b8c322a54d1edb693217471bd24e286730a9ec04c45df026bb423a7ff0",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f3__q50_calibration_outcomes.npz": "8aa5b0263f4167334701953b6484bb8465b19a3d85930816d380b21fad6498df",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f3.npz": "cbd31c2974b6c4aa585c7b241862186de6e36933cf0d56c98e85648cfef7c890"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "6ae6d7d025523837186e1954894e92e4af4517a932d4ab7fb861eda02786e8ea",
+    "policy.json": "2cba11d31908c57f779ce22d156204337da0fb5c8e7af6d546e605a003103da6",
+    "probabilities.npz": "a06b96ba82a3ef87138bbd335f34ce95367b282fa9da53e4b79f8dad0f5f5ecd",
+    "selected_ids.csv": "3b912ee5491d17676b40385b2b435a4a283f89c974746b8ccecc861413d82ec4",
+    "selection.npz": "996f6e9e6fc6452777cdf07dc09c10b86961e411949cd66e47ab53b5346ecf92",
+    "selector.joblib": "4ec67674f7ebe7fcacec647e7855530ff61910aa2f651ae7c19a6eaebf5b63ae"
+  }
+}

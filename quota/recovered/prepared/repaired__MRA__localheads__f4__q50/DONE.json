@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:07:01.570729+00:00",
+  "context": "repaired__MRA__localheads__f4__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f4__q50_design_clinical.npz": "ada7e3c6e148f4ad910e7a6e8854f9b254bbacba4229e511af8acf612d49532e",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f4__q50_calibration_clinical.npz": "5980001771f43c0e97cd8b986716c56ba0552782afe9b1b12e3ed5e0d784656c",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f4__q50_evaluation_clinical.npz": "fe780b0145a96344a45247d0a913b61a366c226b6133d1f2a5b983bbd3e70776",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f4__q50_design_outcomes.npz": "02cc130d67a96af1e0ab8d7d9f2f08e03f82f289a073ff83a7fade2a6c8a3815",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localheads__f4__q50_calibration_outcomes.npz": "d2c6507eaecf23770bd13b99c2635adc9330eb26ec5481b4cf3054d12a70f3b8",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f4.npz": "2a7afc1d442d9f2f6402eea5dfe36f19cca438fa23d9abb9c1d343a583f99b91"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "4140844d2fc70683e9b62abe6e5c0a32e30dc9befefb3a8f8d8ea778e8fdfe8b",
+    "policy.json": "0895b882c73c19de3933267357a1a008215022ade51bdb46392ab2f5372e2eae",
+    "probabilities.npz": "7baa24b6ba7ed57e8f2e2c905db6556936ba7165eeef1112626a7cf873071d9b",
+    "selected_ids.csv": "29dd9fb6a9c1ea4e2a793cc61dc3c61a226e77b3854ea7572aa101df9fa0b4fc",
+    "selection.npz": "ba39fe8ef7b2d1ae61dbcac3094e480bbc13c885ebecda8d1a99c3e7c3fd6544",
+    "selector.joblib": "0ad28985d148c5b254e5e3091ad019fe3d09b019451f9a383819981f931ad3e5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:40.187191+00:00",
+  "context": "repaired__MRA__multiscale__f2__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f2__q50_design_clinical.npz": "7b99f789bc607a965d971b0889048451415b77e271a1370df2278968e7fd9eed",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f2__q50_calibration_clinical.npz": "b1646f1ca718253f16d9ad0a6ee6517843b096df421cee9b9aaf57586ef94f34",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f2__q50_evaluation_clinical.npz": "beb6d608394a03c9768157c553b1ed51cb3bbf1d073d670982740008d1544c07",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f2__q50_design_outcomes.npz": "2df208eafd51fd5bd1a514a620dc15db08cb7053c204e2689a6128ca9fe6d3ee",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f2__q50_calibration_outcomes.npz": "48afb11cf3dbbe1a2afc32df55a77a715361991a260e779a5ed2415750966ca7",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f2.npz": "c99df92c629d2d8c56229d40be0ae7b1efa863dc4988bc5b079f2a0c718fe3cd"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "beae461a94443fec3148e87578573b81bee9db1dac4c6150ddaa18196aa2ca79",
+    "policy.json": "a7bf533323501dc82737b6e76f2f4d105670d282f3d0e8bb7745054ebdb60dba",
+    "probabilities.npz": "f46e170dec5bfe0e8e0bf745c3356a027410375400144e036f0630073c914738",
+    "selected_ids.csv": "be83f4da50abe9a230fb3d87186b467d472d7fec4f646466dea2a9195ea938f6",
+    "selection.npz": "9d2c2ebfe7c99922975238a9c288763132acd68ff8df60955978b17f77a58792",
+    "selector.joblib": "f1c4fce27e4c3122b637482ad4d407070a349f09202694a47e8857fe3d16b4ca"
+  }
+}

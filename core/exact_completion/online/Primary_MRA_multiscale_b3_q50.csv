@@ -1,0 +1,31 @@
+table_id,stage,cohort,mode,batch,cap,N,eligible,groups,feasible,screen,order,method,stop,checks,verdict,wall_seconds,verifier_seconds,calls,unknowns
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,0,RC-VoA,12,12,-1,0.0026496999998926185,0.0015351000001828652,13,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,0,Exact MILP,12,12,-1,0.059831600000507024,0.059623399999509274,25,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,0,Pre-screen + full,132,160,-1,0.0008784999999988941,0.00011399999584682519,1,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,1,RC-VoA,6,7,-1,0.0013212000003477442,0.0012471000000005006,7,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,1,Exact MILP,6,7,-1,0.028493799999523617,0.028379600000334904,13,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,1,Pre-screen + full,132,160,-1,0.0007821000008334522,9.929999760061037e-05,1,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,2,RC-VoA,4,6,-1,0.0009259999997084378,0.0008706000007805414,5,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,2,Exact MILP,4,6,-1,0.01919290000023466,0.01911610000024666,9,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,2,Pre-screen + full,132,160,-1,0.0007927999995445134,0.00010059999931399943,1,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,3,RC-VoA,2,4,-1,0.0005944999993516831,0.0005561999996643863,3,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,3,Exact MILP,2,4,-1,0.010767099999611673,0.010712500000408909,5,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,3,Pre-screen + full,132,160,-1,0.0008105999995677848,0.00010040000051958486,1,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,4,RC-VoA,10,12,-1,0.0019001999999090913,0.0018006999998760875,11,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,4,Exact MILP,10,12,-1,0.04529110000021319,0.04512460000023566,21,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,4,Pre-screen + full,132,160,-1,0.0008031999996092054,9.93999929050915e-05,1,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,5,RC-VoA,1,1,-1,0.00048270000024785986,0.0004529000007096329,2,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,5,Exact MILP,1,1,-1,0.006184200000461715,0.0061491999995269,3,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,5,Pre-screen + full,132,160,-1,0.0007715000001553562,9.490000320511172e-05,1,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,6,RC-VoA,8,11,-1,0.0015490999994653976,0.0014668000003439374,9,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,6,Exact MILP,8,11,-1,0.029350499999964086,0.029238699999950768,17,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,6,Pre-screen + full,132,160,-1,0.000566400000025169,7.210000239865622e-05,1,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,7,RC-VoA,7,7,-1,0.0010449000001244713,0.0009846000011748401,8,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,7,Exact MILP,7,7,-1,0.025344499999846448,0.025250800001231255,15,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,7,Pre-screen + full,132,160,-1,0.0006263000004764763,8.069999785220716e-05,1,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,8,RC-VoA,4,4,-1,0.0007476999999198597,0.0007044000003588735,5,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,8,Exact MILP,4,4,-1,0.015787799999998242,0.015724600001703948,9,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,8,Pre-screen + full,132,160,-1,0.0006375000002663,8.060000527621014e-05,1,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,9,RC-VoA,3,3,-1,0.0006037000002834247,0.0005670000009558862,4,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,9,Exact MILP,3,3,-1,0.01271900000028836,0.012667000000874395,7,0
+Primary_MRA_multiscale_b3_q50,Primary,MRA,multiscale,3,50,180,160,132,False,False,9,Pre-screen + full,132,160,-1,0.0006403000006685033,8.279999838123331e-05,1,0

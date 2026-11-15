@@ -1,0 +1,5 @@
+cohort,records,unique_ids,original_field_slice_hash_verified,original_full_source_hash_and_selected_fields_verified,upstream_file_total_rows,provider_label_reconstruction_equal,three_backbones_id_group_label_match,histology_qualified
+MRA,891,891,True,True,922,True,True,0
+HIBA,298,298,True,True,298,True,True,246
+UQ,7756,7756,True,True,7756,True,True,88
+MCR-SL,223,223,True,True,223,True,True,28

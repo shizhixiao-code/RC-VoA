@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:07:16.804384+00:00",
+  "context": "repaired__MRA__localfeatures__f4__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f4__q50_design_clinical.npz": "890f8fa54ef6a757aab781c10018e26fdbcef82a83b23d4c90ed45cafc68a3eb",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f4__q50_calibration_clinical.npz": "cd7e57c8556fbc563ec762e9dbc289800e06f35658d71a6a2c3ddcbaac01f1d7",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f4__q50_evaluation_clinical.npz": "4b044a04f7e7436dcccb8e449f59fa8ad18616cc9d33d782f848844f8580125b",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f4__q50_design_outcomes.npz": "76e660616c5516f9f9f804037fc9c55c1ca9205177318ce6eca5b29baaaea957",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__localfeatures__f4__q50_calibration_outcomes.npz": "6ccf05632b42803e59196e1196b686c927ff3e6307420f2f415527d4e53f7d30",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f4.npz": "2a7afc1d442d9f2f6402eea5dfe36f19cca438fa23d9abb9c1d343a583f99b91"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "8b052a26ef5e3003ccb2d20ae57f17754dac7744ef12eeb949c2b483a3c55fac",
+    "policy.json": "2bd0e73d858d087867bcc0a4b4c76c05be4f7767766393975121a394a3891c7a",
+    "probabilities.npz": "5028ec530d6397dbe3e1b77696dd17084c62c80ea778a1aad7f6110ecf59b716",
+    "selected_ids.csv": "57673b719c237ce3e4af4bf867dcf009bb145689f74fe958c09903eeb049a705",
+    "selection.npz": "9c5e71712ad8e6ee5d0ff785dbaf4eb2b67df6b8458708b180c79cde39862fde",
+    "selector.joblib": "3678ad20e06dc1e818973325170e49783ee5fcacf378a351706b85f977800ceb"
+  }
+}

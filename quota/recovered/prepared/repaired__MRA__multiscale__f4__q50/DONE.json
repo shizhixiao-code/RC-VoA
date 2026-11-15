@@ -1,0 +1,28 @@
+{
+  "timestamp_utc": "2026-11-04T18:06:44.475303+00:00",
+  "context": "repaired__MRA__multiscale__f4__q50",
+  "inputs": {
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f4__q50_design_clinical.npz": "deae2f473726efda87ffb4bd495dd829ddeb3a56aacd8997ce7af0af21d0a767",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f4__q50_calibration_clinical.npz": "e0e664feb4f8a3a3760a5f2bb94b32414a0cc98a718987401f5308bbe7e9ebd4",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f4__q50_evaluation_clinical.npz": "f19c0db108faad91e0ab37a6b2acd69fdb133192da97a91781020cec51471c89",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f4__q50_design_outcomes.npz": "4898c57baa5955b247e65873b6e3f904b0f5796703c8d3dd753b22074cdebaca",
+    "rcvoa_selector_rebuild_20261027\\data\\repaired__MRA__multiscale__f4__q50_calibration_outcomes.npz": "2fd65280343d99476825b3af37f577e380c8d3a5583cb0d41abf5f9a8f8c3c86",
+    "rcvoa_selector_rebuild_20261027\\data\\MRA_pca_f4.npz": "2a7afc1d442d9f2f6402eea5dfe36f19cca438fa23d9abb9c1d343a583f99b91"
+  },
+  "groups_disjoint": true,
+  "evaluation_outcome_access": false,
+  "test_paired_prediction_access": false,
+  "guard_probe_passed": true,
+  "code_sha256": {
+    "train_select.py": "db7a5bde2b723bdbb9a714d0f75d591c98a3acad03699e8c8829223595e6b248",
+    "common.py": "80e5b9f7e63c118a36483c9fdc8880db159968d46c378365c7f8f03d14a4a16c"
+  },
+  "files": {
+    "calibration_grid.csv.gz": "88859d401c9abb0c9e22e32ec0e1296bc9c33b43c6e1b2745a6ccc1ea95368dc",
+    "policy.json": "587174bd4081700f926d7c8aae6e593271275e716c2b261c3ab272db833d8e77",
+    "probabilities.npz": "ae98e0b289007c8ef60b4c991076401643d925906ebb27f9305413cc884d7ae9",
+    "selected_ids.csv": "c35f6bc66e56b4dae9dffcf19e1351e6312141345f62425bc8dd182dea4a32f7",
+    "selection.npz": "90c013cd88cfae23ab9f861a7005d37569fd5ccd0c135a94e48af47d62251ab0",
+    "selector.joblib": "bbe0b3dc462902f341fea3554800a280d58538471ef3fa4399bab5b2876e3658"
+  }
+}

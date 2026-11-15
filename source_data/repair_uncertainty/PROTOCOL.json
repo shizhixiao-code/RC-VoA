@@ -1,0 +1,13 @@
+{
+  "analysis": "Exploratory paired conditional group bootstrap of calibration-only repair gain",
+  "reference": "20% imaging, original 30%/50% flag caps and original complete criterion; primary vs repaired",
+  "replicates": 1000,
+  "seed": 20261109,
+  "sampling": "Within each of 2 cohorts x 5 evaluation batches, draw G groups with replacement from the original G groups. Keep every lesion in a sampled group, including excluded endpoints. Reuse the same group multiplicities for all five models, both flag caps and both stages in that stratum.",
+  "recomputed": "Counts, cohort size, sensitivity requirements, imaging and flag caps, protected cancer identities and feasibility are recomputed in each bootstrap sample. Fitted scores, numerical decision thresholds, labels, group assignments and model/calibration fits remain fixed.",
+  "estimand": "Equal-configuration repaired-minus-primary feasibility proportion across the 100-table reference grid, in percentage points; one primary contrast.",
+  "interval": "2.5th and 97.5th percentiles of paired replicate differences, NumPy linear quantile; no p-values.",
+  "secondary": "Per-cohort/cap differences and per-system/cohort/cap fold pass counts archived descriptively.",
+  "validation": "Original 200 table verdicts and count distributions must match archived inputs; compare selected resamples against independently specified allocation MILP with integer witness checks.",
+  "timing": "Plan written before running this new bootstrap, after review of published-in-draft reference results; exploratory, not preregistered."
+}
