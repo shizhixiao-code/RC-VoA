@@ -10,7 +10,7 @@ Provider source identifiers, as cited in the manuscript:
 
 Original images and externally licensed pretrained weights are not distributed here. Obtain them through the providers under their applicable access and reuse terms for image-level retraining.
 
-The numerical modules contain aggregate cells and also coded record/group identifiers, diagnostic labels, frozen predictions/selections, and raw diagnostic-field slices. They support exact joins and grouped replay. This is therefore **not an aggregate-only release**, even though older module documentation described an earlier aggregate-only package. The private repository setting has been retained; this upload does not establish permission for subsequent public redistribution of provider-derived records.
+The numerical modules contain aggregate cells and also coded record/group identifiers, diagnostic labels, frozen predictions/selections, and raw diagnostic-field slices. They support exact joins and grouped replay. This is therefore **not an aggregate-only release**, even though older module documentation described an earlier aggregate-only package. The repository is public. Provider-derived records remain subject to their source access and reuse terms; repository visibility does not assign a new license to those records.
 
 No new clinical adjudication was performed. Missing confirmation-type metadata is reported as unspecified, not as proof of absent clinical assessment. Endpoint eligibility was fixed using existing records before replay; eligible diagnoses/subtypes are then withheld from the verifier until a group query. Excluded records are not assigned hypothetical cancer labels in compatible completions.
 

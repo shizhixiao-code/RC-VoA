@@ -25,7 +25,7 @@ python run_reproduction.py --suite quick
 python run_reproduction.py --suite standard
 ```
 
-The repository is currently **private**. Cloning requires an authorized GitHub account; repository visibility does not grant redistribution rights to underlying provider data.
+The repository is **public**. Original images and pretrained weights are obtained separately under their providers' terms; see [`docs/DATA_ACCESS.md`](docs/DATA_ACCESS.md).
 
 Each command creates a new directory under `runs/`, copies only the needed modules there, and writes logs plus `REPLAY.json`. A successful run ends with `PASS` and the receipt path. Published inputs/results are not overwritten. Use `--work-dir PATH` to choose another run location. Do not run the legacy module commands directly inside the checked-in folders if you want to preserve their archived outputs.
 
