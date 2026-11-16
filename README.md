@@ -2,7 +2,7 @@
 
 Reproducibility materials for **RC-VoA: Certified Allocation Auditing and Verification for Skin-Lesion Imaging**.
 
-This release matches the **15 November 2026** manuscript revision (8-page main paper and 5-page supplement). It includes the latest **26,025-allocation quota experiment** and **complete-case endpoint analysis**. Paper identity and input archive hashes are recorded in [`docs/MANUSCRIPT_VERSION.json`](docs/MANUSCRIPT_VERSION.json).
+This release matches the **17 November 2026** manuscript revision (8-page main paper and 5-page supplement). It includes the latest **26,025-allocation quota experiment** and **complete-case endpoint analysis**. Supplementary tables are numbered SI–SVIII in order of appearance. The submission snapshot is tagged `submission-2026-11-17`. Paper identity and input archive hashes are recorded in [`docs/MANUSCRIPT_VERSION.json`](docs/MANUSCRIPT_VERSION.json).
 
 中文说明：本仓库可用冻结预测/决策和终点数据重算论文中的分配审计、配额诊断与 complete-case 结果。无需原始图像或 GPU。快速检查主要核对已有结果；完整数值重算与原始模型重新训练是不同层次，见下方命令与范围说明。
 

@@ -1,4 +1,4 @@
-"""Reconstruct current SI VI-B and VIII from original endpoint records/results."""
+"""Reconstruct current supplementary Tables VIII-B and V from original endpoint records/results."""
 from pathlib import Path
 from collections import Counter
 import argparse,csv,json
@@ -35,10 +35,10 @@ def main():
             found={r['family']:int(r['feasible']) for r in rows if r['setting']==setting and int(r['imaging_pct'])==budget}
             assert found=={'source_SP':27,'primary':1,'repaired':expected}
             table.append(dict(setting=setting,imaging_pct=budget,**found))
-    write(a.output_dir/'Table_SVI_B.csv',table)
-    write(a.output_dir/'Table_SVIII_counts.csv',counts)
-    write(a.output_dir/'Table_SVIII_recorded_bases.csv',bases)
-    receipt={'status':'PASS','scope':'Archived-result and raw-field summarization; use endpoints suite for allocation/MILP replay','table_SVI_B':table,'external_counts':counts}
+    write(a.output_dir/'Table_SVIII_B.csv',table)
+    write(a.output_dir/'Table_SV_counts.csv',counts)
+    write(a.output_dir/'Table_SV_recorded_bases.csv',bases)
+    receipt={'status':'PASS','scope':'Archived-result and raw-field summarization; use endpoints suite for allocation/MILP replay','table_SVIII_B':table,'external_counts':counts}
     (a.output_dir/'CHECK.json').write_text(json.dumps(receipt,indent=2),encoding='utf8')
     print(json.dumps(receipt,indent=2))
 if __name__=='__main__':main()

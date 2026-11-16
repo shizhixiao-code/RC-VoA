@@ -1,0 +1,78 @@
+{
+  "status": "PASS",
+  "scope": "Archived-result and raw-field summarization; use endpoints suite for allocation/MILP replay",
+  "table_SVIII_B": [
+    {
+      "setting": "reference",
+      "imaging_pct": 15,
+      "source_SP": 27,
+      "primary": 1,
+      "repaired": 14
+    },
+    {
+      "setting": "reference",
+      "imaging_pct": 20,
+      "source_SP": 27,
+      "primary": 1,
+      "repaired": 14
+    },
+    {
+      "setting": "AK_noncancer",
+      "imaging_pct": 15,
+      "source_SP": 27,
+      "primary": 1,
+      "repaired": 14
+    },
+    {
+      "setting": "AK_noncancer",
+      "imaging_pct": 20,
+      "source_SP": 27,
+      "primary": 1,
+      "repaired": 14
+    },
+    {
+      "setting": "endpoint_complete_case",
+      "imaging_pct": 15,
+      "source_SP": 27,
+      "primary": 1,
+      "repaired": 13
+    },
+    {
+      "setting": "endpoint_complete_case",
+      "imaging_pct": 20,
+      "source_SP": 27,
+      "primary": 1,
+      "repaired": 13
+    }
+  ],
+  "external_counts": [
+    {
+      "cohort": "MRA",
+      "N": 891,
+      "explicit_AK": 51,
+      "other_excluded": 37,
+      "complete_case_N": 803
+    },
+    {
+      "cohort": "HIBA",
+      "N": 298,
+      "explicit_AK": 15,
+      "other_excluded": 0,
+      "complete_case_N": 283
+    },
+    {
+      "cohort": "UQ",
+      "N": 7756,
+      "explicit_AK": 16,
+      "other_excluded": 65,
+      "complete_case_N": 7675
+    },
+    {
+      "cohort": "MCR-SL",
+      "N": 223,
+      "explicit_AK": 10,
+      "other_excluded": 5,
+      "complete_case_N": 208
+    }
+  ]
+}

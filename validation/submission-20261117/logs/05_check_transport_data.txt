@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "full_table_rows": 36,
+  "fold_and_pooled_operating_rows": 228,
+  "calibration_threshold_rows": 60,
+  "frontier_rows": 27516,
+  "bootstrap_interval_rows": 1728,
+  "complete_audit_rows": 1296,
+  "Table_SV_baseline_minus_final_rows": 12,
+  "legacy_filename_note": "Table_SIV_full.csv is the original filename; its current manuscript display is Table SV."
+}

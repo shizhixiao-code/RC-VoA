@@ -1,11 +1,11 @@
 {
   "title": "RC-VoA: Certified Allocation Auditing and Verification for Skin-Lesion Imaging",
-  "revision": "2026-11-15 endpoint eligibility, complete-case and public repository revision",
+  "revision": "2026-11-17 submission layout and sequential supplementary table numbering",
   "main_pages": 8,
   "supplement_pages": 5,
   "pdf_sha256": {
-    "RCVoA_Main_AuthorOrderConfirmed.pdf": "115aade513415292d2c717a717fc2b09ca19c0c89661f27ed927ab6977f24525",
-    "RCVoA_Supplement_AuthorOrderConfirmed.pdf": "c1d0c283646738395b8f2d33bbe5bf1189595c6e5119cee7cccc5dd3464e1e79"
+    "RCVoA_Main_AuthorOrderConfirmed.pdf": "fa04d414efd7c9f6e47ae5f2c712de0d420ff1378722b2b12a39fc758182b8be",
+    "RCVoA_Supplement_AuthorOrderConfirmed.pdf": "bc8e4240e8b256c36f8c7834c038ec5bb755230485be0a3d9cd256f8247022bb"
   },
   "sources": [
     {
@@ -23,5 +23,17 @@
       "sha256": "31e0f2323dc6f5ffc15fc8a9940ac08168cdb52546c6afde9bd80e6179b2a475",
       "bytes": 9379117
     }
+  ],
+  "git_tag": "submission-2026-11-17",
+  "scientific_results_changed": false,
+  "supplement_table_order": [
+    "SI matched cascades",
+    "SII system/cohort feasibility",
+    "SIII clinical consequences",
+    "SIV constraint ablation",
+    "SV endpoint provenance",
+    "SVI interval/exact verification",
+    "SVII threshold transport",
+    "SVIII source-training and endpoint sensitivity"
   ]
 }

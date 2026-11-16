@@ -1,3 +1,7 @@
+# Submission update — 17 November 2026
+
+`submission-20261117/` records the PASS result of the six-step quick suite after updating the manuscript identity and supplementary-table exports. Scientific input files and expected numeric results are unchanged. A clean build of the local submission source reproduced all 13 final PDF pages pixel-for-pixel, with 64 reciprocal links. The full solver/training suites were not rerun for these presentation-only changes.
+
 # Delivery validation — 15 November 2026
 
 Validated on Python 3.13.14 / Windows, NumPy 2.5.1, pandas 3.0.5, SciPy 1.18.0. See the receipts and individual subprocess logs for measured durations and exact commands. Absolute delivery paths are replaced with `<REPOSITORY>` and `<RUN_DIR>`.

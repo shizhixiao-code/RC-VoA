@@ -1,0 +1,7 @@
+setting,imaging_pct,source_SP,primary,repaired
+reference,15,27,1,14
+reference,20,27,1,14
+AK_noncancer,15,27,1,14
+AK_noncancer,20,27,1,14
+endpoint_complete_case,15,27,1,13
+endpoint_complete_case,20,27,1,13

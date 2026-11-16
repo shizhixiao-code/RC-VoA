@@ -1,0 +1,25 @@
+{
+  "Main": {
+    "pages": 8,
+    "all_pages_pixel_identical_to_final": true,
+    "sha256": "fa04d414efd7c9f6e47ae5f2c712de0d420ff1378722b2b12a39fc758182b8be"
+  },
+  "Supplement": {
+    "pages": 5,
+    "all_pages_pixel_identical_to_final": true,
+    "sha256": "bc8e4240e8b256c36f8c7834c038ec5bb755230485be0a3d9cd256f8247022bb"
+  },
+  "repository_changed_previous_manifest_entries": [
+    "docs/MANUSCRIPT_VERSION.json",
+    "docs/RESULTS_MAP.md",
+    "README.md",
+    "scripts/summarize_endpoints.py"
+  ],
+  "new_manifest_entries": [
+    "docs/REVISION_20261117.md"
+  ],
+  "source_files": 69,
+  "validation_date": "2026-11-17",
+  "quick_suite_status": "PASS",
+  "clean_build_cross_pdf_links": 64
+}
